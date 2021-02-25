@@ -1,0 +1,71 @@
+---
+id: 485
+title: 'PART 2: Better Basketball: Professional Club Teams.'
+date: 2010-09-01T21:00:08+00:00
+author: Brandon Hundt
+layout: post
+guid: http://rachelbrandon.com/?p=485
+permalink: /part-2-better-basketball-professional-club-teams/
+categories:
+  - Brandon
+  - Sports
+tags:
+  - Basketball
+  - NBA
+  - Sports Reform
+---
+In [Part 1](/part-1-saving-american-basketball), I laid out the some of the problems facing amateur basketball in the United States. I highly recommend reading [Part 1](/part-1-saving-american-basketball) first.
+
+I fully acknowledge that a new system for basketball is extremely controversial and would be tough to implement. But I don’t know if implementation after writing this post is the goal.<!--more--> It’s food for thought and I’d love to hear your comments on this. Yet, I do feel that a professional club based system would go a long way into allowing talent to grow.
+
+## A Club
+
+Let’s start with what constitutes a club. A club is a for-profit company that meets minimum standards set forth by a new governing body for North American Basketball. We will call them the NAB.
+
+It will be the job of the NAB to make sure that clubs meet certain certification standards. The way I envision it working is that each club would have a top side. These players would get paid, and have to sign contracts with a club. Also each club would be required to run a basketball academy for any player under the age of 18 (whether they are with the pro side or not). This could a school they start or even a partnership with a local school, but all of them will limited as to the amount of practice hours per week.
+
+Each club having the one professional side will then have youth development teams, as many as they want to field in U-21, U-18, U-16, U-14. In theory, the youth academies would be filled with local kids from a regional area. I can foresee multiple clubs in large cities like New York, LA, and Chicago, and clubs in rural areas like Cedar Rapids, Butte, and Fargo. Essentially, every American metropolitan area at or over 150,000 people could potentially have a local club with a professional side.
+
+As long as an owner pays the expansion fee and can remain profitable they are entered into a region based on their geographic location. I imagine there are five of these regions. East, South, Midwest, West, and Canada (you don’t want to exclude Toronto and Vancouver, eh?).
+
+Any club can buy any player from any club. Clubs will be able to go outside of their own region for players, but this would get expensive. Once again this means smaller regional clubs will have to invest in developing local talent in order to remain profitable. Each club would be smart to start an academy where they can always be raising up the next generation of players. The catch to this is that it gets rid of the NBA draft. Players start at local clubs working their way up the ladder to larger clubs.
+
+Also to help smaller or recently relegated clubs in remaining profitable and competitive, there would be 5% luxury tax on first and second division teams salaries. If your team spends $1 million on salary, you would pay the NAB $50,000 to be split equally amongst the teams in your region. It’s similar to the Big Ten splitting Bowl money, but will help teams stay afloat.
+
+## Regions and Divisions
+
+<div class="right">
+  <a href="http://rachel.brandonhundt.com/wp-content/uploads/2010/09/IMG_20100829_153740.jpg"><img class="alignright size-full wp-image-490" title="IMG_20100829_153740-sm" src="http://rachel.brandonhundt.com/wp-content/uploads/2010/09/IMG_20100829_153740-sm.jpg" alt="" width="250" height="335" srcset="https://rachelbrandon.com/wp-content/uploads/2010/09/IMG_20100829_153740-sm.jpg 250w, https://rachelbrandon.com/wp-content/uploads/2010/09/IMG_20100829_153740-sm-223x300.jpg 223w" sizes="(max-width: 250px) 100vw, 250px" /></a></p> 
+  
+  <p class="wp-caption-text">
+    Clearly, whiteboards are helpful.
+  </p>
+</div>
+
+I previously mentioned that each club will belong to a region. This is because the U.S. is just too darned large for affordable cross country travel for smaller clubs. It will also ensure that no one region dominates a specific division, meaning that’s there as many Southern clubs represented in the top division as Eastern Clubs.
+
+I think there would be three top divisions. The top division would be the NBA. It would consist of two Canadian clubs, and seven clubs from each of the four American divisions, adding up to 30 clubs. The NBA season would then consist of 58 games. A home and road against the all the other clubs in the division. The bottom team from each division would then get relegated to the second division for the next season.
+
+For example, if the Minnesota Timberwolves finish with the lowest record out of the Midwestern teams (like they did this year), then they would be relegated to the second division for the next season. They would have to earn their way back into the NBA.
+
+The second division would be called the ABA (a nice historic name). Their format would be identical to that of the NBA, with the exception that the top finisher from each region would be promoted to the NBA, and the bottom finisher relegated to the third division.
+
+The third division would be known as the Regionals. Each region would then play a league schedule consisting of 30 clubs, with the top finisher advancing to the ABA. Thus each American Region would be represented by 30 clubs in the third division, seven clubs in the ABA, and seven clubs in the NBA in any season, or 44 clubs per region. That adds up to 180 teams in the U.S. If that’s not enough and even smaller regions start creating clubs, the regions may need divide into divisions, creating a fourth division. But that could be risky.
+
+Canada would have a third division with up to 30 teams, and two clubs in the ABA, and two clubs in the NBA in every season. I just find it hard for them to field 44 profitable clubs, because there aren’t 44 big cities in Canada, there’s like 15. Maybe they’ll need to dip into Alaska, the Dakotas, or even Latin America or Mexico to fill out their third divisions.
+
+It would then be possible for a third division club to go from the third division to the first division in a matter of 2 years. That would be a wonderful story. A modern day Hoosiers.
+
+## The America Cup: March Madness at its best!
+
+However, that would be difficult. A better format for a Hoosiers story would be to have a monster American Cup each year that pits the big boys versus the smaller clubs. All 180 American clubs would participate and it would continue until one team is standing. I imagine another blog post would have describe the format for this one. But it would fill in the void left from a now irrelevant NCAA tournament.
+
+Any way you look at it, every game matters. Let a few too many slip by and you could go down a division or lose your chance at promotion. Regional pride will be strong, like it is in college basketball. I can imagine fans pulling for their hometown club and one powerhouse club.
+
+## Conclusion
+
+I will admit that this system is not perfect, but I think America is hungry for this type of set up. All over the sports world teams with legitimate title claims continue to get snubbed (such as Boise St. and TCU). There are major American cities that will never get a chance to hoist a major pro sports trophy (Louisville) when similar sized mid-sized cities like Indianapolis, Cincinnati, and Pittsburgh get the “glory”. A Triple A baseball team will never have at least one season in the MLB sun. Fans would flock for this. It creates a better story.
+
+However, there will be some fan pushback, especially those so love their college sides and the tradition that comes with it. Yet, this system wouldn’t automatically make college and high school sports obsolete, it would just allow the best players to move on, and play where’s it best for them. It is already done in baseball, hockey, and soccer. Why should basketball be any different?
+
+The biggest challenge to this is that, realistically, the current NBA owners wouldn’t go for this, just because the concept is not typically American. NBA owners don’t like uncertainty. They want to guarantee their places, win or lose. However, there is money the sooner they start to invest in future talent. The NBA will be a stronger league. Otherwise their teams will consist only of Europeans and South Americans who don’t draw at the gate as well as homegrown talent.
