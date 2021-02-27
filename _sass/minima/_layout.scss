@@ -1,3 +1,36 @@
+@mixin background-image {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  padding: 100px 0 50px;
+  border-bottom: 1px solid $drk-blue;
+}
+
+@mixin background-image-before {
+  content: "";
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  background-image: url(/assets/bg_pattern.png);
+  background-repeat: repeat;
+  background-color: rgba(0, 58, 87, 0.5);
+}
+
+@mixin header-over-background {
+  position: relative;
+  color: #fff;
+  text-shadow: 0 1px 1px $drk-blue;
+  margin: 0 0 0.5em;
+  font-size: 2.25em;
+  line-height: 1.25;
+}
+
 /**
  * Site header
  */
@@ -6,6 +39,9 @@
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
   text-align: center;
+  background-color: #fff;
+  position: relative;
+  z-index: 100;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -155,6 +191,9 @@
   border-top: 1px solid $border-color-01;
   padding: $spacing-unit 0;
   text-align: center;
+  position: relative;
+  z-index: 100;
+  background: #fff;
 
   ul {
     list-style: none;
@@ -256,10 +295,73 @@
 
 .post-list {
   margin-left: 0;
+  margin-bottom: 0;
+  background: $drk-blue;
   list-style: none;
+  display: grid;
+  grid-gap: 0;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-auto-rows: 400px;
+  grid-auto-flow: dense;
 
-  >li {
-    margin-bottom: $spacing-unit;
+
+  li {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 1px solid $drk-blue;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    transform: rotate(1deg);
+
+    &:nth-child(even) {
+      transform: rotate(-1deg);
+      background: $blue;
+    }
+
+    &.post-teaser-has-image {
+      @include background-image();
+      margin: 0;
+      padding: 0;
+    }
+
+    &:before {
+      @include background-image-before();
+    }
+
+    .post-content {
+      padding: 50px 25px 10px;
+    }
+
+    .post-content {
+      @include header-over-background();
+
+
+      h3 {
+        position: relative;
+        font-size: 1.5em;
+        margin-top: 10px;
+        margin-bottom: 20px;
+
+        a {
+          color: #fff;
+
+          &:hover {
+            color: #eee;
+          }
+        }
+      }
+
+      .post-meta {
+        position: relative;
+        font-size: 18px;
+        color: #eee;
+        display: block;
+      }
+    }
   }
 }
 
@@ -283,42 +385,21 @@
 
 
   &.post-header-is-image {
-    position: relative;
-    height: 100%;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-size: cover;
-    padding: 100px 0 50px;
-    border-bottom: 1px solid $drk-blue;
+    @include background-image();
 
-    &::before {
-      content: "";
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
-      background-image: url(/assets/bg_pattern.png);
-      background-repeat: repeat;
-      background-color: rgba(0, 58, 87, 0.5);
+    &:before {
+      @include background-image-before();
     }
 
     h1 {
-      position: relative;
-      color: #fff;
-      text-shadow: 0 1px 1px $drk-blue;
-      margin: 0 0 0.5em;
-      font-size: 2.25em;
-      line-height: 1.25;
+      @include header-over-background();
     }
+  }
 
-    .post-meta {
-      position: relative;
-      color: #eee;
-      text-shadow: 0 1px 1px $drk-blue;
-    }
+  .post-meta {
+    position: relative;
+    color: #eee;
+    text-shadow: 0 1px 1px $drk-blue;
   }
 }
 

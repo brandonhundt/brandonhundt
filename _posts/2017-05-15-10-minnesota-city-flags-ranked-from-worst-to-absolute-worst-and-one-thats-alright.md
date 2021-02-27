@@ -13,6 +13,8 @@ categories:
   - Geography
 tags:
   - flags
+excerpt:
+  - The only thing rarer than the sight of the majestic common loon on a Minnesota city lake is the actual sighting of a Minnesota city flag atop a flagpole.
 ---
 The only thing rarer than the sight of the majestic common loon on a Minnesota city lake is the actual sighting of a Minnesota city flag atop a flagpole.<!--more-->
 
