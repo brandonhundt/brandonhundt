@@ -12,5 +12,7 @@ categories:
   - Media
   - Politics
 ---
-tldr; [1] Support news orgs — [2] especially local ones. [3] Don’t let the social media firehose be your only source of news. [4] Sleep  
+tldr; [1] Support news orgs — [2] especially local ones. [3] Don’t let the social media firehose be your only source of news. [4] Sleep
 <!--more-->
+
+[Read the full post on Medium](https://medium.com/@BrandonHundt/advice-on-how-to-be-a-well-informed-news-consumer-96eeb55f49d9#.tu8nejhqv)

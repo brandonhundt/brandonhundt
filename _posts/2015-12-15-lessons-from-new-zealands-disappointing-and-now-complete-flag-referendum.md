@@ -18,4 +18,4 @@ tags:
 ---
 New Zealanders finally completed voting in their flag referendum, but the results may be disappointing. PRI's vexillology expert looks at what's right — and mostly what's wrong — about this proposal.<!--more-->
 
-https://www.pri.org/stories/2015-12-14/lessons-new-zealand-s-disappointing-and-now-complete-flag-referendum
+[Read the full post on PRI.org](https://www.pri.org/stories/2015-12-14/lessons-new-zealand-s-disappointing-and-now-complete-flag-referendum)

@@ -18,8 +18,4 @@ tags:
 ---
 New Zealand is in the process of updating its flag. Our resident flag enthusiast weighs in on the choices.<!--more-->
 
-https://www.pri.org/stories/2015-08-11/new-zealand-set-fly-new-flag-check-out-some-proposals
-
-https://www.pri.org/stories/2015-09-01/its-down-four-new-zealand-panel-unveils-alternate-flag-options-largely-negative
-
-https://www.pri.org/stories/2015-12-14/lessons-new-zealand-s-disappointing-and-now-complete-flag-referendum
+[Read the full post on PRI.org](https://www.pri.org/stories/2015-08-11/new-zealand-set-fly-new-flag-check-out-some-proposals)

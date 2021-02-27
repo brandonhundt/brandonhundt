@@ -18,4 +18,4 @@ tags:
 ---
 Kiwis aren't showing their enthusiasm toward the final four alternate flags they'll be allowed to choose between. We analyze the results.<!--more-->
 
-https://www.pri.org/stories/2015-09-01/its-down-four-new-zealand-panel-unveils-alternate-flag-options-largely-negative
+[Read the full post on PRI.org](https://www.pri.org/stories/2015-09-01/its-down-four-new-zealand-panel-unveils-alternate-flag-options-largely-negative)
