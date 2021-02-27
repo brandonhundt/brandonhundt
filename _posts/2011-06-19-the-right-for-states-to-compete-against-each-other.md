@@ -15,10 +15,10 @@ tags:
   - states
   - tournament
 ---
-In a [recent blog post](http://rachelbrandon.com/why-not-my-quest-to-realign-the-50-states/) I redrew the imaginary lines that make up the 50 states. This exercise created a buzz of discussion (8 comments is a lot for this blog) and brought out some state pride and disagreement from the readers. I would like the readership to know that I’m prepared to stand behind, on top of, or in the map I redrew with a few adjustments based on the received feedback.  
+In a [recent blog post](http://rachelbrandon.com/why-not-my-quest-to-realign-the-50-states/) I redrew the imaginary lines that make up the 50 states. This exercise created a buzz of discussion (8 comments is a lot for this blog) and brought out some state pride and disagreement from the readers. I would like the readership to know that I’m prepared to stand behind, on top of, or in the map I redrew with a few adjustments based on the received feedback.
 <!--more-->
 
-  
+
 Although this post will not be entirely about new borders. If you stay tuned long enough, I promise to get to an idea that will prove to be less controversial, yet will stoke statewide passions to levels seldom seen since the Civil War.
 
 ASIDE #1: Adjustments will include: Delaware taking over the entire [Delmarva Peninsula](http://en.wikipedia.org/wiki/Delmarva_Peninsula) (thanks for this suggestion [Nate](http://nathan-s-thompson.blogspot.com/)) and South Dakota taking over Pima County, AZ, thus doubling the size of North Dakota (thanks for the tip, [Der Struwwelpeter](http://mindofmaus.wordpress.com/)). If you are interested in reading further about the movement for a new state called Baja Arizona, [read this article](http://www.economist.com/node/18486323).
@@ -43,7 +43,7 @@ Let’s look at the merits of each to help us make a decision. Football: is the 
 
 Baseball’s popularity is sagging and the warm weather states have a big advantage. It also doesn’t fair well monetarily outside of MLB.
 
-That’s why I’m deciding on basketball. It’s indoors, played in all states, and will allow for the underdog to sneak up. I’m not going to sleep on Iowa’s Heinrich, Collision, and Korver or Alaska&#8217;s Boozer, Chalmers, and Trajan Langdon (still going strong in Europe). But I like even better the thoughts of Rose, Wade, Marion, Igodala, and Brian Cardinal teaming up for Illinois. Finally, Wade has the supporting cast to win a championship!
+That’s why I’m deciding on basketball. It’s indoors, played in all states, and will allow for the underdog to sneak up. I’m not going to sleep on Iowa’s Heinrich, Collision, and Korver or Alaska's Boozer, Chalmers, and Trajan Langdon (still going strong in Europe). But I like even better the thoughts of Rose, Wade, Marion, Igodala, and Brian Cardinal teaming up for Illinois. Finally, Wade has the supporting cast to win a championship!
 
 ### How this Competition will Work
 
@@ -56,284 +56,284 @@ Ideally, a 16 team knock phase works best. Therefore we need to divide the 50 st
     <td>
       <strong>Northeast<br /> </strong>
     </td>
-    
+
     <td style="padding: 3px;">
       <strong>Mid-Atlantic</strong>
     </td>
-    
+
     <td style="padding: 3px;">
       <strong>Southeast</strong>
     </td>
-    
+
     <td style="padding: 3px;">
       <strong>Midwest</strong>
     </td>
-    
+
     <td style="padding: 3px;">
       <strong>Mid-South</strong>
     </td>
-    
+
     <td style="padding: 3px;">
       <strong>Plains</strong>
     </td>
-    
+
     <td style="padding: 3px;">
       <strong>Southwest</strong>
     </td>
-    
+
     <td style="padding: 3px;">
       <strong>Northwest</strong>
     </td>
   </tr>
-  
+
   <tr>
     <td>
       ME
     </td>
-    
+
     <td>
       NY
     </td>
-    
+
     <td>
       NC
     </td>
-    
+
     <td>
       MN
     </td>
-    
+
     <td>
       MO
     </td>
-    
+
     <td>
       TX
     </td>
-    
+
     <td>
       CA
     </td>
-    
+
     <td>
       AK
     </td>
   </tr>
-  
+
   <tr>
     <td>
       NH
     </td>
-    
+
     <td>
       NJ
     </td>
-    
+
     <td>
       SC
     </td>
-    
+
     <td>
       WI
     </td>
-    
+
     <td>
       KY
     </td>
-    
+
     <td>
       OK
     </td>
-    
+
     <td>
       NV
     </td>
-    
+
     <td>
       WA
     </td>
   </tr>
-  
+
   <tr>
     <td>
       VT
     </td>
-    
+
     <td>
       PA
     </td>
-    
+
     <td>
       GA
     </td>
-    
+
     <td>
       IA
     </td>
-    
+
     <td>
       TN
     </td>
-    
+
     <td>
       KS
     </td>
-    
+
     <td>
       AZ
     </td>
-    
+
     <td>
       OR
     </td>
   </tr>
-  
+
   <tr>
     <td>
       MA
     </td>
-    
+
     <td>
       DE
     </td>
-    
+
     <td>
       FL
     </td>
-    
+
     <td>
       IL
     </td>
-    
+
     <td>
       LA
     </td>
-    
+
     <td>
       NE
     </td>
-    
+
     <td>
       NM
     </td>
-    
+
     <td>
       ID
     </td>
   </tr>
-  
+
   <tr>
     <td>
       RI
     </td>
-    
+
     <td>
       MD
     </td>
-    
+
     <td>
       AL
     </td>
-    
+
     <td>
       IN
     </td>
-    
+
     <td>
       AR
     </td>
-    
+
     <td>
       SD
     </td>
-    
+
     <td>
       UT
     </td>
-    
+
     <td>
       MT
     </td>
   </tr>
-  
+
   <tr>
     <td>
       CT
     </td>
-    
+
     <td>
       VA
     </td>
-    
+
     <td>
       MS
     </td>
-    
+
     <td>
       MI
     </td>
-    
+
     <td>
       WV
     </td>
-    
+
     <td>
       ND
     </td>
-    
+
     <td>
       HI
     </td>
-    
+
     <td>
       WY
     </td>
   </tr>
-  
+
   <tr>
     <td>
       &#8212;
     </td>
-    
+
     <td>
       &#8212;
     </td>
-    
+
     <td>
       &#8212;
     </td>
-    
+
     <td>
       OH
     </td>
-    
+
     <td>
       &#8212;
     </td>
-    
+
     <td>
       &#8212;
     </td>
-    
+
     <td>
       CO
     </td>
-    
+
     <td>
-      &#8211;
+      -
     </td>
   </tr>
 </table>
 
 So in each group, each state plays the other states in their region once. This stage would take two weeks (with a game every other day) at a site within each region (reducing travel). The knock-out rounds will occur over the third and fourth weeks of the competition. This is how the final bracket will be set up:
 
-<img class="alignleft size-full wp-image-712" style="margin: 0 0 1em;" title="states-right-bracket" src="http://rachel.brandonhundt.com/wp-content/uploads/2011/06/states-right-bracket.jpg" alt="" width="679" height="382" srcset="https://rachelbrandon.com/wp-content/uploads/2011/06/states-right-bracket.jpg 679w, https://rachelbrandon.com/wp-content/uploads/2011/06/states-right-bracket-300x168.jpg 300w" sizes="(max-width: 679px) 100vw, 679px" /> 
+<img class="alignleft size-full wp-image-712" style="margin: 0 0 1em;" title="states-right-bracket" src="http://rachel.brandonhundt.com/wp-content/uploads/2011/06/states-right-bracket.jpg" alt="" width="679" height="382" srcset="https://rachelbrandon.com/wp-content/uploads/2011/06/states-right-bracket.jpg 679w, https://rachelbrandon.com/wp-content/uploads/2011/06/states-right-bracket-300x168.jpg 300w" sizes="(max-width: 679px) 100vw, 679px" />
 
 <div style="clear: both; margin: 1em 0;">
   <p>
-    I believe this yet to be named competition (maybe <em>States Rights B-Ball Blowout?</em>) would be fun. I even think it has a market to make some serious news and money. Also, please think of how comically and irrationally the fans will take this competition. If an Alabama fan would <a href="http://www.tuscaloosanews.com/article/20110216/news/110219686">poison the trees</a> on in-state’s Auburn’s campus, just think of the extreme measure they would take against Florida, Georgia, or Mississippi! (I&#8217;m not to promoting vandalism or violence between fans. This is actually quite sad.)
+    I believe this yet to be named competition (maybe <em>States Rights B-Ball Blowout?</em>) would be fun. I even think it has a market to make some serious news and money. Also, please think of how comically and irrationally the fans will take this competition. If an Alabama fan would <a href="http://www.tuscaloosanews.com/article/20110216/news/110219686">poison the trees</a> on in-state’s Auburn’s campus, just think of the extreme measure they would take against Florida, Georgia, or Mississippi! (I'm not to promoting vandalism or violence between fans. This is actually quite sad.)
   </p>
-  
+
   <p>
     To wrap up I would love to hear your thoughts on if you feel this competition sounds interesting enough and if you feel it can succeed&#8230;
   </p>

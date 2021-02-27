@@ -1,6 +1,6 @@
 ---
 id: 1320
-title: 'Minneapolis&#8217; love/hate relationship with the skyway, and how to make it suck a lot less (City Pages Version)'
+title: "Minneapolis' love/hate relationship with the skyway, and how to make it suck a lot less (City Pages Version)"
 date: 2017-02-17T12:22:59+00:00
 author: Brandon Hundt
 layout: post
@@ -12,11 +12,11 @@ categories:
   - Design
   - Geography
 ---
-Minneapolis has 11 miles&#8217; worth of skyways, <a href="https://en.wikipedia.org/wiki/Minneapolis_Skyway_System" rel="external" rel="noopener">according to Wikipedia</a>, making it the largest skyway system in the world.
+Minneapolis has 11 miles' worth of skyways, <a href="https://en.wikipedia.org/wiki/Minneapolis_Skyway_System" rel="external" rel="noopener">according to Wikipedia</a>, making it the largest skyway system in the world.
 
 <!--more-->
 
-_**Editor&#8217;s Note: This post is an edited summation of my previous Skyway Map and Signage posts that appeared in [City Pages](http://www.citypages.com/news/minneapolis-lovehate-relationship-with-the-skyway-and-how-to-make-it-suck-a-lot-less/414065113). RIP, City Pages.**_
+_**Editor's Note: This post is an edited summation of my previous Skyway Map and Signage posts that appeared in [City Pages](http://www.citypages.com/news/minneapolis-lovehate-relationship-with-the-skyway-and-how-to-make-it-suck-a-lot-less/414065113). RIP, City Pages.**_
 
 Take that EVERY OTHER CITY.
 
@@ -41,13 +41,13 @@ Hate:
 
 Seriously, here is the official skyway map. It’s almost impossible to follow the walking path (marked in red), but you can clearly follow the path of Nicollet Mall, in all its curviness… for some reason.
 
-<img src="http://stmedia.startribune.com/images/ctyp+skyway+map+cutout.PNG" alt="" width="1155" height="531" /> 
+<img src="http://stmedia.startribune.com/images/ctyp+skyway+map+cutout.PNG" alt="" width="1155" height="531" />
 
 And here is an example of the signage:<img src="http://stmedia.startribune.com/images/ctyp+skyway+sign+water.PNG" alt="" width="824" height="512" />
 
 Ugh. Everything is wrong.
 
-It’s like these were done in the &#8217;90s when Photoshop first came out, and someone realized they could make water-like textures. So they did. And then 20 years went by, and the same sign was still hanging there.
+It’s like these were done in the '90s when Photoshop first came out, and someone realized they could make water-like textures. So they did. And then 20 years went by, and the same sign was still hanging there.
 
 Let’s just say that we can do better, Minneapolis. Much better! And not just for the sake of whiny sportswriters who will descend upon the city next year. For all of us.
 
@@ -72,14 +72,14 @@ Today we couldn’t imagine a subway system mapped any other way.
 
 Let’s apply Vignelli’s principles to the skyway and its jagged edges. First, identify what matters to the skyway user.
 
-1. **Buildings**, the skyway’s equivalent to a subway stop.  
-2. **Skyways**, the routes connecting the stops.  
-3. **Destinations**. The skyway walker doesn’t need to know north from south or east from west. (The city’s downtown grid runs northwest and southeast, anyway.) Instead, they should know they’re headed in the correct direction and getting closer to their intended location.  
-4. **Distance**. Skyway users are, for the most part, walking. This means we can’t completely ignore the concept of distance. While not needing to provide exact distances, we don’t want to be wildly wrong, either.  
+1. **Buildings**, the skyway’s equivalent to a subway stop.
+2. **Skyways**, the routes connecting the stops.
+3. **Destinations**. The skyway walker doesn’t need to know north from south or east from west. (The city’s downtown grid runs northwest and southeast, anyway.) Instead, they should know they’re headed in the correct direction and getting closer to their intended location.
+4. **Distance**. Skyway users are, for the most part, walking. This means we can’t completely ignore the concept of distance. While not needing to provide exact distances, we don’t want to be wildly wrong, either.
 5. **Streets**. The skyway is in many ways an extension of, and connected to the street. Their blocks also form a good barometer of distance.
 
-Taking these into consideration, I created the following map:<img src="http://stmedia.startribune.com/images/ctyp+minneapolis+skyway+map.jpg" alt="" width="1152" height="1042" />  
-_(<a href="http://rachelbrandon.com/wp-content/uploads/2017/02/mpls-skyway-map-v1.pdf" rel="external" rel="noopener">Click here for a large PDF of Hundt&#8217;s Minneapolis skyway map</a>.)_
+Taking these into consideration, I created the following map:<img src="http://stmedia.startribune.com/images/ctyp+minneapolis+skyway+map.jpg" alt="" width="1152" height="1042" />
+_(<a href="http://rachelbrandon.com/wp-content/uploads/2017/02/mpls-skyway-map-v1.pdf" rel="external" rel="noopener">Click here for a large PDF of Hundt's Minneapolis skyway map</a>.)_
 
 Isn’t that so much more pleasant?
 
@@ -94,13 +94,13 @@ Even with a vastly improved grid, what good is a new map with the same old signs
 
 Here, look at these.
 
-<img src="http://stmedia.startribune.com/images/ctyp+skyway+signs1.jpg" alt="" width="612" height="466" /> 
+<img src="http://stmedia.startribune.com/images/ctyp+skyway+signs1.jpg" alt="" width="612" height="466" />
 
 I created these intending to fit the majority of signage that is currently in the skyway, though a recent walk revealed to me all kinds of unorthodox shapes hanging around. (The signs at both ends of Mayo Clinic Square [or Block E] are wave-shaped, for example.)
 
 In the new and improved skyway, these unorthodox shapes would be replaced with the rectangular version. They should just be taken down, period.
 
-<img src="http://stmedia.startribune.com/images/ctyp+skyway+sign+wavy.PNG" alt="" width="826" height="388" /> 
+<img src="http://stmedia.startribune.com/images/ctyp+skyway+sign+wavy.PNG" alt="" width="826" height="388" />
 
 So, imagine you’re walking into the buildings listed on the image above. The color indicates the route you’re on, with the name of the building you’re entering labeled in the center. Down the right side, you could see other (future) destinations along the same route, as marked with the same color, plus alternate routes you will encounter inside that building, as marked by their respective colors.
 
@@ -108,7 +108,7 @@ On the occasion that you’re entering the final building on a route and there a
 
 Let’s look at how signs would appear if you’re entering the City Center building, the one laced with the most skyway veins in all of downtown. There are no fewer than seven entrances to that building. I’ve mocked up five, to show this system can handle even the most complex of scenarios:
 
-<img src="http://stmedia.startribune.com/images/ctyp+skyway+signs2.jpg" alt="" width="612" height="626" /> 
+<img src="http://stmedia.startribune.com/images/ctyp+skyway+signs2.jpg" alt="" width="612" height="626" />
 
 The color schemes and additional building names look like a lot to take in all at once. But after a few passes (and with the aid of a clean map) they’d begin to make sense, and become second nature.
 

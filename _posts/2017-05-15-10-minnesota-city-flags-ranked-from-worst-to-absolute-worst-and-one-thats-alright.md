@@ -1,6 +1,6 @@
 ---
 id: 1274
-title: '10 Minnesota city flags, ranked from worst to absolute worst (and one that&#8217;s alright)'
+title: "10 Minnesota city flags, ranked from worst to absolute worst (and one that's alright)"
 date: 2017-05-15T23:09:09+00:00
 author: Brandon Hundt
 layout: post
@@ -24,9 +24,6 @@ Yet, that didn’t surprise me, because Minnesota is the land of 10,000 bad flag
 
 Consider this: Do you even know if your city has a flag? If not, that is an indication that the city’s flag is no good.
 
-<div class="youtube-wrapper">
-</div>
-
 And if you have seen your city’s flag, do you dare risk the scorn of your neighbors to fly it in front of your house? Based on this review of Minnesota city flags, I bet not.
 
 Flags matter to me. As a kid, I pored through atlases for hours at a time, and in so doing I developed a love of political geography. This blended well with my love of sports. I will watch almost any international sports competition with a particular enjoyment of the flag-raising ceremony.
@@ -35,16 +32,15 @@ So it pains me to see the sad state of political design in Minnesota. About a mo
 
 Before we get into the review, let us first consider what makes a good flag. The proud flag nerds of the North American Vexillological Association provide five helpful guidelines for differentiating between good flags and bad ones. Here they are verbatim:
 
-1.) **Keep It Simple.** The flag should be so simple that a child can draw it from memory…  
-2.) **Use Meaningful Symbolism.** The flag’s images, colors, or patterns should relate to what it symbolizes…  
-2.) **Use 2 or 3 Basic Colors.** Limit the number of colors on the flag to three which contrast well and come from the standard color set…  
-3.) **No Lettering or Seals.** Never use writing of any kind or an organization’s seal…  
+1.) **Keep It Simple.** The flag should be so simple that a child can draw it from memory…
+2.) **Use Meaningful Symbolism.** The flag’s images, colors, or patterns should relate to what it symbolizes…
+2.) **Use 2 or 3 Basic Colors.** Limit the number of colors on the flag to three which contrast well and come from the standard color set…
+3.) **No Lettering or Seals.** Never use writing of any kind or an organization’s seal…
 4.) **Be Distinctive or Be Related.** Avoid duplicating other flags, but use similarities to show connections…
 
 This shouldn’t be too hard. Let’s find out how Minnesota’s cities have done. I reviewed the flags of the 10 largest cities in Minnesota, plus Mankato. Why Mankato? Because it helps to prove my point.
 
-## No flag**  
-** 
+## No flag
 
 **St. Cloud**, our 10th largest city, does not have any official flag that I could find. Although, when searching for a flag on their city website, I did learn they have plenty of flag football leagues.
 
@@ -68,7 +64,7 @@ _[Yawn.]_
 
 _[Yawn.]_
 
-**Plymouth:<img src="http://stmedia.startribune.com/images/ctyp+plymouth+flag.jpg" alt="" width="800" height="815" />**  
+**Plymouth:<img src="http://stmedia.startribune.com/images/ctyp+plymouth+flag.jpg" alt="" width="800" height="815" />**
 _[Yawn.]_
 
 **Bloomington:<img src="http://stmedia.startribune.com/images/ctyp+bloomington+flag.jpg" alt="" width="800" height="581" />**
@@ -79,11 +75,13 @@ _[Starts yawning…]_ Oh! I’ve been awoken from my slumber. I suppose this fla
 
 **Duluth:**
 
-<img src="http://stmedia.startribune.com/images/ctyp+duluth+flag.png" alt="" width="400" height="267" /> 
+<img src="http://stmedia.startribune.com/images/ctyp+duluth+flag.png" alt="" width="400" height="267" />
 
 So close, yet so far away. Why is it that politicians can’t resist plopping seals over the tops of flags? “I think we really need a seal!” said no one ever. So how does this keep happening???&#8221;
 
-**St. Paul:<img src="http://stmedia.startribune.com/images/ctyp+st+paul+flag.png" alt="" width="650" height="488" />**
+**St. Paul:**
+
+<img src="http://stmedia.startribune.com/images/ctyp+st+paul+flag.png" alt="" width="650" height="488" />
 
 The capitol city loves it some collages. This flag could be really good, it has potential. But it ends up in mediocrity because there are just too many moving parts. Literally. Is that a flying tire?
 
@@ -95,7 +93,7 @@ The capitol city loves it some collages. This flag could be really good, it has 
 
 Maybe I just need to spell it out more plainly in the most Rochester font I can find…
 
-<img src="http://stmedia.startribune.com/images/ctyp+rochester+gif.gif" alt="" width="960" height="100" /> 
+<img src="http://stmedia.startribune.com/images/ctyp+rochester+gif.gif" alt="" width="960" height="100" />
 
 **Minneapolis:**
 

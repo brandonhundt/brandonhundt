@@ -3,13 +3,6 @@
     <data class="u-url" href="{{ " /" | relative_url }}"></data>
     <nav>
       <ul>
-        <li class="feed-subscribe">
-          <a href="{{ 'feed.xml' | relative_url }}">
-            <svg class="svg-icon">
-              <use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
-          </a>
-        </li>
         <li>
           <a href="/about">
             <use xlink:href="{{ '/assets/location-pin.svg' | relative_url }}"></use> About
@@ -24,6 +17,13 @@
           <a href="https://www.linkedin.com/in/brandon-hundt-1678989/"><svg class="svg-icon grey">
               <use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use>
             </svg> LinkedIn</a>
+        </li>
+        <li class="feed-subscribe">
+          <a href="{{ 'feed.xml' | relative_url }}">
+            <svg class="svg-icon grey">
+              <use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+            </svg><span>Subscribe</span>
+          </a>
         </li>
       </ul>
     </nav>

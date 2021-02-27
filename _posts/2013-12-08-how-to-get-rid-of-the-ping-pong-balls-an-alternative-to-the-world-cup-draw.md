@@ -23,7 +23,7 @@ Being a fan of the USMNT, it would be easy for me to sound off on my they were s
   * Both Spain and the Netherlands (champion and runner-up four years ago) didn’t lose a match in their final qualifying groups. Their reward? They drew each other in the same group with a tough Chile team.
   * France got off easy. With the way France “represented” themselves in the last World Cup, and how they needed a desperate win down two goals to even qualify (to their credit they did), they deserved a tougher group and NOT a free pass into the top 16.
   * Ghana deserved better. Being one of the top teams in qualifying from Africa and one of the better historic African performers at the World Cup, they didn’t deserve their draw.  Just look at their group. They got two top 5 world-ranked European teams and the CONCACAF top qualifier. That doesn’t seem right by any standard, especially when Cameroon, the lowest ranked African qualifier drew an easier (but not easy) group.
-  * Of note, the most difficult group has an average ranking of (as determined by the FIFA rankings): 11.25. The lowest ranking is: 28.25. That&#8217;s 17 spots. A serious disparity.
+  * Of note, the most difficult group has an average ranking of (as determined by the FIFA rankings): 11.25. The lowest ranking is: 28.25. That's 17 spots. A serious disparity.
 
 To sum up, the draw doesn’t take into account how a team got there, but its based simply on which confederation they belong to. Fortunately there is an easy solution I will now over explain.
 
@@ -41,15 +41,15 @@ This is not rocket science.
 
 The only catch is ensuring geographic diversity. The first conflict came with placing #20 Mexico, who would have been placed with the USA (the irony!), so I moved Mexico down, and filled in the open slot with the next ranked team (Bosnia-Herzegovina). Surprisingly, this only happened three times (as noted by the asterisks).
 
-Here&#8217;s how the final results would look:
+Here's how the final results would look:
 
-A: Spain (1), Croatia (16), Côte d’Ivoire (17), Australia (58)  
-B: Germany (2), Chile (15), France (19), South Korea (54)  
-C: Argentina (3), USA (14), Bosnia-Herzegovina* (21), Cameroon (51)  
-D: Colombia (4), England (13), Mexico* (20), Japan (48)  
-E: Portugal (5), Greece (12), Ecuador** (23), Iran (45)** **  
-F: Uruguay (6), Belgium (11), Russia\*\* (22), Nigeria (36)\*\**:  
-G: Italy (7), Brazil (10), Ghana (24), Honduras (41)\***  
+A: Spain (1), Croatia (16), Côte d’Ivoire (17), Australia (58)
+B: Germany (2), Chile (15), France (19), South Korea (54)
+C: Argentina (3), USA (14), Bosnia-Herzegovina* (21), Cameroon (51)
+D: Colombia (4), England (13), Mexico* (20), Japan (48)
+E: Portugal (5), Greece (12), Ecuador** (23), Iran (45)** **
+F: Uruguay (6), Belgium (11), Russia\*\* (22), Nigeria (36)\*\**:
+G: Italy (7), Brazil (10), Ghana (24), Honduras (41)\***
 H: Switzerland (8), Netherlands (9), Algeria (26), Costa Rica (31)
 
 These groups are fair and balanced leading to a great competition! Proof is that the average rankings of the groups falls between 18.75 and 23. That’s only five spots. So no group can be considered easy, and no group can claim to be that much harder than the others.

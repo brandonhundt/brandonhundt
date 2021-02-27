@@ -20,8 +20,8 @@ tags:
 ---
 While writing my recent post about <a href="/why-not-my-quest-to-realign-the-50-states/" rel="external">redrawing the state lines</a>, I came across a few maps featuring different layouts for maps. Three maps stood out that drew inspiration for a custom map themed wallpaper. The following is a list of the maps:<!--more-->
 
-  * A <a href="http://vladstudio.deviantart.com/art/Typographic-World-Map-106395788" rel="external">map of the world using typography</a> to create shape of countries. It&#8217;s well done.
-  * [Here&#8217;s a map](http://vectorstuff.blogspot.com/2009/10/usa-map-with-state-flags.html) made mostly blue state flags.
+  * A <a href="http://vladstudio.deviantart.com/art/Typographic-World-Map-106395788" rel="external">map of the world using typography</a> to create shape of countries. It's well done.
+  * [Here's a map](http://vectorstuff.blogspot.com/2009/10/usa-map-with-state-flags.html) made mostly blue state flags.
   * And the one that drew the greatest inspiration, the somewhat inaccurate <a href="http://mapscroll.blogspot.com/2009/04/baseball-map-of-america.html" rel="external">United States of Baseball</a>.
 
 Looking at these maps and the great variety of high quality textures found at <a href="http://lostandtaken.com" rel="external">lostandtaken.com</a>, I came up with a new wallpaper that showcases the patchwork nature, individuality, and cohesian that truly make _<a href="/wp-content/uploads/2011/07/US-in-texture.jpg" rel="external">the United States in Texture</a>_.

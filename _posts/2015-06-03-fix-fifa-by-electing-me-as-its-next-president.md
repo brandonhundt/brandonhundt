@@ -65,7 +65,7 @@ Here is the _**tl;dr**_ version of my platform as FIFA President:
     It would make a crap load of money for FIFA.
   </li>
   <li>
-    On my watch, the women’s World Cup would never ever be played on artificial turf, because it’d be played at the FIFA resort &#8211; on the nicest natural surface the billions in FIFA’s coffers can buy.
+    On my watch, the women’s World Cup would never ever be played on artificial turf, because it’d be played at the FIFA resort - on the nicest natural surface the billions in FIFA’s coffers can buy.
   </li>
 </ul>
 

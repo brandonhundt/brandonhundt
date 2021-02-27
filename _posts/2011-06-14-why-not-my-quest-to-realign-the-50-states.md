@@ -15,15 +15,15 @@ tags:
   - realignment
   - USA
 ---
-Rachel is currently in the Pittsburgh area of Pennsylvania working on a graduate degree. Naturally, I wanted to learn more about <a href="http://en.wikipedia.org/wiki/Pittsburgh" rel="external">Pittsburgh</a> (Geography nerd tag). Through Wikipedia (I didn’t mention thorough readings), I learned that Pittsburghians do not necessarily associate with the state of Pennsylvania. They are located at the edge of the Midwest, Northeast, Rust Belt, and Appalachia. One person even called them the ‘Paris of Appalachia’.  
+Rachel is currently in the Pittsburgh area of Pennsylvania working on a graduate degree. Naturally, I wanted to learn more about <a href="http://en.wikipedia.org/wiki/Pittsburgh" rel="external">Pittsburgh</a> (Geography nerd tag). Through Wikipedia (I didn’t mention thorough readings), I learned that Pittsburghians do not necessarily associate with the state of Pennsylvania. They are located at the edge of the Midwest, Northeast, Rust Belt, and Appalachia. One person even called them the ‘Paris of Appalachia’.
 <!--more-->
 
-  
+
 I began to think&#8230;while the label Paris of Appalachia may not drive additional tourists to the area, it would help a state, like West Virginia to have a city like Pittsburgh in its state.
 
 Then I thought of all the border cities that should just be a part of the neighboring state, because when you are in that town, you feel like you are in a different state or they are already apart of the neighboring metro area. I’m looking at you Hudson, WI; East St. Louis, IL; and Kansas City, MO.
 
-Then there are states that have sections of land that just seem out of place. Have you ever driven through Eastern Colorado? Painful. There aren’t any mountains, and the mountains don&#8217;t seem to come any sooner. It may as well be Kansas.
+Then there are states that have sections of land that just seem out of place. Have you ever driven through Eastern Colorado? Painful. There aren’t any mountains, and the mountains don't seem to come any sooner. It may as well be Kansas.
 
 ## The Quest
 
@@ -38,7 +38,7 @@ Here were my rules to give this “study” some credibility and reason:
 
 ## The Map
 
-I will admit this is not the most detailed map but it will provide a general starting point. Click the map for a larger view.  
+I will admit this is not the most detailed map but it will provide a general starting point. Click the map for a larger view.
 [<img class="alignleft size-large wp-image-698" title="50-states-realinged" src="/wp-content/uploads/2011/06/50-states-realinged-1024x729.png" alt="" width="640" height="455" srcset="https://rachelbrandon.com/wp-content/uploads/2011/06/50-states-realinged-1024x729.png 1024w, https://rachelbrandon.com/wp-content/uploads/2011/06/50-states-realinged-300x213.png 300w, https://rachelbrandon.com/wp-content/uploads/2011/06/50-states-realinged.png 1464w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2011/06/50-states-realinged.png)
 
 <h2 style="clear: both;">
@@ -97,7 +97,7 @@ I will admit this is not the most detailed map but it will provide a general sta
 
 **Montana:** Gains in Wyoming.
 
-**Nebraska:** Closes out the panhandle. Just means more Nebraska I-80 miles.  
+**Nebraska:** Closes out the panhandle. Just means more Nebraska I-80 miles.
 **Nevada:** Who would dare risk changing the only state where anything is legal?
 
 **New Hampshire:** Big change. Now encompasses Upstate New York. Capital in Albany. Finally the upstaters can make laws that benefit them and not just NYC.
@@ -116,7 +116,7 @@ I will admit this is not the most detailed map but it will provide a general sta
 
 **Oklahoma:** Gains chunks of Texas. I’m a little sad to see the Panhandle go, but to leave it would have been against the purposes of this realignment.
 
-**Oregon:** Oregonians think their state is perfect, so I had to mess with it a tiny bit. I’m giving Portland to Washington. Wait, I can&#8217;t do it. But granting both sides of the Columbia River makes some sense.
+**Oregon:** Oregonians think their state is perfect, so I had to mess with it a tiny bit. I’m giving Portland to Washington. Wait, I can't do it. But granting both sides of the Columbia River makes some sense.
 
 **Pennsylvania:** Loses Appalachia & Pittsburgh. See introductory paragraph.
 

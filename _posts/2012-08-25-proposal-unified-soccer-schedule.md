@@ -27,8 +27,8 @@ But before I can change the sport for the better, we need to look at many of the
   * For the reason above, clubs and international federations argue all the time over players participating in international friendlies through the season. If I were a club, I wouldn’t want to send any of my players away for a meaningless February friendly. It leads to awkward peace offerings, <a href="http://sports.yahoo.com/blogs/soccer-dirty-tackle/arjen-robben-jeered-bayern-munich-fans-netherlands-friendly-045140833.html" rel="external">like the one the Netherlands played against Bayern Munich</a> after a dispute over Arjen Robben.
   * February international friendlies aren’t too fun to watch. It’s talent wasted in meaningless games.
   * League matches are starting in the middle of the transfer window, meaning the first two weeks of a season are ruled incomplete with incomplete rosters and teams in need a of a few more tune ups.
-  * Top international players are playing in a slew of matches. Let’s look at Spain / Barca midfielder Xavi as an example. 
-      * From August 2011 &#8211; July 2012 he played 51 matches for his club and 14 for his country (65 total). This is about the maximum number of matches a player can play in in a year. Spain won the Euros, Barca finished second in La Liga (he played in most),  and they won the Copa del Rey, toss in the Club World Cup and some tune ups, and its a full year.
+  * Top international players are playing in a slew of matches. Let’s look at Spain / Barca midfielder Xavi as an example.
+      * From August 2011 - July 2012 he played 51 matches for his club and 14 for his country (65 total). This is about the maximum number of matches a player can play in in a year. Spain won the Euros, Barca finished second in La Liga (he played in most),  and they won the Copa del Rey, toss in the Club World Cup and some tune ups, and its a full year.
       * Portugal and Real Madrid player Cristiano Ronaldo played in 55 for club and 9 for country for a total of 64 matches. There should be a max around this amount of matches.
 
 <h2 dir="ltr">
@@ -41,19 +41,19 @@ First, each player should be maxed out at 15 matches for his country 50 for the 
 
 Next, the calendar should be divided out as follows:
 
-  * First weekend in September to February 28: 
+  * First weekend in September to February 28:
       * **League Matches** (EPL, La Liga, Bundesliga, MLS, etc.).
       * If I counted right, that’s 27 weeks to play 38 matches, that’s very doable. In fact, if a league plays it right, it can give its teams a longer break ahead of the next scheduled events below.
       * Leagues in the Northern portions of the Northern Hemisphere would have time to avoid playing in January altogether.
-  * March 1- 3rd weekend in March: 
+  * March 1- 3rd weekend in March:
       * **Break.** There will need to be two weeks to set up the opening fixtures for the next set of tournaments.
-  * 3rd weekend in March to May 30: 
+  * 3rd weekend in March to May 30:
       * **League Cups:** FA cup, Copa del Rey, US Open Cup, etc&#8230;
       * **Continental Competitions:** Champions League, Europa Cup, CONCACAF Champions League, etc&#8230;
       * Top teams that qualify for continental competitions should field one team in each competition. But remember the _Xavi Rule_. This is why big clubs have reserve teams, isn’t it?
-  * June 1 &#8211; second week of August: 
+  * June 1 - second week of August:
       * **International Window:** clubs can’t host matches in this window and international teams must respect the _Xavi Rule_ as well. No more than 15 matches per player. Remember, the World Cup can be won in 7 matches.
-  * 2nd week of August &#8211; September 1: 
+  * 2nd week of August - September 1:
       * **Preseason tune-ups:** The Xavi Rule lurks&#8230;.
   * The transfer window would be from June 1 to the end of August.
 

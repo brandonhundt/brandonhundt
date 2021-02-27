@@ -26,7 +26,7 @@ I introduce to you, _Trivia with a Twist or Two_, or _TWTOT_: Trivia will never 
   * [The Questions](#questions)
   * [The Contestants](#contestants)
   * [Gameplay](#gameplay)
-  * [Scoring](#scoring) 
+  * [Scoring](#scoring)
       * [Original Recipe](#recipe)
       * [Point Swap](#swap)
       * [For Charity](#charity)
@@ -80,14 +80,14 @@ Sometimes the Host may be in a charitable mood or simply tired of keeping track 
 
 Final Question: If the Contestant answers the final question correctly they get the all the points in Charity. The Charity pot is not split. If it is incorrect, they DO NOT lose any points, their score remains stagnant. The final question is read aloud by the host and the contestants will whisper their answer to the host, so others may not appear. Answering out loud in this round equals an automatic ‘warned! (x4)’
 
-> EXAMPLE: At the time of the Final Question, Tim has 100 pts, Jake has 40 pts, and there are 70pts in Charity. Jake answers the final question correctly and Tim does not. Jake gets 70pts from Charity. So 40+70=110pts. Tim will end the game with 100pts.If they both answer the question correctly, they would each receive 70pts. So Tim would end up 170pts to Jake&#8217;s 110.
+> EXAMPLE: At the time of the Final Question, Tim has 100 pts, Jake has 40 pts, and there are 70pts in Charity. Jake answers the final question correctly and Tim does not. Jake gets 70pts from Charity. So 40+70=110pts. Tim will end the game with 100pts.If they both answer the question correctly, they would each receive 70pts. So Tim would end up 170pts to Jake's 110.
 
 ### <a name="bonuses"></a>Bonuses
 
 In all three variations of TWTOT there are special bonuses that are taken into account.
 
   * When a Contestant leaves the game space their points must go somewhere. They will not lose their points and remain on the scorecard. If playing Point Swap, the Contestant will chose who their points will go to. Example: Jake needs to leave to use the restroom. He has 100pts, He needs to determine who he is going to give 100pts to, he CAN split them in this instance, so he gives 20 to Carl, Joe, Tim, and Callin. When he comes back, he will still have 100pts. If playing For Charity, the points will be given to Charity. Example: Jake needs to leave to use the restroom. He has 100pts, 100pts will then go to Charity. He will still have 100pts upon his return.
-  * Double Point Questions: At any point in the game the Host may declare the next question worth Double Points. It tends to work best if the Host chooses a reason why. Like if the person in the previous question is from Chicago, then the points for the next question are doubled. It&#8217;s important to for the Host to be consistent in offering double points.
+  * Double Point Questions: At any point in the game the Host may declare the next question worth Double Points. It tends to work best if the Host chooses a reason why. Like if the person in the previous question is from Chicago, then the points for the next question are doubled. It's important to for the Host to be consistent in offering double points.
 
 ## <a name="mb-p"></a>Merit Badges/Punishments
 
@@ -95,7 +95,7 @@ Merit Badges and Punishments are kept track of on the scorecard underneath the p
 
 ### <a name="punish"></a>Punishment
 
-The Host may give out a ‘warned!’ for a Contestant deemed out of line by the Host at any point in the game. A fourth ‘warned!’ means the Contestant’s score is divided by four. Any further ‘warned!’s will result in continued division of the player’s score by the number of &#8216;warned!&#8217;s earned. This is the only way to actually lose points in TWTOT.
+The Host may give out a ‘warned!’ for a Contestant deemed out of line by the Host at any point in the game. A fourth ‘warned!’ means the Contestant’s score is divided by four. Any further ‘warned!’s will result in continued division of the player’s score by the number of &#8216;warned!'s earned. This is the only way to actually lose points in TWTOT.
 
 > *Note: If playing Point Swap, the divided points will be distributed to another Contestant, at the ‘warned(x4)’ Contestant’s discretion. In For Charity, the remainder of points lost will be given to Charity.
 
@@ -111,4 +111,4 @@ The Host can add these at will. Here are some that have worked to date.
 
 ## <a name="conclusion"></a>Conclusion
 
-There is actually a lot of strategy that goes into this game. It is quite possible to have zero trivia knowledge and still walk away a winner. However, those that are good at trivia will still find a way. Answer questions correctly and you will find success. Answer incorrectly and you can get in the way of those that do answer questions correctly. There is a real wisdom in this game. If you do give this game a try, please let me know how it goes. I&#8217;d like to hear any variations, bonuses, and merit badges that you may have used. Enjoy!
+There is actually a lot of strategy that goes into this game. It is quite possible to have zero trivia knowledge and still walk away a winner. However, those that are good at trivia will still find a way. Answer questions correctly and you will find success. Answer incorrectly and you can get in the way of those that do answer questions correctly. There is a real wisdom in this game. If you do give this game a try, please let me know how it goes. I'd like to hear any variations, bonuses, and merit badges that you may have used. Enjoy!

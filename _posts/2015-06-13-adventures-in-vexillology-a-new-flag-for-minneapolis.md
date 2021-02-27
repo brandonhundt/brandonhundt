@@ -1,6 +1,6 @@
 ---
 id: 1117
-title: 'Adventures in vexillology &#8211; a new flag for Minneapolis'
+title: 'Adventures in vexillology - a new flag for Minneapolis'
 date: 2015-06-13T11:57:24+00:00
 author: Brandon Hundt
 layout: post
@@ -39,7 +39,7 @@ To create a new flag for Minneapolis, we should do due diligence and research th
 
 The last piece of inspiration I felt is appropriate for the city of Minneapolis is actually a newer logo to the community, the logo for Minnesota United FC. Its a stunning logo, fitting of a modern city and is intentionally flag like. Now that MNU is joining MLS the fans deserve a distinctive local flag to wave at games, ala our [civic rival Portland](https://en.wikipedia.org/wiki/Flag_of_Portland,_Oregon#/media/File:Portland_Flags_%2B_Smoke.jpg).
 
-<img class="alignnone wp-image-1120 size-medium" src="http://rachelbrandon.com/wp-content/uploads/2015/06/Minnesota_United_2014.svg_-209x300.png" alt="Minnesota_United_2014.svg" width="209" height="300" srcset="https://rachelbrandon.com/wp-content/uploads/2015/06/Minnesota_United_2014.svg_-209x300.png 209w, https://rachelbrandon.com/wp-content/uploads/2015/06/Minnesota_United_2014.svg_.png 400w" sizes="(max-width: 209px) 100vw, 209px" /> 
+<img class="alignnone wp-image-1120 size-medium" src="http://rachelbrandon.com/wp-content/uploads/2015/06/Minnesota_United_2014.svg_-209x300.png" alt="Minnesota_United_2014.svg" width="209" height="300" srcset="https://rachelbrandon.com/wp-content/uploads/2015/06/Minnesota_United_2014.svg_-209x300.png 209w, https://rachelbrandon.com/wp-content/uploads/2015/06/Minnesota_United_2014.svg_.png 400w" sizes="(max-width: 209px) 100vw, 209px" />
 
 Considering all of this, I’m down to two proposals for the new flag for Minneapolis. Here is the first:
 
@@ -51,7 +51,7 @@ I like it, but where I’m torn is with the sailboat. Is the iconography strong 
 
 [<img class="alignnone size-medium wp-image-1124" src="http://rachelbrandon.com/wp-content/uploads/2015/06/new-mpls-flag2-300x190.png" alt="new-mpls-flag2" width="300" height="190" srcset="https://rachelbrandon.com/wp-content/uploads/2015/06/new-mpls-flag2-300x190.png 300w, https://rachelbrandon.com/wp-content/uploads/2015/06/new-mpls-flag2.png 842w" sizes="(max-width: 300px) 100vw, 300px" />](http://rachelbrandon.com/wp-content/uploads/2015/06/new-mpls-flag2.png)
 
-UPDATE: After some great feedback on Facebook. I have a third and final proposal. This is the winner and ultimate suggestion. The sailboat just isn&#8217;t strong enough a symbol.
+UPDATE: After some great feedback on Facebook. I have a third and final proposal. This is the winner and ultimate suggestion. The sailboat just isn't strong enough a symbol.
 
 [<img class="alignnone size-medium wp-image-1130" src="http://rachelbrandon.com/wp-content/uploads/2015/06/mpls-flag-FINAL-300x190.png" alt="mpls-flag-FINAL" width="300" height="190" srcset="https://rachelbrandon.com/wp-content/uploads/2015/06/mpls-flag-FINAL-300x190.png 300w, https://rachelbrandon.com/wp-content/uploads/2015/06/mpls-flag-FINAL.png 599w" sizes="(max-width: 300px) 100vw, 300px" />](http://rachelbrandon.com/wp-content/uploads/2015/06/mpls-flag-FINAL.png)
 

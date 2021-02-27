@@ -6,7 +6,7 @@ author: Brandon Hundt
 layout: page
 guid: http://rachelbrandon.com/?page_id=2
 ---
-You&#8217;ll typically find Brandon exploring the intersection of [Design](/category/design), [Geography](/category/geography-2), and [Sports](/category/sports).
+You'll typically find Brandon exploring the intersection of [Design](/category/design), [Geography](/category/geography-2), and [Sports](/category/sports).
 
 During the weekday, Brandon is the Director of Product Management for PRX, helping to 1) design and define the Roadmap for [PRX Dovetail](https://www.prx.org/publishing-platform), a full featured podcast post-production platform. 2) Design and develop a news editorial website for [_The World_](https://theworld.org) - Public Radio's daily world news broadcast.
 

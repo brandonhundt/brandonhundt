@@ -1,6 +1,6 @@
 ---
 id: 1059
-title: 'The hypocrisy between a country&#8217;s political philosophy and how its sports leagues are run'
+title: "The hypocrisy between a country's political philosophy and how its sports leagues are run"
 date: 2014-01-25T23:24:36+00:00
 author: Brandon Hundt
 layout: post
@@ -23,7 +23,7 @@ Julio is a American from Alabama. He just received his Masters in Engineering, t
 
 Those that weren’t selected or didn’t agree to a position, wouldn’t get a job in engineering this year and would have to go through the process again next year. Julio was honored to be chosen 2nd overall, because because he worked really hard to achieve high scores in school. But he didn’t like the company that selected him. In his mind, they weren’t a good personality fit and they had large debts. They were also located in Nome, Alaska.
 
-Friends, clearly, this is not a true story. This couldn&#8217;t happen in America, it feels fundamentally un-American.
+Friends, clearly, this is not a true story. This couldn't happen in America, it feels fundamentally un-American.
 
 But it does happen.
 
@@ -31,7 +31,7 @@ Its called the professional sports draft, and all the major North American sport
 
 AND here’s the kicker, the general American public not only accepts the draft, they look forward to it. This strikes me as odd. Because I can also safely assume that the American public wouldn’t accept the Engineering draft I described above.
 
-This, my friends, is what this post is about. The hypocrisy between a country&#8217;s political viewpoints and how its sports leagues are run. Because its not only an American thing.
+This, my friends, is what this post is about. The hypocrisy between a country's political viewpoints and how its sports leagues are run. Because its not only an American thing.
 
 Let’s take a simple quiz.
 
@@ -49,7 +49,7 @@ _(NOTE: I’m not advocating for either system. I’m not saying socialism is be
   * **Selling:** Similar to posting fees, this is when a player wishes to move on or their current team wants a player to move on, but they are still under contract. The two teams then negotiate a fee to be paid to the selling team. A fair transaction at market prices. Capitalism.
   * **Loans:** When players aren’t getting a lot of playing time, they are often “loaned” to another team for a set period of time. This leans more Capitalistic.
 
-Now let&#8217;s go back over this list to determine which of these terms are more common to North American Sports Leagues or European Sports Leagues:
+Now let's go back over this list to determine which of these terms are more common to North American Sports Leagues or European Sports Leagues:
 
   * **Draft (socialist):** North America
   * **Salary Cap (socialist):** North America

@@ -31,9 +31,9 @@ Without further ado here are my top five and worst five state plates. For refere
 
 ### Top Five State License Plates
 
-(Starting with the best. If the image isn&#8217;t displayed, I couldn&#8217;t find one with the appropriate rights to post for the web. Just click the link provided.)
+(Starting with the best. If the image isn't displayed, I couldn't find one with the appropriate rights to post for the web. Just click the link provided.)
 
-1.<img class="alignright size-full wp-image-788" title="California_license_plate" src="http://rachel.brandonhundt.com/wp-content/uploads/2011/09/California_license_plate.jpg" alt="" width="150" height="75" /> [California](http://www.15q.net/us1/ca02.jpg): It’s readable, the script for California reflects the state, and it makes your car much cooler for simply having it on it. 3/3 on the criteria. Well done California. Don’t change a thing! 
+1.<img class="alignright size-full wp-image-788" title="California_license_plate" src="http://rachel.brandonhundt.com/wp-content/uploads/2011/09/California_license_plate.jpg" alt="" width="150" height="75" /> [California](http://www.15q.net/us1/ca02.jpg): It’s readable, the script for California reflects the state, and it makes your car much cooler for simply having it on it. 3/3 on the criteria. Well done California. Don’t change a thing!
 
 2. [Alabama](http://www.worldlicenceplates.com/usa/US_ALXX.html): I think better of Alabama after seeing their new plates. The background of the plate is well designed and the text is readable. Also you can see their progression, and how unexpected this well designed plate is.
 
@@ -47,7 +47,7 @@ Without further ado here are my top five and worst five state plates. For refere
 
 ### Bottom Five State License Plates
 
-(Starting with the worst. If the image isn&#8217;t displayed, I couldn&#8217;t find one with the appropriate rights to post for the web. Just click the link provided.)
+(Starting with the worst. If the image isn't displayed, I couldn't find one with the appropriate rights to post for the web. Just click the link provided.)
 
 1. [Washington DC](http://www.15q.net/us1/dc03.jpg): Okay, so it’s not a state, but this is one ugly plate. If that weren’t enough there’s one thing that stands out like none other: the slogan “Taxation without Representation.” What is funny is that DC residents pay Federal taxes without representation in either house of Congress. And this is [precisely why](http://en.wikipedia.org/wiki/No_taxation_without_representation) the slogan appears on the plate. Yet, I contend that plates should be politics free, even in DC. (For the record, this is despite my personal belief that DC should be represented in the House of Representatives, along with all of our territories). Unfortunately, my gut is also telling me this slogan would be lost on the average American. Sorry DC, but ugly font choices plus a political statement that is confusing to non-DC’ers equals the worst plate.
 

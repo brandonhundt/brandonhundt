@@ -1,6 +1,6 @@
 ---
 id: 1087
-title: 'How to remove bribery from FIFA&#8217;s World Cup selection process'
+title: "How to remove bribery from FIFA's World Cup selection process"
 date: 2014-06-24T23:13:58+00:00
 author: Brandon Hundt
 layout: post

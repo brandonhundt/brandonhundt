@@ -1,6 +1,6 @@
 ---
 id: 1146
-title: 'The latest design for a new Minnesota flag is inspired by l&#8217;etoile du nord'
+title: "The latest design for a new Minnesota flag is inspired by l'etoile du nord"
 date: 2015-10-26T20:01:39+00:00
 author: Brandon Hundt
 layout: post
@@ -26,15 +26,15 @@ The North Star flag was close to becoming the state flag in 1989 there was a bil
 
 The symbolism of the flag is quite good and well intended. As the official webpage for this flag notes:
 
-> The star recalls the state motto chosen by the pioneers, &#8220;L&#8217;etoile du Nord&#8221; (&#8220;The North Star&#8221;). The blue stripe represents our lakes and rivers. The white stripe represents winter. The green stripe represents our farmland and forests. Gold represents our state&#8217;s natural wealth. The waves represent the state name, &#8220;minisota&#8221; &#8212; a Native American name which means &#8220;sky-tinted water.&#8221;
+> The star recalls the state motto chosen by the pioneers, &#8220;L'etoile du Nord&#8221; (&#8220;The North Star&#8221;). The blue stripe represents our lakes and rivers. The white stripe represents winter. The green stripe represents our farmland and forests. Gold represents our state's natural wealth. The waves represent the state name, &#8220;minisota&#8221; &#8212; a Native American name which means &#8220;sky-tinted water.&#8221;
 
-However the design of the flag is — and I’m searching for the right word here — okay. In my opinion the colors are bit bland, and that star is too large. The wave looks a bit too much like Charlie Brown&#8217;s shirt (no offense to the great Minnesotan, Mr. Shultz). Needless to say, its fine, but I wouldn’t go out of my way to fly it.
+However the design of the flag is — and I’m searching for the right word here — okay. In my opinion the colors are bit bland, and that star is too large. The wave looks a bit too much like Charlie Brown's shirt (no offense to the great Minnesotan, Mr. Shultz). Needless to say, its fine, but I wouldn’t go out of my way to fly it.
 
 As much as the North Star flag is a real improvement over the [current state flag](https://en.wikipedia.org/wiki/Flag_of_Minnesota), we can do better. Minnesota is much more vibrant and progressive place than this flag represents.
 
 <div id="attachment_1147" style="width: 650px" class="wp-caption alignnone">
   <a href="http://rachelbrandon.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-26-at-6.45.19-PM.png"><img class="wp-image-1147 size-large" src="http://rachelbrandon.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-26-at-6.45.19-PM-1024x583.png" alt="Screen Shot 2015-10-26 at 6.45.19 PM" width="640" height="364" srcset="https://rachelbrandon.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-26-at-6.45.19-PM-1024x583.png 1024w, https://rachelbrandon.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-26-at-6.45.19-PM-300x171.png 300w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  
+
   <p class="wp-caption-text">
     A snapshot of the file in which I did the brainstorm, iterating, and improving.
   </p>
@@ -46,17 +46,17 @@ As much as the North Star flag is a real improvement over the [current state fla
 
 <div id="attachment_1149" style="width: 650px" class="wp-caption alignnone">
   <a href="http://rachelbrandon.com/wp-content/uploads/2015/10/4602885840_2fc71fcafd_z.jpg"><img class="wp-image-1149 size-full" style="float: none; margin: 0;" src="http://rachelbrandon.com/wp-content/uploads/2015/10/4602885840_2fc71fcafd_z.jpg" alt="4602885840_2fc71fcafd_z" width="640" height="480" srcset="https://rachelbrandon.com/wp-content/uploads/2015/10/4602885840_2fc71fcafd_z.jpg 640w, https://rachelbrandon.com/wp-content/uploads/2015/10/4602885840_2fc71fcafd_z-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></a>
-  
+
   <p class="wp-caption-text">
     The floor of the rotunda at the Minnesota State capitol.
   </p>
 </div>
 
-In sharing some of these concepts, a member of the group suggested using a variation of the star that appears within the rotunda of the State Capitol building. What makes this interesting is that the edges form to make four M’s. It also resembles a snow flake. Another group member, Aly Sevre, made the connection between the star in the state capitol and ugly sweaters. 
+In sharing some of these concepts, a member of the group suggested using a variation of the star that appears within the rotunda of the State Capitol building. What makes this interesting is that the edges form to make four M’s. It also resembles a snow flake. Another group member, Aly Sevre, made the connection between the star in the state capitol and ugly sweaters.
 
-I ran with [Aly&#8217;s idea](https://www.facebook.com/groups/60969148707/permalink/10153484743898708/) of the ugly sweater + directional star and I have to say it worked. While separate stars, they formed a cohesive and greater star (much like MPLS and StP are better together). Here&#8217;s a look:
+I ran with [Aly's idea](https://www.facebook.com/groups/60969148707/permalink/10153484743898708/) of the ugly sweater + directional star and I have to say it worked. While separate stars, they formed a cohesive and greater star (much like MPLS and StP are better together). Here's a look:
 
-<img class="alignnone size-full wp-image-1150" src="http://rachelbrandon.com/wp-content/uploads/2015/10/norse-star.png" alt="norse-star" width="1290" height="836" srcset="https://rachelbrandon.com/wp-content/uploads/2015/10/norse-star.png 1290w, https://rachelbrandon.com/wp-content/uploads/2015/10/norse-star-300x194.png 300w, https://rachelbrandon.com/wp-content/uploads/2015/10/norse-star-1024x664.png 1024w" sizes="(max-width: 1290px) 100vw, 1290px" /> 
+<img class="alignnone size-full wp-image-1150" src="http://rachelbrandon.com/wp-content/uploads/2015/10/norse-star.png" alt="norse-star" width="1290" height="836" srcset="https://rachelbrandon.com/wp-content/uploads/2015/10/norse-star.png 1290w, https://rachelbrandon.com/wp-content/uploads/2015/10/norse-star-300x194.png 300w, https://rachelbrandon.com/wp-content/uploads/2015/10/norse-star-1024x664.png 1024w" sizes="(max-width: 1290px) 100vw, 1290px" />
 
 Folks, we have our winner. This flag embraces the outdoors and winter all the while coming across as progressive. I should also note that it meets all the criteria of vexillological design guidelines by remaining quite simple so it can scale and remaining distinct.
 
@@ -64,6 +64,6 @@ I’d be proud to call this the flag of the state of Minnesota, and I hope you w
 
 But what I really want to know is would you fly it?
 
-_* I also want to formally thank the Minnesotan&#8217;s for a Better Flag Facebook group who kept the feedback and inspiration coming along._
+_* I also want to formally thank the Minnesotan's for a Better Flag Facebook group who kept the feedback and inspiration coming along._
 
 This flag is now available in [t-shirt form](https://cottonbureau.com/products/letoile-du-nord-the-minnesota-north-star?fbclid=IwAR1R8cNJLOTNRjepjlUrq7sWLa_JQGwMA4TIdvhyRCkfnSCBYgfwHUopLYs#/1417424/tee-men-standard-tee-midnight-blue-poly-cotton-xs).

@@ -9,6 +9,7 @@
 
   // Positioning context for the mobile navigation icon
   position: relative;
+  z-index: 10;
 }
 
 .site-title {
@@ -129,7 +130,23 @@
   }
 }
 
+.post {
+  position: relative;
+  z-index: 1;
 
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+.post-wrapper {
+  position: relative;
+  z-index: 5;
+  background-color: #fff;
+  padding-top: 2em;
+  padding-bottom: 1em;
+}
 
 /**
  * Site footer
@@ -137,15 +154,26 @@
 .site-footer {
   border-top: 1px solid $border-color-01;
   padding: $spacing-unit 0;
+  text-align: center;
+
+  ul {
+    list-style: none;
+
+    li {
+      display: inline-block;
+      margin: 0 5px;
+
+      a {
+        color: $blue;
+        font-weight: bold;
+      }
+    }
+  }
 }
 
 .footer-heading {
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit / 2;
-}
-
-.feed-subscribe .svg-icon {
-  padding: 5px 5px 2px 0
 }
 
 .contact-list,
@@ -214,7 +242,7 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  padding: 0;
   flex: 1 0 auto;
 }
 
@@ -251,7 +279,45 @@
  * Posts
  */
 .post-header {
-  margin-bottom: $spacing-unit;
+  margin-bottom: 0;
+
+
+  &.post-header-is-image {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    padding: 75px 0 50px;
+    border-bottom: 1px solid $drk-blue;
+
+    &::before {
+      content: "";
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      background-image: url(/assets/bg_pattern.png);
+      background-repeat: repeat;
+      background-color: rgba(0, 58, 87, 0.5);
+    }
+
+    h1 {
+      position: relative;
+      color: #fff;
+      text-shadow: 0 1px 1px $drk-blue;
+      margin: 0 0 0.5em;
+    }
+
+    .post-meta {
+      position: relative;
+      color: #eee;
+      text-shadow: 0 1px 1px $drk-blue;
+    }
+  }
 }
 
 .post-title,

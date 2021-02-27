@@ -25,11 +25,11 @@ Back to the issue at hand, I like that Goodell is thinking outside the box for a
 
 In rugby union, the equivalent to a touchdown is called a ‘try’. It is worth 5 points. A player is awarded a try when they physically touch down the ball in the equivalent to the end zone.
 
-On another side note, in rugby, the defensive team can still take the ball away from an offensive player in the end zone, until it has been touched down to the ground in a controlled fashion. This is also in contrast to the NFL’s most hypocritical rule, that a ball carrier can simply ‘break the plane of the end zone’ without maintaining control through the end of the play to score a touchdown; in contrast to a pass catcher that needs to get two feet in the end zone, make a ‘play typical to the game of football&#8217; and maintain control through the process of the catch. Hows that for some highly regulated inconsistency.
+On another side note, in rugby, the defensive team can still take the ball away from an offensive player in the end zone, until it has been touched down to the ground in a controlled fashion. This is also in contrast to the NFL’s most hypocritical rule, that a ball carrier can simply ‘break the plane of the end zone’ without maintaining control through the end of the play to score a touchdown; in contrast to a pass catcher that needs to get two feet in the end zone, make a ‘play typical to the game of football' and maintain control through the process of the catch. Hows that for some highly regulated inconsistency.
 
 Back to rugby. As soon as the ‘try’ is awarded, a kick is then attempted from anywhere behind the spot of where the try was scored. In other terms, if you scored right in between the uprights the player gets to attempt a straight on kick. Score in the corner, the kick becomes more difficult. You miss the kick, its no points. You make it, its two points. <a href="http://thepowerofgoals.blogspot.com/2013/01/rating-rugby-union-kickers-by-kick.html" rel="external">It’s by no means automatic</a>.
 
-Here&#8217;s an example of a conversion from the corner:
+Here's an example of a conversion from the corner:
 
 
 

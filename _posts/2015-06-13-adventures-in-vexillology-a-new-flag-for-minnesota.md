@@ -1,6 +1,6 @@
 ---
 id: 1133
-title: 'Adventures in vexillology &#8211; a new flag for Minnesota'
+title: 'Adventures in vexillology - a new flag for Minnesota'
 date: 2015-06-13T18:53:34+00:00
 author: Brandon Hundt
 layout: post
@@ -16,7 +16,7 @@ tags:
   - flags
   - Redesign
 ---
-**_UPDATE: After feedback on this design, I iterated and came up with a design I&#8217;m much happier with. Please [visit the new post](http://rachelbrandon.com/the-latest-design-for-a-new-minnesota-flag-is-inspired-by-letoile-du-nord/)._**<!--more-->
+**_UPDATE: After feedback on this design, I iterated and came up with a design I'm much happier with. Please [visit the new post](http://rachelbrandon.com/the-latest-design-for-a-new-minnesota-flag-is-inspired-by-letoile-du-nord/)._**<!--more-->
 
 I just had a so much fun redesigning the flag for the city of Minneapolis that I felt inspired to redesign the flag for the great state of Minnesota. Same rules apply. You can find them in my [Minneapolis flag post](http://rachelbrandon.com/adventures-in-vexillology-a-new-flag-for-minneapolis/)&#8230;
 
@@ -40,7 +40,7 @@ With this inspiration, here is my proposal for the new flag of Minnesota:
 
 [<img class="alignnone size-medium wp-image-1136" src="http://rachelbrandon.com/wp-content/uploads/2015/06/new-flag-mn-300x190.png" alt="new-flag-mn" width="300" height="190" srcset="https://rachelbrandon.com/wp-content/uploads/2015/06/new-flag-mn-300x190.png 300w, https://rachelbrandon.com/wp-content/uploads/2015/06/new-flag-mn.png 476w" sizes="(max-width: 300px) 100vw, 300px" />](http://rachelbrandon.com/wp-content/uploads/2015/06/new-flag-mn.png)
 
-Its a white based flag representing our collective embrace of winter. A light blue diagonal sash for the many many waterways and rivers of the land. But the best part of this flag features two of Zeus Jones’ loons mingling in front of the North Star; evoking a sense of awe, beauty, and yet strength. I&#8217;m reminded of a lyric in the song [_Minneapolis_ by Ben Kyle](https://www.youtube.com/watch?v=v0SdiIl8-qs):
+Its a white based flag representing our collective embrace of winter. A light blue diagonal sash for the many many waterways and rivers of the land. But the best part of this flag features two of Zeus Jones’ loons mingling in front of the North Star; evoking a sense of awe, beauty, and yet strength. I'm reminded of a lyric in the song [_Minneapolis_ by Ben Kyle](https://www.youtube.com/watch?v=v0SdiIl8-qs):
 
 “Oh Minneapolis, I saw you and Saint Paul kiss underneath the moonlight in the Mississippi mist. I never saw a thing as beautiful as this”
 
