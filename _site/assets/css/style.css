@@ -288,11 +288,11 @@ table td { border: 1px solid #e8e8e8; }
 /** Posts */
 .post-header { margin-bottom: 0; }
 
-.post-header.post-header-is-image { position: relative; height: 100%; width: 100%; display: flex; align-items: center; justify-content: center; background-size: cover; padding: 75px 0 50px; border-bottom: 1px solid #003A57; }
+.post-header.post-header-is-image { position: relative; height: 100%; width: 100%; display: flex; align-items: center; justify-content: center; background-size: cover; padding: 100px 0 50px; border-bottom: 1px solid #003A57; }
 
 .post-header.post-header-is-image::before { content: ""; position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; background-image: url(/assets/bg_pattern.png); background-repeat: repeat; background-color: rgba(0, 58, 87, 0.5); }
 
-.post-header.post-header-is-image h1 { position: relative; color: #fff; text-shadow: 0 1px 1px #003A57; margin: 0 0 0.5em; }
+.post-header.post-header-is-image h1 { position: relative; color: #fff; text-shadow: 0 1px 1px #003A57; margin: 0 0 0.5em; font-size: 2.25em; line-height: 1.25; }
 
 .post-header.post-header-is-image .post-meta { position: relative; color: #eee; text-shadow: 0 1px 1px #003A57; }
 

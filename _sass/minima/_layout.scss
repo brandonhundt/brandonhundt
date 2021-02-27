@@ -290,7 +290,7 @@
     align-items: center;
     justify-content: center;
     background-size: cover;
-    padding: 75px 0 50px;
+    padding: 100px 0 50px;
     border-bottom: 1px solid $drk-blue;
 
     &::before {
@@ -310,6 +310,8 @@
       color: #fff;
       text-shadow: 0 1px 1px $drk-blue;
       margin: 0 0 0.5em;
+      font-size: 2.25em;
+      line-height: 1.25;
     }
 
     .post-meta {
