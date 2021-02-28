@@ -1,0 +1,14 @@
+---
+---
+
+DirectoryIndex index.html
+
+RewriteEngine On
+RewriteBase /
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTP_HOST} ^rachelbrandon\.com$ [OR]
+  RewriteCond %{HTTP_HOST} ^www\.rachelbrandon\.com$
+  RewriteRule (.*)$ http://brandonhundt.com/$1 [R=301,L]
+</IfModule>
