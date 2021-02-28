@@ -6,7 +6,7 @@ author: Brandon Hundt
 layout: post
 guid: /2021-02-28-new-minneapolis-flag-after-george-floyd/
 permalink: /2021-02-28-new-minneapolis-flag-after-george-floyd/
-image: /assets/proposed-mpls-flag-waving.png
+image: https://brandonhundt.com/assets/proposed-mpls-flag-waving.png
 categories:
   - Brandon
   - Design
