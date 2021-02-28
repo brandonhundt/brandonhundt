@@ -4,7 +4,7 @@ title: The Card Game War is Lacking, Try Sporadic Missile Fire Instead
 date: 2010-11-05T21:38:27+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=572
+guid: /?p=572
 permalink: /the-card-game-war-is-lacking-try-sporadic-missile-fire-instead/
 image: /wp-content/uploads/2010/11/sporadicMissileFire.png
 categories:
@@ -41,9 +41,9 @@ A new game was in town. We only needed a name. Sporadic Missile Fire seemed to s
 
 ## The Complete Rules for Sporadic Missile Fire
 
-**Number of Players:** 2  
-**Deck:** Use a Euchre Deck. That means the following cards remain in the deck. Aces, Kings, Queens, Jacks, 10s, 9s.  
-**Object:** To capture all of the cards, leaving your opponent with nothing.  
+**Number of Players:** 2
+**Deck:** Use a Euchre Deck. That means the following cards remain in the deck. Aces, Kings, Queens, Jacks, 10s, 9s.
+**Object:** To capture all of the cards, leaving your opponent with nothing.
 **How to Play:**
 
   * One player takes all of the Red Cards to start, the other takes all of the Black. This way each player knows what the other has from the start, and each starts on equal footing.

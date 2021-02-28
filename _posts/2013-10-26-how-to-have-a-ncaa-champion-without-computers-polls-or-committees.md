@@ -4,7 +4,7 @@ title: How to have a NCAA Champion without Computers, Polls, or Committees
 date: 2013-10-26T17:12:47+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=1012
+guid: /?p=1012
 permalink: /how-to-have-a-ncaa-champion-without-computers-polls-or-committees/
 image: /wp-content/uploads/2013/10/3908385057_30b781bb69_o-940x400.jpg
 categories:

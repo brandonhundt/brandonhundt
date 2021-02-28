@@ -4,7 +4,7 @@ title: June Sports Catch-Up
 date: 2010-06-29T21:58:51+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=361
+guid: /?p=361
 permalink: /june-sports-catch-up/
 categories:
   - Brandon

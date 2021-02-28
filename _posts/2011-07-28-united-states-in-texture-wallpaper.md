@@ -4,7 +4,7 @@ title: United States in Texture Wallpaper
 date: 2011-07-28T02:50:03+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=752
+guid: /?p=752
 permalink: /united-states-in-texture-wallpaper/
 image: /wp-content/uploads/2011/07/US-in-texture-header.jpg
 categories:

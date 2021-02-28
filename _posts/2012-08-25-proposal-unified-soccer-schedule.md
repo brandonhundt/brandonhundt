@@ -4,7 +4,7 @@ title: A Proposal for a Unified Soccer Schedule
 date: 2012-08-25T13:04:53+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=924
+guid: /?p=924
 permalink: /proposal-unified-soccer-schedule/
 image: /wp-content/uploads/2012/08/soccer-calendar.png
 categories:
@@ -16,7 +16,7 @@ tags:
   - Soccer
   - Sports Reform
 ---
-As a <a href="http://rachelbrandon.com/tag/sports-reform/" rel="external">sports reform</a> enthusiast, I can’t resist chiming in on something as broken as soccer’s schedule. It is really quite a joke. By the end of the posting, I will have fixed this issue for FIFA. Now all FIFA needs to do is show some political capital and get it implemented.<!--more-->
+As a <a href="/tag/sports-reform/" rel="external">sports reform</a> enthusiast, I can’t resist chiming in on something as broken as soccer’s schedule. It is really quite a joke. By the end of the posting, I will have fixed this issue for FIFA. Now all FIFA needs to do is show some political capital and get it implemented.<!--more-->
 
 ## The Problem
 

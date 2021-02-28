@@ -4,7 +4,7 @@ title: "Adventures in Vexillology Mailbag: The World's Worst and Most Disappoint
 date: 2014-02-07T19:26:20+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=1069
+guid: /?p=1069
 permalink: /adventures-in-vexillology-mailbag-the-worlds-worst-and-most-disapointing-flags/
 image: /wp-content/uploads/2014/02/sochi1.jpg
 categories:
@@ -19,11 +19,11 @@ tags:
   - Rankings
   - sochi 2014
 ---
-You may remember that during London 2012, [David Kroeker-Maus](http://mindofmaus.wordpress.com) and I took our [first adventure in vexillology and ranked our favorite flags](http://rachelbrandon.com/adventures-in-vexillology-the-top-10-best-designed-flags). We just couldn't let Sochi 2014 come and go without discussing more flags, this time the ones we don't particularly care for. But instead of individual rankings, we produced a [Bill Simmons / Malcolm Gladwell](http://grantland.com/features/gladwell-vs-simmons-v/) inspired mailbag. We hope you enjoy it&#8230;<!--more-->
+You may remember that during London 2012, [David Kroeker-Maus](http://mindofmaus.wordpress.com) and I took our [first adventure in vexillology and ranked our favorite flags](/adventures-in-vexillology-the-top-10-best-designed-flags). We just couldn't let Sochi 2014 come and go without discussing more flags, this time the ones we don't particularly care for. But instead of individual rankings, we produced a [Bill Simmons / Malcolm Gladwell](http://grantland.com/features/gladwell-vs-simmons-v/) inspired mailbag. We hope you enjoy it&#8230;<!--more-->
 
 **DAVID:** Okay, let's get this started:
 
-You picked the Union Jack as [the best designed flag](<http://rachelbrandon.com/adventures-in-vexillology-the-top-10-best-designed-flags/) of any nation-state. It also cracked [my top 10 list](http://mindofmaus.wordpress.com/2012/08/13/adventures-in-vexillology-the-top-10-best-symbolic-flags/). But I think we could both agree that when flags of other countries have the Union Jack in their upper hoist (e.g. Australia, New Zealand, Fiji) that's pretty lame, right?
+You picked the Union Jack as [the best designed flag](</adventures-in-vexillology-the-top-10-best-designed-flags/) of any nation-state. It also cracked [my top 10 list](http://mindofmaus.wordpress.com/2012/08/13/adventures-in-vexillology-the-top-10-best-symbolic-flags/). But I think we could both agree that when flags of other countries have the Union Jack in their upper hoist (e.g. Australia, New Zealand, Fiji) that's pretty lame, right?
 
 **BRANDON:** Absolutely lame. I mean, other commonwealth nations and former colonies have their OWN flags. Canada has their own flag. Uganda has their own flag. Even the [Isle of Mann](http://en.wikipedia.org/wiki/Flag_of_the_Isle_of_Man) has their own flag without a Union Jack and they aren't even a country AND much more part of the UK. It just absolutely baffles me that Australia and New Zealand, specifically, don't have their own, considering their strong sporting legacy in non-British colours. To me this just feels like a 35 year old who still lets his mum pick out his clothes. Am I wrong here?
 

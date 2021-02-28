@@ -79,7 +79,7 @@ Let’s apply Vignelli’s principles to the skyway and its jagged edges. First,
 5. **Streets**. The skyway is in many ways an extension of, and connected to the street. Their blocks also form a good barometer of distance.
 
 Taking these into consideration, I created the following map:<img src="http://stmedia.startribune.com/images/ctyp+minneapolis+skyway+map.jpg" alt="" width="1152" height="1042" />
-_(<a href="http://rachelbrandon.com/wp-content/uploads/2017/02/mpls-skyway-map-v1.pdf" rel="external" rel="noopener">Click here for a large PDF of Hundt's Minneapolis skyway map</a>.)_
+_(<a href="/wp-content/uploads/2017/02/mpls-skyway-map-v1.pdf" rel="external" rel="noopener">Click here for a large PDF of Hundt's Minneapolis skyway map</a>.)_
 
 Isn’t that so much more pleasant?
 

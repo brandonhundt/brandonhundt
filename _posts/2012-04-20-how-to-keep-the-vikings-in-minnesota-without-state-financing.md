@@ -4,7 +4,7 @@ title: How to Keep the Vikings in Minnesota without State Financing
 date: 2012-04-20T21:58:46+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=839
+guid: /?p=839
 permalink: /how-to-keep-the-vikings-in-minnesota-without-state-financing/
 image: /wp-content/uploads/2012/04/belaire.png
 categories:

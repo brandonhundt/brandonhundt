@@ -4,7 +4,7 @@ title: 'The World Basketball Cup: A Tournament to Save the NBA'
 date: 2011-09-22T21:55:36+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=814
+guid: /?p=814
 permalink: /the-world-basketball-cup-a-tournament-to-save-the-nba/
 image: /wp-content/uploads/2011/09/gasol-hdr.jpg
 categories:
@@ -16,12 +16,12 @@ tags:
   - NBA
   - Sports Reform
 ---
-This past Saturday, I decided to watch the [EuroBasket](http://en.wikipedia.org/wiki/EuroBasket_2011) tournament semi-finals and finals [instead of NCAA football](http://rachelbrandon.com/redrawing-ncaa-college-football-the-end-of-the-amateur-ideal/). It was exciting basketball played at a high quality. Spain is simply an incredible team, featuring the Gasol brothers and four other current NBA players (and a few former ones too). They ended up defeating Tony Parker, Joakim Noah, Nicolas Batum, and the rest of France in the title game. That’s a lot of talent. It proves that the the rest of the world is catching up to US.<!--more-->
+This past Saturday, I decided to watch the [EuroBasket](http://en.wikipedia.org/wiki/EuroBasket_2011) tournament semi-finals and finals [instead of NCAA football](/redrawing-ncaa-college-football-the-end-of-the-amateur-ideal/). It was exciting basketball played at a high quality. Spain is simply an incredible team, featuring the Gasol brothers and four other current NBA players (and a few former ones too). They ended up defeating Tony Parker, Joakim Noah, Nicolas Batum, and the rest of France in the title game. That’s a lot of talent. It proves that the the rest of the world is catching up to US.<!--more-->
 
 <div style="float: right; margin: 0 0 15px 15px;">
 </div>
 
-EuroBasket occurred as the NBA is entrenched in the midst of a [lockout.](http://www.washingtonpost.com/sports/wizards/2011/09/21/gIQAJOwBmK_story.html) The NBA is in need of new ideas to promote the stability and growth of their league. Previously, I wrote a [lengthy dissertation](http://rachelbrandon.com/part-1-saving-american-basketball/) on overhauling the entire professional basketball structure, but admittedly, many of those ideas wouldn’t fly in NBA Commissioner David Stern’s world. However, I have recently come up with an idea that would breathe new life into the league, yet is insanely practical, and would actually work.
+EuroBasket occurred as the NBA is entrenched in the midst of a [lockout.](http://www.washingtonpost.com/sports/wizards/2011/09/21/gIQAJOwBmK_story.html) The NBA is in need of new ideas to promote the stability and growth of their league. Previously, I wrote a [lengthy dissertation](/part-1-saving-american-basketball/) on overhauling the entire professional basketball structure, but admittedly, many of those ideas wouldn’t fly in NBA Commissioner David Stern’s world. However, I have recently come up with an idea that would breathe new life into the league, yet is insanely practical, and would actually work.
 
 The idea is simple: shorten the NBA regular season to 58 games and in the month preceding the start of the NBA regular season play an international tournament (for now I’ll lamely call it the World Basketball Cup) that includes all of the current NBA teams, the teams that form the [Euroleague](http://en.wikipedia.org/wiki/Euroleague), some Chinese teams, and invite some wildcard teams from places like South America, Africa, and Australia, among others.
 
@@ -77,6 +77,6 @@ The biggest issue would be who hosts the tournament. My suggestion is to create 
   Spread the Word: Send a Message to Stern
 </h2>
 
-In conclusion, this tournament needs to happen. I know in past [I’ve posted reforms for all kinds of sports](http://rachelbrandon.com/tag/sports-reform/), but this is the most feasible and reasonable of any of my suggestions. So please [spread the word until it reaches David Stern’s desk](http://www.nba.com/email_us/contact_us.html). I appreciate your support and as always the comments section is open.
+In conclusion, this tournament needs to happen. I know in past [I’ve posted reforms for all kinds of sports](/tag/sports-reform/), but this is the most feasible and reasonable of any of my suggestions. So please [spread the word until it reaches David Stern’s desk](http://www.nba.com/email_us/contact_us.html). I appreciate your support and as always the comments section is open.
 
 _**Special Note:** Please join me in the [Mind of Maus boycott](http://mindofmaus.wordpress.com/2011/09/22/one-simple-way-you-can-save-the-nhl/) of the unreasonably long length of the NHL season. Sports reformers united!_

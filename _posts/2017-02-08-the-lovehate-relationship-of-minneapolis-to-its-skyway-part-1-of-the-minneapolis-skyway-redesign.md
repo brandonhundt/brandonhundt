@@ -4,7 +4,7 @@ title: The love/hate relationship of Minneapolis to its Skyway. Part 1 of the Mi
 date: 2017-02-08T21:42:38+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=1220
+guid: /?p=1220
 permalink: /the-lovehate-relationship-of-minneapolis-to-its-skyway-part-1-of-the-minneapolis-skyway-redesign/
 image: /wp-content/uploads/2017/02/2452755997_bed471f1ce_o-800x400.jpg
 categories:
@@ -40,7 +40,7 @@ I work in downtown Minneapolis and if I’m being honest, I can sense a real [lo
 Seriously here is the official Skyway map:
 
 <div id="attachment_1260" style="width: 650px" class="wp-caption alignnone">
-  <img class="size-large wp-image-1260" src="http://rachelbrandon.com/wp-content/uploads/2017/02/23161166002_c940553345_o-1-1024x576.jpg" alt="Skyway Map" width="640" height="360" srcset="https://rachelbrandon.com/wp-content/uploads/2017/02/23161166002_c940553345_o-1-1024x576.jpg 1024w, https://rachelbrandon.com/wp-content/uploads/2017/02/23161166002_c940553345_o-1-300x169.jpg 300w, https://rachelbrandon.com/wp-content/uploads/2017/02/23161166002_c940553345_o-1-768x432.jpg 768w" sizes="(max-width: 640px) 100vw, 640px" />
+  <img class="size-large wp-image-1260" src="/wp-content/uploads/2017/02/23161166002_c940553345_o-1-1024x576.jpg" alt="Skyway Map" width="640" height="360" srcset="https://rachelbrandon.com/wp-content/uploads/2017/02/23161166002_c940553345_o-1-1024x576.jpg 1024w, https://rachelbrandon.com/wp-content/uploads/2017/02/23161166002_c940553345_o-1-300x169.jpg 300w, https://rachelbrandon.com/wp-content/uploads/2017/02/23161166002_c940553345_o-1-768x432.jpg 768w" sizes="(max-width: 640px) 100vw, 640px" />
 
   <p class="wp-caption-text">
     Exhibit A. Its too hard to see the actual skyways on the map - they are in red. But I can see Nicollet Mall in all its curviness. Credit: Flickr/Creative Commons.
@@ -50,7 +50,7 @@ Seriously here is the official Skyway map:
 And here is an example of the signage:
 
 <div id="attachment_1261" style="width: 810px" class="wp-caption alignnone">
-  <img class="size-full wp-image-1261" src="http://rachelbrandon.com/wp-content/uploads/2017/02/309058875_bc124e586f_o.jpg" alt="Skyway Signage" width="800" height="532" srcset="https://rachelbrandon.com/wp-content/uploads/2017/02/309058875_bc124e586f_o.jpg 800w, https://rachelbrandon.com/wp-content/uploads/2017/02/309058875_bc124e586f_o-300x200.jpg 300w, https://rachelbrandon.com/wp-content/uploads/2017/02/309058875_bc124e586f_o-768x511.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
+  <img class="size-full wp-image-1261" src="/wp-content/uploads/2017/02/309058875_bc124e586f_o.jpg" alt="Skyway Signage" width="800" height="532" srcset="https://rachelbrandon.com/wp-content/uploads/2017/02/309058875_bc124e586f_o.jpg 800w, https://rachelbrandon.com/wp-content/uploads/2017/02/309058875_bc124e586f_o-300x200.jpg 300w, https://rachelbrandon.com/wp-content/uploads/2017/02/309058875_bc124e586f_o-768x511.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
 
   <p class="wp-caption-text">
     Exhibit B: Why the texture? Credit: Flickr/Creative Commons

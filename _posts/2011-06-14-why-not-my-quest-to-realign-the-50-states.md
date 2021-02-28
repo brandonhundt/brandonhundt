@@ -4,7 +4,7 @@ title: Why Not? My Quest to Realign the 50 States
 date: 2011-06-14T03:54:36+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=695
+guid: /?p=695
 permalink: /why-not-my-quest-to-realign-the-50-states/
 image: /wp-content/uploads/2011/06/map.png
 categories:

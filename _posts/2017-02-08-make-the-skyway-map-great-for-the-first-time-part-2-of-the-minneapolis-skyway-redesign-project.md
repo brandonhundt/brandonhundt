@@ -4,7 +4,7 @@ title: Make the skyway map great for the first time. Part 2 of the Minneapolis S
 date: 2017-02-08T21:41:00+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=1230
+guid: /?p=1230
 permalink: /make-the-skyway-map-great-for-the-first-time-part-2-of-the-minneapolis-skyway-redesign-project/
 image: /wp-content/uploads/2017/02/mpls-skyway-map-v1-940x400.jpg
 categories:

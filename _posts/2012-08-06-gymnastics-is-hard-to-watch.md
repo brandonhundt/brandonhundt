@@ -4,7 +4,7 @@ title: Gymnastics is Hard (to Watch)
 date: 2012-08-06T23:06:47+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=846
+guid: /?p=846
 permalink: /gymnastics-is-hard-to-watch/
 image: /wp-content/uploads/2012/08/gymnasts.jpg
 categories:
@@ -23,7 +23,7 @@ _Subtraction is harder than addition._
 
 When watching gymnastics, we are watching teenagers not wanting to fail. You can just sense the tension in the arena. I can see the look in their faces, _just don’t screw this up_. This is not a good tension. It’s not the same tension that is there before a game winning field goal or penalty kick or final event in the Heptathlon. It’s stress.
 
-_Stress is hard on the mind and negatively affects performance._ 
+_Stress is hard on the mind and negatively affects performance._
 
 Also, the artistic performance used to be a factor in the old system. Granted this sometimes went over the top, but it made events like the floor exercise a bit more exciting. In the current scoring system all a gymnast needs to do is complete the events like a robot. There are no more hand movements and dance elements.
 
@@ -45,10 +45,10 @@ _Gymnastics is just hard to watch._
 
 ## Bonus Video&#8230;
 
-Two top notch routines, one from the era of Perfect 10s, one from the new scoring era. Do you see what I’m seeing?  
+Two top notch routines, one from the era of Perfect 10s, one from the new scoring era. Do you see what I’m seeing?
 
 
-  
+
 NOTE: Gabby Douglas is performing the same routine she uses in the Olympics
 
 &#8212;

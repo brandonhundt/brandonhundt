@@ -4,7 +4,7 @@ title: Lessons from New Zealand’s disappointing (and now complete) flag refere
 date: 2015-12-15T09:41:58+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=1255
+guid: /?p=1255
 permalink: /lessons-from-new-zealands-disappointing-and-now-complete-flag-referendum/
 image: /wp-content/uploads/2017/02/nz-flag-finalists-937x400.jpg
 categories:

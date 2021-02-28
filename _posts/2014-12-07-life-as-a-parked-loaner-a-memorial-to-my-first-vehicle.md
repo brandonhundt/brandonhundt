@@ -4,7 +4,7 @@ title: 'Life as a parked loaner - a memorial to my first vehicle'
 date: 2014-12-07T11:25:20+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=1101
+guid: /?p=1101
 permalink: /life-as-a-parked-loaner-a-memorial-to-my-first-vehicle/
 image: /wp-content/uploads/2014/12/dak-940x400.png
 categories:
@@ -14,7 +14,7 @@ categories:
 At 12:01 am this Sunday morning we received a call informing us that my first vehicle — occasionally referred to as Dak — passed away from this life due to the immediate and unrecoverable injuries sustained after being plowed into by a Ford F150 while uninhabited and legally parked on a Minneapolis street. Dak was 15 years old. (Aside: No humans were hurt)<!--more-->
 
 <div id="attachment_1103" style="width: 310px" class="wp-caption alignright">
-  <img class="size-medium wp-image-1103" src="http://rachelbrandon.com/wp-content/uploads/2014/12/dak-alive-300x225.jpg" alt="This was Dak doing what he did best. Taken last winter." width="300" height="225" srcset="https://rachelbrandon.com/wp-content/uploads/2014/12/dak-alive-300x225.jpg 300w, https://rachelbrandon.com/wp-content/uploads/2014/12/dak-alive.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" />
+  <img class="size-medium wp-image-1103" src="/wp-content/uploads/2014/12/dak-alive-300x225.jpg" alt="This was Dak doing what he did best. Taken last winter." width="300" height="225" srcset="https://rachelbrandon.com/wp-content/uploads/2014/12/dak-alive-300x225.jpg 300w, https://rachelbrandon.com/wp-content/uploads/2014/12/dak-alive.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" />
 
   <p class="wp-caption-text">
     Dak always captured the essence of being parked during Midwestern winters.

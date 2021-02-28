@@ -4,7 +4,7 @@ title: Fix FIFA by electing me as its next President
 date: 2015-06-03T22:41:08+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=1108
+guid: /?p=1108
 permalink: /fix-fifa-by-electing-me-as-its-next-president/
 image: /wp-content/uploads/2015/06/my-turn-fifa-prez-940x400.png
 categories:
@@ -39,7 +39,7 @@ Here is the _**tl;dr**_ version of my platform as FIFA President:
     Financial Fair Play requirements established for all leagues.
   </li>
   <li>
-    <a href="http://rachelbrandon.com/how-to-remove-bribery-from-fifas-world-cup-selection-process/">No more blind draws</a> to determine World Cup Pools.
+    <a href="/how-to-remove-bribery-from-fifas-world-cup-selection-process/">No more blind draws</a> to determine World Cup Pools.
   </li>
   <li>
     NO MORE SECRET BALLOTS FOR ANYTHING. If the last FIFA election were public, would Blatter have been reelected that easily?

@@ -4,7 +4,7 @@ title: "It's down to four. A New Zealand panel unveils alternate flag options, t
 date: 2015-09-09T09:39:07+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=1252
+guid: /?p=1252
 permalink: /its-down-to-four-a-new-zealand-panel-unveils-alternate-flag-options-to-a-largely-negative-reaction/
 image: /wp-content/uploads/2017/02/nz-top-four-937x400.jpg
 categories:

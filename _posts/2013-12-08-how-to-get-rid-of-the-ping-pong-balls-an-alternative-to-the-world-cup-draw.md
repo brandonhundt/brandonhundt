@@ -4,7 +4,7 @@ title: 'How to get rid of the ping pong balls: An alternative to the World Cup D
 date: 2013-12-08T22:33:57+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=1030
+guid: /?p=1030
 permalink: /how-to-get-rid-of-the-ping-pong-balls-an-alternative-to-the-world-cup-draw/
 image: /wp-content/uploads/2013/12/ping-pong-balls.png
 categories:

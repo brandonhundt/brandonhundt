@@ -4,7 +4,7 @@ title: 'Redrawing NCAA College Football: The End of the Amateur Ideal'
 date: 2011-09-16T19:33:42+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=809
+guid: /?p=809
 permalink: /redrawing-ncaa-college-football-the-end-of-the-amateur-ideal/
 image: /wp-content/uploads/2011/09/buckeye-nation.jpg
 categories:

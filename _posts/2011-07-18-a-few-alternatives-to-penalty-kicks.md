@@ -4,7 +4,7 @@ title: A Few Alternatives to Penalty Kicks
 date: 2011-07-18T01:38:01+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=726
+guid: /?p=726
 permalink: /a-few-alternatives-to-penalty-kicks/
 image: /wp-content/uploads/2011/07/penalties.jpg
 categories:
@@ -31,7 +31,7 @@ First, I’m going to hearken the old NASL days, and suggest the Shootout. When 
 
 The Golden Goal (or sudden death) is another format that has been used for ending a game. It is dramatic, and calls for a team effort. But I really like the idea of using the Golden Goal after the 30 minutes of extra time has expired. And I’d still recommend continuing to switch ends every 15 minutes until a goal is scored. This would require teams to go for it and not just sit back waiting to take penalties.
 
-**Downside:** Just like in the NFL, a quick score could be unsettling without the opportunity to respond. Yet it seems strange to just end a game after a goal, especially if that goal is a quick one. But 
+**Downside:** Just like in the NFL, a quick score could be unsettling without the opportunity to respond. Yet it seems strange to just end a game after a goal, especially if that goal is a quick one. But
 
 ## Keep the Penalties?
 

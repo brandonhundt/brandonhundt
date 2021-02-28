@@ -4,7 +4,7 @@ title: 'Unnecessary Book Review: Baby Touch and Feel Animals'
 date: 2012-03-27T22:45:12+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=827
+guid: /?p=827
 permalink: /book-review-baby-touch-and-feel-animals/
 image: /wp-content/uploads/2012/03/z59-copy.png
 categories:

@@ -4,7 +4,7 @@ title: Looking to rugby for an answer to the pointless extra point
 date: 2014-01-25T13:55:49+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=1046
+guid: /?p=1046
 permalink: /looking-to-rugby-for-an-answer-to-the-pointless-extra-point/
 image: /wp-content/uploads/2014/01/pointless.png
 categories:
@@ -15,11 +15,11 @@ tags:
   - Roger Goodell
   - Sports Reform
 ---
-The <a href="http://www.nytimes.com/2014/01/22/sports/football/nfl-roundup.html?_r=0" rel="external">extra point is now pointless</a>, according to NFL Commissioner Roger Goodell. Being someone that is typically <a href="http://rachelbrandon.com/tag/sports-reform/" rel="external">pro rule change</a> this is music to my ears. However, Goodell’s proposal  just feels wrong. Here it is summed up: A touchdown is automatically worth 7 points, unless the scoring teams attempts to run an additional play for an attempt at an additional point, but if that play is unsuccessful you lose a point. Please try to explain that to a non-football fan. It would just add to an increasingly confusing and over regulated rule book.
+The <a href="http://www.nytimes.com/2014/01/22/sports/football/nfl-roundup.html?_r=0" rel="external">extra point is now pointless</a>, according to NFL Commissioner Roger Goodell. Being someone that is typically <a href="/tag/sports-reform/" rel="external">pro rule change</a> this is music to my ears. However, Goodell’s proposal  just feels wrong. Here it is summed up: A touchdown is automatically worth 7 points, unless the scoring teams attempts to run an additional play for an attempt at an additional point, but if that play is unsuccessful you lose a point. Please try to explain that to a non-football fan. It would just add to an increasingly confusing and over regulated rule book.
 
 <!--more-->
 
-On a related tangent, it always surprises me that Americans (in the most stereotypical connotation of the word) love their version of football even though it is highly regulated and controlled. There are many rules that favor parity and financial fair play, and there’s also a draft system that assigns players to places they’d probably rather not go if they had the choice (i.e. Cleveland). If you were to compare the NFL to any government/economic system, wouldn’t it most parallel European Socialism? This doesn’t sound very free-market / democratic / capitalistic to me. _Spoiler Alert: This may end up being another post down the road. [UPDATE: <a href="http://rachelbrandon.com/the-hypocrisy-between-a-countrys-political-philosophy-and-how-its-sports-leagues-are-run/" rel="external">IT IS NOW.</a>]_
+On a related tangent, it always surprises me that Americans (in the most stereotypical connotation of the word) love their version of football even though it is highly regulated and controlled. There are many rules that favor parity and financial fair play, and there’s also a draft system that assigns players to places they’d probably rather not go if they had the choice (i.e. Cleveland). If you were to compare the NFL to any government/economic system, wouldn’t it most parallel European Socialism? This doesn’t sound very free-market / democratic / capitalistic to me. _Spoiler Alert: This may end up being another post down the road. [UPDATE: <a href="/the-hypocrisy-between-a-countrys-political-philosophy-and-how-its-sports-leagues-are-run/" rel="external">IT IS NOW.</a>]_
 
 Back to the issue at hand, I like that Goodell is thinking outside the box for a rule change to the PAT, but any change to the rule should include football. Let’s look to rugby, American football’s predecessor, for a solution.
 

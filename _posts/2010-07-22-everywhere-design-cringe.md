@@ -4,7 +4,7 @@ title: 'Everywhere Design: Cringe'
 date: 2010-07-22T23:44:37+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=387
+guid: /?p=387
 permalink: /everywhere-design-cringe/
 categories:
   - Brandon

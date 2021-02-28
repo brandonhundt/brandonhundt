@@ -4,7 +4,7 @@ title: Ushering in a New Era of Soccer
 date: 2011-02-21T01:37:53+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=688
+guid: /?p=688
 permalink: /ushering-in-a-new-era-of-soccer/
 image: /wp-content/uploads/2011/02/old-time-soccer.png
 categories:

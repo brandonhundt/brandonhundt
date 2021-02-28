@@ -4,7 +4,7 @@ title: "The hypocrisy between a country's political philosophy and how its sport
 date: 2014-01-25T23:24:36+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=1059
+guid: /?p=1059
 permalink: /the-hypocrisy-between-a-countrys-political-philosophy-and-how-its-sports-leagues-are-run/
 image: /wp-content/uploads/2014/01/world-sports.png
 categories:

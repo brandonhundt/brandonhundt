@@ -9,7 +9,7 @@ excerpt: |
 
   I have heard reports the NBA wants to expand into Europe by creating a new division with teams in London, Berlin, Barcelona, and Paris. This wouldn't work. Too much travel, and it doesn't allow for easy expansion from there. What I do think would work is that the NBA buy or work toward a merger with the Euroleague and the Chinese League (Austrailia). There has to be enough money in the NBA coffers to flat out purchase it. This will allow for the expansion of the game globally, new influence over FIBA, and essentially guarantee the NBA game is played in International Competitions.
 layout: post
-guid: http://rachelbrandon.com/?p=1
+guid: /?p=1
 permalink: /if-i-were-nba-commissioner/
 categories:
   - Brandon

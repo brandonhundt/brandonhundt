@@ -4,7 +4,7 @@ title: Bye, Bye Bron Bron?
 date: 2010-05-15T11:08:30+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=346
+guid: /?p=346
 permalink: /bye-bye-bron-bron/
 categories:
   - Brandon

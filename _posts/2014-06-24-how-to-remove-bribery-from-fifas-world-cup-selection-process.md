@@ -4,7 +4,7 @@ title: "How to remove bribery from FIFA's World Cup selection process"
 date: 2014-06-24T23:13:58+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=1087
+guid: /?p=1087
 permalink: /how-to-remove-bribery-from-fifas-world-cup-selection-process/
 image: /wp-content/uploads/2014/06/Amazonia_Arena-940x400.jpg
 categories:

@@ -4,7 +4,7 @@ title: The Right for States to Compete Against Each Other
 date: 2011-06-19T02:20:55+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=710
+guid: /?p=710
 permalink: /the-right-for-states-to-compete-against-each-other/
 image: /wp-content/uploads/2011/06/redeem-team.jpg
 categories:
@@ -15,7 +15,7 @@ tags:
   - states
   - tournament
 ---
-In a [recent blog post](http://rachelbrandon.com/why-not-my-quest-to-realign-the-50-states/) I redrew the imaginary lines that make up the 50 states. This exercise created a buzz of discussion (8 comments is a lot for this blog) and brought out some state pride and disagreement from the readers. I would like the readership to know that I’m prepared to stand behind, on top of, or in the map I redrew with a few adjustments based on the received feedback.
+In a [recent blog post](/why-not-my-quest-to-realign-the-50-states/) I redrew the imaginary lines that make up the 50 states. This exercise created a buzz of discussion (8 comments is a lot for this blog) and brought out some state pride and disagreement from the readers. I would like the readership to know that I’m prepared to stand behind, on top of, or in the map I redrew with a few adjustments based on the received feedback.
 <!--more-->
 
 

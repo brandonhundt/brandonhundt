@@ -4,7 +4,7 @@ title: Ranking the Best and Worst License Plates
 date: 2011-09-14T21:05:41+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=783
+guid: /?p=783
 permalink: /ranking-the-best-and-worst-license-plates/
 image: /wp-content/uploads/2011/09/header.jpg
 categories:

@@ -4,7 +4,7 @@ title: Ending the Cycle of Violence
 date: 2013-04-16T12:20:39+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=940
+guid: /?p=940
 permalink: /ending-the-cycle-of-violence/
 image: /wp-content/uploads/2013/04/cycle-violence.png
 categories:
@@ -36,13 +36,13 @@ I don’t want this to sound like America is solely responsible for terrorism, b
 Fortunately, Scripture is full of examples for ending the cycle of violence. In Romans 12, Paul outlines what living like a Christian looks like. Remember that when Paul wrote to the church in Rome, they lived under one of the most ruthless governments ever, and as Christians, they were attacked and put to death by their own government. Their enemies were more powerful than they and could get away oppressing them. And still, Paul offers these words:
 
 > Do not repay anyone evil for evil. Be careful to do what is right in the eyes of everyone. 18 If it is possible, as far as it depends on you, live at peace with everyone. 19 Do not take revenge, my dear friends, but leave room for God’s wrath, for it is written: “It is mine to avenge; I will repay,”[[d](http://www.biblegateway.com/passage/?search=Romans+12&version=NIV#fen-NIV-28265d)] says the Lord. 20 On the contrary:
-> 
+>
 > “If your enemy is hungry, feed him;
-> 
+>
 >    if he is thirsty, give him something to drink.
-> 
+>
 > In doing this, you will heap burning coals on his head.”[[e](http://www.biblegateway.com/passage/?search=Romans+12&version=NIV#fen-NIV-28266e)]
-> 
+>
 > 21 Do not be overcome by evil, but overcome evil with good.
 
 Notice how Paul doesn’t say, overcome evil with a greater act of revenge that will appease the vengeful public. But he says, overcome evil with good. This was as countercultural then as it is now.
@@ -67,7 +67,7 @@ I suppose that is what one would expect to happen, but Jesus doesn’t play by t
 
 ## Can someone be Pro-God, Pro-Life, and Pro-Gun?
 
-[<img class="alignnone size-full wp-image-942" title="413F8iclHGL._SL500_AA300_" src="http://rachelbrandon.com/wp-content/uploads/2013/04/413F8iclHGL._SL500_AA300_.jpg" alt="" width="300" height="300" srcset="https://rachelbrandon.com/wp-content/uploads/2013/04/413F8iclHGL._SL500_AA300_.jpg 300w, https://rachelbrandon.com/wp-content/uploads/2013/04/413F8iclHGL._SL500_AA300_-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.amazon.com/Guns-Life-Obama-Bumper-Sticker/dp/B007DKQGQC)The other night I was refueling my vehicle, and I saw a bumper sticker that looked like the one to the left:
+[<img class="alignnone size-full wp-image-942" title="413F8iclHGL._SL500_AA300_" src="/wp-content/uploads/2013/04/413F8iclHGL._SL500_AA300_.jpg" alt="" width="300" height="300" srcset="https://rachelbrandon.com/wp-content/uploads/2013/04/413F8iclHGL._SL500_AA300_.jpg 300w, https://rachelbrandon.com/wp-content/uploads/2013/04/413F8iclHGL._SL500_AA300_-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.amazon.com/Guns-Life-Obama-Bumper-Sticker/dp/B007DKQGQC)The other night I was refueling my vehicle, and I saw a bumper sticker that looked like the one to the left:
 
 Here is my question, can one be Pro-God, Pro-Life, and Pro-Gun? Can you value life and guns? Are there guns in Heaven?
 

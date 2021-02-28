@@ -4,7 +4,7 @@ title: Trivia with a Twist or Two (TWTOT)
 date: 2010-05-08T12:45:18+00:00
 author: Brandon Hundt
 layout: post
-guid: http://rachelbrandon.com/?p=316
+guid: /?p=316
 permalink: /trivia-with-a-twist-or-two-twatot/
 categories:
   - Brandon
