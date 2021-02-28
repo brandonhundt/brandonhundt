@@ -1,6 +1,7 @@
 ---
 id: 1240
 title: Advice on how to be a well informed news consumer
+redirect_to: https://medium.com/@BrandonHundt/advice-on-how-to-be-a-well-informed-news-consumer-96eeb55f49d9#.tu8nejhqv
 date: 2017-02-02T00:23:56+00:00
 author: Brandon Hundt
 layout: post
