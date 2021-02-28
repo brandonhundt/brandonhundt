@@ -5,6 +5,7 @@ date: 2017-02-17T12:22:59+00:00
 author: Brandon Hundt
 layout: post
 guid: https://rachelbrandon.com/?p=1320
+redirect_from: https://rachelbrandon.com/10-minnesota-city-flags-ranked-from-worst-to-absolute-worst-and-one-thats-alright/
 permalink: /minneapolis-love-hate-relationship-with-the-skyway-and-how-to-make-it-suck-a-lot-less-city-pages-version/
 image: /wp-content/uploads/2020/11/ctypskywayimages-800x400.jpg
 categories:

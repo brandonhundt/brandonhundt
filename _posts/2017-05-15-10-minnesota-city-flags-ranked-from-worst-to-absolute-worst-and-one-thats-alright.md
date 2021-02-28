@@ -5,6 +5,7 @@ date: 2017-05-15T23:09:09+00:00
 author: Brandon Hundt
 layout: post
 guid: http://rachelbrandon.com/?p=1274
+redirect_from: http://rachelbrandon.com/10-minnesota-city-flags-ranked-from-worst-to-absolute-worst-and-one-thats-alright/
 permalink: /10-minnesota-city-flags-ranked-from-worst-to-absolute-worst-and-one-thats-alright/
 image: /wp-content/uploads/2017/05/1600px-Flag_of_Rochester_Minnesota.svg_-940x400.png
 categories:
