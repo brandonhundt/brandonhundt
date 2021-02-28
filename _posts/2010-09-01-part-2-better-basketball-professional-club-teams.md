@@ -35,7 +35,7 @@ Also to help smaller or recently relegated clubs in remaining profitable and com
 ## Regions and Divisions
 
 <div class="right">
-  <a href="http://rachel.brandonhundt.com/wp-content/uploads/2010/09/IMG_20100829_153740.jpg"><img class="alignright size-full wp-image-490" title="IMG_20100829_153740-sm" src="http://rachel.brandonhundt.com/wp-content/uploads/2010/09/IMG_20100829_153740-sm.jpg" alt="" width="250" height="335" srcset="https://rachelbrandon.com/wp-content/uploads/2010/09/IMG_20100829_153740-sm.jpg 250w, https://rachelbrandon.com/wp-content/uploads/2010/09/IMG_20100829_153740-sm-223x300.jpg 223w" sizes="(max-width: 250px) 100vw, 250px" /></a></p>
+  <a href="http://rachel.brandonhundt.com/wp-content/uploads/2010/09/IMG_20100829_153740.jpg"><img class="alignright size-full wp-image-490" title="IMG_20100829_153740-sm" src="http://rachel.brandonhundt.com/wp-content/uploads/2010/09/IMG_20100829_153740-sm.jpg" alt="" width="250" height="335" srcset="/wp-content/uploads/2010/09/IMG_20100829_153740-sm.jpg 250w, /wp-content/uploads/2010/09/IMG_20100829_153740-sm-223x300.jpg 223w" sizes="(max-width: 250px) 100vw, 250px" /></a></p>
 
   <p class="wp-caption-text">
     Clearly, whiteboards are helpful.

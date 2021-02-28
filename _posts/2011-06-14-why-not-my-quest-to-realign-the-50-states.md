@@ -39,7 +39,7 @@ Here were my rules to give this “study” some credibility and reason:
 ## The Map
 
 I will admit this is not the most detailed map but it will provide a general starting point. Click the map for a larger view.
-[<img class="alignleft size-large wp-image-698" title="50-states-realinged" src="/wp-content/uploads/2011/06/50-states-realinged-1024x729.png" alt="" width="640" height="455" srcset="https://rachelbrandon.com/wp-content/uploads/2011/06/50-states-realinged-1024x729.png 1024w, https://rachelbrandon.com/wp-content/uploads/2011/06/50-states-realinged-300x213.png 300w, https://rachelbrandon.com/wp-content/uploads/2011/06/50-states-realinged.png 1464w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2011/06/50-states-realinged.png)
+[<img class="alignleft size-large wp-image-698" title="50-states-realinged" src="/wp-content/uploads/2011/06/50-states-realinged-1024x729.png" alt="" width="640" height="455" srcset="/wp-content/uploads/2011/06/50-states-realinged-1024x729.png 1024w, /wp-content/uploads/2011/06/50-states-realinged-300x213.png 300w, /wp-content/uploads/2011/06/50-states-realinged.png 1464w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2011/06/50-states-realinged.png)
 
 <h2 style="clear: both;">
   The Reasons Behind the Map

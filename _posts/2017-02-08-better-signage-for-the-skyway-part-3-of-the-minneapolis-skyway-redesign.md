@@ -18,7 +18,7 @@ In [part 2](/make-the-skyway-map-great-for-the-first-time-part-2-of-the-minneapo
 
 For the Vignelli inspired transit map to work, it needs good signage. Simple to read to read. Colorful and clear. I’ll try to keep this brief:
 
-<img class="aligncenter size-full wp-image-1225" src="/wp-content/uploads/2017/02/mpls-skyway-signage1.jpg" alt="mpls-skyway-signage1" width="612" height="466" srcset="https://rachelbrandon.com/wp-content/uploads/2017/02/mpls-skyway-signage1.jpg 612w, https://rachelbrandon.com/wp-content/uploads/2017/02/mpls-skyway-signage1-300x228.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" />
+<img class="aligncenter size-full wp-image-1225" src="/wp-content/uploads/2017/02/mpls-skyway-signage1.jpg" alt="mpls-skyway-signage1" width="612" height="466" srcset="/wp-content/uploads/2017/02/mpls-skyway-signage1.jpg 612w, /wp-content/uploads/2017/02/mpls-skyway-signage1-300x228.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" />
 
 First, I created these to the size that is intended to fit the majority of signage that is currently in the skyway. However, a recent walk through the skyways revealed to me all kinds of unorthodox shapes to some of signs (the signs at both ends of Block E - now known as Mayo Clinic Square- [are waved shaped](/wp-content/uploads/2017/02/20170216_143218.jpg)). The unorthodox shapes would need to be replaced with the rectangular version. They need to be replaced in general.
 
@@ -30,7 +30,7 @@ Also on the occasion that you are passing through a building with no other cross
 
 Lastly, I want to show what the sign would look like if you are entering the building with the most skyway entrances - City Center. There are no less than seven entrances to that building. I have mocked up five of them to show you this system can handle the most complex of scenarios:
 
-<img class="aligncenter size-full wp-image-1226" src="/wp-content/uploads/2017/02/mpls-skyway-signage2.jpg" alt="mpls-skyway-signage2" width="612" height="626" srcset="https://rachelbrandon.com/wp-content/uploads/2017/02/mpls-skyway-signage2.jpg 612w, https://rachelbrandon.com/wp-content/uploads/2017/02/mpls-skyway-signage2-293x300.jpg 293w" sizes="(max-width: 612px) 100vw, 612px" />
+<img class="aligncenter size-full wp-image-1226" src="/wp-content/uploads/2017/02/mpls-skyway-signage2.jpg" alt="mpls-skyway-signage2" width="612" height="626" srcset="/wp-content/uploads/2017/02/mpls-skyway-signage2.jpg 612w, /wp-content/uploads/2017/02/mpls-skyway-signage2-293x300.jpg 293w" sizes="(max-width: 612px) 100vw, 612px" />
 
 ## A conclusion to the series
 

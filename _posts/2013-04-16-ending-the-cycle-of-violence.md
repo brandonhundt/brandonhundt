@@ -67,7 +67,7 @@ I suppose that is what one would expect to happen, but Jesus doesn’t play by t
 
 ## Can someone be Pro-God, Pro-Life, and Pro-Gun?
 
-[<img class="alignnone size-full wp-image-942" title="413F8iclHGL._SL500_AA300_" src="/wp-content/uploads/2013/04/413F8iclHGL._SL500_AA300_.jpg" alt="" width="300" height="300" srcset="https://rachelbrandon.com/wp-content/uploads/2013/04/413F8iclHGL._SL500_AA300_.jpg 300w, https://rachelbrandon.com/wp-content/uploads/2013/04/413F8iclHGL._SL500_AA300_-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.amazon.com/Guns-Life-Obama-Bumper-Sticker/dp/B007DKQGQC)The other night I was refueling my vehicle, and I saw a bumper sticker that looked like the one to the left:
+[<img class="alignnone size-full wp-image-942" title="413F8iclHGL._SL500_AA300_" src="/wp-content/uploads/2013/04/413F8iclHGL._SL500_AA300_.jpg" alt="" width="300" height="300" srcset="/wp-content/uploads/2013/04/413F8iclHGL._SL500_AA300_.jpg 300w, /wp-content/uploads/2013/04/413F8iclHGL._SL500_AA300_-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.amazon.com/Guns-Life-Obama-Bumper-Sticker/dp/B007DKQGQC)The other night I was refueling my vehicle, and I saw a bumper sticker that looked like the one to the left:
 
 Here is my question, can one be Pro-God, Pro-Life, and Pro-Gun? Can you value life and guns? Are there guns in Heaven?
 

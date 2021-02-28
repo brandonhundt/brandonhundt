@@ -327,7 +327,7 @@ Ideally, a 16 team knock phase works best. Therefore we need to divide the 50 st
 
 So in each group, each state plays the other states in their region once. This stage would take two weeks (with a game every other day) at a site within each region (reducing travel). The knock-out rounds will occur over the third and fourth weeks of the competition. This is how the final bracket will be set up:
 
-<img class="alignleft size-full wp-image-712" style="margin: 0 0 1em;" title="states-right-bracket" src="http://rachel.brandonhundt.com/wp-content/uploads/2011/06/states-right-bracket.jpg" alt="" width="679" height="382" srcset="https://rachelbrandon.com/wp-content/uploads/2011/06/states-right-bracket.jpg 679w, https://rachelbrandon.com/wp-content/uploads/2011/06/states-right-bracket-300x168.jpg 300w" sizes="(max-width: 679px) 100vw, 679px" />
+<img class="alignleft size-full wp-image-712" style="margin: 0 0 1em;" title="states-right-bracket" src="http://rachel.brandonhundt.com/wp-content/uploads/2011/06/states-right-bracket.jpg" alt="" width="679" height="382" srcset="/wp-content/uploads/2011/06/states-right-bracket.jpg 679w, /wp-content/uploads/2011/06/states-right-bracket-300x168.jpg 300w" sizes="(max-width: 679px) 100vw, 679px" />
 
 <div style="clear: both; margin: 1em 0;">
   <p>

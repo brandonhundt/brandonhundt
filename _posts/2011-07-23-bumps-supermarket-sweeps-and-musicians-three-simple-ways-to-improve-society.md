@@ -42,7 +42,7 @@ Here is how these ideas can improve society: Grocery stores should act more like
 
 <div style="float: right; margin: 0 0 15px 15px;">
   <div id="attachment_741" style="width: 310px" class="wp-caption alignright">
-    <img class="size-medium wp-image-741" title="musician in concert" src="/wp-content/uploads/2011/07/musican-in-concert-300x198.jpg" alt="" width="300" height="198" srcset="https://rachelbrandon.com/wp-content/uploads/2011/07/musican-in-concert-300x198.jpg 300w, https://rachelbrandon.com/wp-content/uploads/2011/07/musican-in-concert-1024x678.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />
+    <img class="size-medium wp-image-741" title="musician in concert" src="/wp-content/uploads/2011/07/musican-in-concert-300x198.jpg" alt="" width="300" height="198" srcset="/wp-content/uploads/2011/07/musican-in-concert-300x198.jpg 300w, /wp-content/uploads/2011/07/musican-in-concert-1024x678.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />
 
     <p class="wp-caption-text">
       Let's be honest, this guy looks like he has a lot on his mind.
