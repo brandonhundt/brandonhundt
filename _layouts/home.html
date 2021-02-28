@@ -4,6 +4,64 @@ layout: default
 <div class="home">
   {{ content }}
 
+  <div class="home-container about-container">
+    <h2>About</h2>
+    <div class="wrapper">
+      <p>I'm Brandon and I live in Minneapolis, MN. You'll typically find me exploring the intersection
+        of design, geography, and sports. In other words, I like flags and maps.</p>
+
+      <p>During the weekday, I'm the Director of Product Management for PRX, working on <a
+          href="https://www.prx.org/publishing-platform">PRX
+          Dovetail</a> and the website for <a href="https://theworld.org"><em>The World from PRX</em></a>.</p>
+
+      <p>I have written for <a href="https://theworld.org/people/brandon-hundt">PRI.org</a> and City Pages (RIP). <a
+          href="(https://twitter.com/BrandonHundt2)">Follow me on
+          Twitter</a>.</p>
+    </div>
+  </div>
+
+  <div class="home-container design-container">
+    <h2>Latest Designs:</h2>
+    <ul class="post-list">
+      <li class="post-teaser-has-image"
+        style="background-image: url('/wp-content/uploads/2017/02/mpls-skyway-map-v1-940x400.jpg');">
+        <div class="post-content">
+          <h3>
+            <a class="post-link" href="/wp-content/uploads/2020/01/mpls-skyway-map-v1.4.pdf">
+              Minneapolis Skyway Map, current version
+            </a>
+          </h3>
+        </div>
+      </li>
+      <li class="post-teaser-has-image" style="background-image: url('/wp-content/uploads/2015/10/norse-star.png');">
+        <div class="post-content">
+          <h3>
+            <a class="post-link" href="/the-latest-design-for-a-new-minnesota-flag-is-inspired-by-letoile-du-nord/">
+              Minnesota State Flag
+            </a>
+          </h3>
+        </div>
+      </li>
+      <li class="post-teaser-has-image" style="background-image: url('/assets/VQxIibJg.jpg');">
+        <div class="post-content">
+          <h3>
+            <a class="post-link" href="/assets/VQxIibJg.jpg">
+              The one that almost won, Rochester, MN City Flag
+            </a>
+          </h3>
+        </div>
+      </li>
+      <li class="post-teaser-has-image" style="background-image: url('/assets/mpls-concept-after-floyd.png');">
+        <div class="post-content">
+          <h3>
+            <a class="post-link" href="/assets/mpls-concept-after-floyd.png">
+              Minneapolis City Flag concept after George Floyd
+            </a>
+          </h3>
+        </div>
+      </li>
+    </ul>
+  </div>
   {% if site.paginate %}
   {% assign posts = paginator.posts %}
   {% else %}
@@ -11,51 +69,53 @@ layout: default
   {% endif %}
 
   {%- if posts.size > 0 -%}
-  <ul class="post-list">
-    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    {%- for post in posts -%}
-    {%- if post.image -%}
-    <li class="post-teaser-has-image" style="background-image: url('{{ post.image }}');">
-      {%- else -%}
-    <li>
-      {%- endif -%}
-      <div class="post-content">
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-      </div>
-    </li>
-    {%- endfor -%}
-  </ul>
-
-  {% if site.paginate %}
-  <div class="pager">
-    <ul class="pagination">
-      {%- if paginator.previous_page %}
-      <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page
-          }}</a></li>
-      {%- else %}
+  <div class="home-container post-container">
+    <h2>Posts:</h2>
+    <ul class="post-list">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- for post in posts -%}
+      {%- if post.image -%}
+      <li class="post-teaser-has-image" style="background-image: url('{{ post.image }}');">
+        {%- else -%}
       <li>
-        <div class="pager-edge">•</div>
+        {%- endif -%}
+        <div class="post-content">
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+        </div>
       </li>
-      {%- endif %}
-      <li>
-        <div class="current-page">{{ paginator.page }}</div>
-      </li>
-      {%- if paginator.next_page %}
-      <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
-      {%- else %}
-      <li>
-        <div class="pager-edge">•</div>
-      </li>
-      {%- endif %}
+      {%- endfor -%}
     </ul>
-  </div>
-  {%- endif %}
 
+    {% if site.paginate %}
+    <div class="pager">
+      <ul class="pagination">
+        {%- if paginator.previous_page %}
+        <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page
+            }}</a></li>
+        {%- else %}
+        <li>
+          <div class="pager-edge">•</div>
+        </li>
+        {%- endif %}
+        <li>
+          <div class="current-page">{{ paginator.page }}</div>
+        </li>
+        {%- if paginator.next_page %}
+        <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
+        {%- else %}
+        <li>
+          <div class="pager-edge">•</div>
+        </li>
+        {%- endif %}
+      </ul>
+    </div>
+    {%- endif %}
+  </div>
   {%- endif -%}
 
 </div>
