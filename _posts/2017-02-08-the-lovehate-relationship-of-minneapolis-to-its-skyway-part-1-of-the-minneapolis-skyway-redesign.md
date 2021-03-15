@@ -39,7 +39,7 @@ I work in downtown Minneapolis and if I’m being honest, I can sense a real [lo
 
 Seriously here is the official Skyway map:
 
-<div id="attachment_1260" style="width: 650px" class="wp-caption alignnone">
+<div id="attachment_1260" class="wp-caption alignnone">
   <img class="size-large wp-image-1260" src="/wp-content/uploads/2017/02/23161166002_c940553345_o-1-1024x576.jpg" alt="Skyway Map" width="640" height="360" srcset="/wp-content/uploads/2017/02/23161166002_c940553345_o-1-1024x576.jpg 1024w, /wp-content/uploads/2017/02/23161166002_c940553345_o-1-300x169.jpg 300w, /wp-content/uploads/2017/02/23161166002_c940553345_o-1-768x432.jpg 768w" sizes="(max-width: 640px) 100vw, 640px" />
 
   <p class="wp-caption-text">
@@ -49,7 +49,7 @@ Seriously here is the official Skyway map:
 
 And here is an example of the signage:
 
-<div id="attachment_1261" style="width: 810px" class="wp-caption alignnone">
+<div id="attachment_1261" class="wp-caption alignnone">
   <img class="size-full wp-image-1261" src="/wp-content/uploads/2017/02/309058875_bc124e586f_o.jpg" alt="Skyway Signage" width="800" height="532" srcset="/wp-content/uploads/2017/02/309058875_bc124e586f_o.jpg 800w, /wp-content/uploads/2017/02/309058875_bc124e586f_o-300x200.jpg 300w, /wp-content/uploads/2017/02/309058875_bc124e586f_o-768x511.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
 
   <p class="wp-caption-text">

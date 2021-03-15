@@ -43,8 +43,8 @@ However, we do have a few extra use cases to consider that are unique to skyway 
 
 Taking these five concepts into consideration, I created the following map:
 
-<div style="width: 100%;">
-  <div id="attachment_1293" style="width: 650px" class="wp-caption alignnone">
+<div>
+  <div id="attachment_1293" class="wp-caption alignnone">
     <a title="Click to open PDF version" href="/wp-content/uploads/2020/01/mpls-skyway-map-v1.4.pdf"><img class="alignnone size-large wp-image-1299" src="/wp-content/uploads/2020/01/mpls-skyway-map-v1.4-1024x926.jpg" alt="Minneapolis Skywap Map" width="640" height="579" srcset="/wp-content/uploads/2020/01/mpls-skyway-map-v1.4-1024x926.jpg 1024w, /wp-content/uploads/2020/01/mpls-skyway-map-v1.4-300x271.jpg 300w, /wp-content/uploads/2020/01/mpls-skyway-map-v1.4-768x695.jpg 768w, /wp-content/uploads/2020/01/mpls-skyway-map-v1.4.jpg 1152w" sizes="(max-width: 640px) 100vw, 640px" /></a>
 
     <p class="wp-caption-text">

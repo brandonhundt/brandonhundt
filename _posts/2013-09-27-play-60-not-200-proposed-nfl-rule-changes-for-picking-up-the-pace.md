@@ -18,7 +18,7 @@ tags:
 ---
 Every year NFL games seem to get longer and longer. Most take three to three and a half real hours to play 60 minutes of actual game. So lets pick up the pace a bit by setting a goal to have games played in a 2.5 hour window. Here's how:<!--more-->
 
-<div id="attachment_998" style="width: 310px" class="wp-caption alignright">
+<div id="attachment_998" class="wp-caption alignright">
   <a href="/wp-content/uploads/2013/09/2725990219_ff1ce81137_n.jpg"><img class="size-medium wp-image-998" alt="Teams even practice huddling. Credit: http://www.flickr.com/photos/bernzilla/2725990219/" src="/wp-content/uploads/2013/09/2725990219_ff1ce81137_n-300x198.jpg" width="300" height="198" srcset="/wp-content/uploads/2013/09/2725990219_ff1ce81137_n-300x198.jpg 300w, /wp-content/uploads/2013/09/2725990219_ff1ce81137_n.jpg 320w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 
   <p class="wp-caption-text">
@@ -38,7 +38,7 @@ With the huddle banned this is a natural. The Chip Kelly Eagles are snapping eve
 
 ## Bonus Rule:
 
-<div id="attachment_1000" style="width: 310px" class="wp-caption alignright">
+<div id="attachment_1000" class="wp-caption alignright">
   <a href="/wp-content/uploads/2013/09/6274195289_5b174a1cd8.jpg"><img class="size-medium wp-image-1000" alt="Ahem....  Credit: http://www.flickr.com/photos/marianne_oleary/6274195289/sizes/m/in/photostream/" src="/wp-content/uploads/2013/09/6274195289_5b174a1cd8-300x225.jpg" width="300" height="225" srcset="/wp-content/uploads/2013/09/6274195289_5b174a1cd8-300x225.jpg 300w, /wp-content/uploads/2013/09/6274195289_5b174a1cd8.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 
   <p class="wp-caption-text">

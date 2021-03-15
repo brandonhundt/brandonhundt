@@ -1,0 +1,62 @@
+I"M<p>As pointed out in <a href="/the-lovehate-relationship-of-minneapolis-to-its-skyway-part-1-of-the-minneapolis-skyway-redesign">part 1</a>, current versions of Minneapolis skyway maps are mostly cluttered and confusing - but I can’t really blame the map creators. It’s a confusing system! A literal skyway map is a mess any which way you try to attempt it. Just think of the layers of the skyway, you have streets, buildings, and the actual skyways, that zig and zag through a building.<!--more--></p>
+
+<blockquote>
+  <p>“Straight and orderly the skyway is not”</p>
+  <ul>
+    <li>Yoda</li>
+  </ul>
+</blockquote>
+
+<p>Therefore, I’m suggesting we deconstruct the skyway system and I feel best way to do this is to follow the transit (aka subway) map model with a few variations.</p>
+
+<p>As an example of deconstruction, we only need to look at the experience of riding a train - only three things really matter. The stop, the route, and the destination. A train can go around a curve or two but what’s that to you? The train is taking you where you need to go and it only stops at marked stations.</p>
+
+<p>The legendary Massimo Vignelli brilliantly took advantage of this in designing <a href="http://www.openculture.com/2014/05/designer-massimo-vignelli-explains-his-iconic-1972-new-york-city-subway-map.html">New York’s subway map</a>. You’ll notice he completely ignored streets, distances and curves, instead he used horizontal and vertical straight lines and the occasional 45 degree angle. He also used colors to signify routes, and stations were simple equally spaced dots on the map.</p>
+
+<p>Today we couldn’t imagine any subway system without it this type of map.</p>
+
+<p>Now it is time to apply the principles of Vignelli’s map to the skyway and its jagged edges. And we to need to start by identifying what matters to the skyway user.</p>
+
+<ol>
+  <li>
+    <p><strong>Buildings:</strong> Essentially these are equivalent to a train stop.</p>
+  </li>
+  <li>
+    <p><strong>Skyways:</strong> These connect buildings to one another.</p>
+  </li>
+  <li>
+    <p><strong>Destinations:</strong> The skyway user doesn’t necessarily need to know North from South or East from West - especially considering that Downtown Minneapolis sits on a NW - SE street grid. Therefore, a skyway users needs to know they are headed in the correct direction and getting closer to their intended location.</p>
+  </li>
+</ol>
+
+<p>However, we do have a few extra use cases to consider that are unique to skyway users:</p>
+
+<ol>
+  <li><strong>Distance:</strong> Skyway users are for the most part, walking. This means we can’t completely ignore the concept of distance. While not needing to provide exact distances we don’t need to be exact either.</li>
+</ol>
+
+<p>5. <strong>Streets:</strong> The skyway is in many ways an extension of the street and is connected to the street. Therefore, we can’t completely ignore streets. They would also form a good barometer of distance - as measured in blocks.</p>
+
+<p>Taking these five concepts into consideration, I created the following map:</p>
+
+<div>
+  <div id="attachment_1293" class="wp-caption alignnone">
+    <a title="Click to open PDF version" href="/wp-content/uploads/2020/01/mpls-skyway-map-v1.4.pdf"><img class="alignnone size-large wp-image-1299" src="/wp-content/uploads/2020/01/mpls-skyway-map-v1.4-1024x926.jpg" alt="Minneapolis Skywap Map" width="640" height="579" srcset="/wp-content/uploads/2020/01/mpls-skyway-map-v1.4-1024x926.jpg 1024w, /wp-content/uploads/2020/01/mpls-skyway-map-v1.4-300x271.jpg 300w, /wp-content/uploads/2020/01/mpls-skyway-map-v1.4-768x695.jpg 768w, /wp-content/uploads/2020/01/mpls-skyway-map-v1.4.jpg 1152w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+
+    <p class="wp-caption-text">
+      Click map to view PDF version. Last update: January 20th, 2020
+    </p>
+  </div>
+</div>
+
+<p>That’s so pleasant. Here are some things worth highlighting in the map:</p>
+
+<ul>
+  <li>The street grid was changed to be completely vertical and horizontal, even though IRL it is not. This is in response to pedestrians not needing to know which way is true north.</li>
+  <li>Skyways are made straight through buildings — UNLESS there is an important jagged edge worth noting to users or multiple paths through a building.</li>
+  <li>I’m introducing routes to the skyway. This would help us to let users know they are moving in the correct direction.</li>
+  <li>I have been unable to walk all 11 miles of the skyway to confirm its accurate enough. I created this version off of old maps. If you have any suggestions for improving the routes please let me know!</li>
+</ul>
+
+<p>Feel free to use the map as you see fit. Admittedly, signage is still a big piece to this project as it may be difficult to use this map without. I address signage in <a href="/better-signage-for-the-skyway-part-3-of-the-minneapolis-skyway-redesign">part 3</a>. Onwards!</p>
+:ET

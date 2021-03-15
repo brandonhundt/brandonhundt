@@ -32,7 +32,7 @@ However the design of the flag is — and I’m searching for the right word her
 
 As much as the North Star flag is a real improvement over the [current state flag](https://en.wikipedia.org/wiki/Flag_of_Minnesota), we can do better. Minnesota is much more vibrant and progressive place than this flag represents.
 
-<div id="attachment_1147" style="width: 650px" class="wp-caption alignnone">
+<div id="attachment_1147" class="wp-caption alignnone">
   <a href="/wp-content/uploads/2015/10/Screen-Shot-2015-10-26-at-6.45.19-PM.png"><img class="wp-image-1147 size-large" src="/wp-content/uploads/2015/10/Screen-Shot-2015-10-26-at-6.45.19-PM-1024x583.png" alt="Screen Shot 2015-10-26 at 6.45.19 PM" width="640" height="364" srcset="/wp-content/uploads/2015/10/Screen-Shot-2015-10-26-at-6.45.19-PM-1024x583.png 1024w, /wp-content/uploads/2015/10/Screen-Shot-2015-10-26-at-6.45.19-PM-300x171.png 300w" sizes="(max-width: 640px) 100vw, 640px" /></a>
 
   <p class="wp-caption-text">
@@ -44,7 +44,7 @@ As much as the North Star flag is a real improvement over the [current state fla
   Therefore, I got to work. Creating, posting to the group, iterating. I went through at least 50 or 60 concepts and or iterations. At first I started riffing off the North Star flag, different types of stars and even an ugly sweater.
 </p>
 
-<div id="attachment_1149" style="width: 650px" class="wp-caption alignnone">
+<div id="attachment_1149" class="wp-caption alignnone">
   <a href="/wp-content/uploads/2015/10/4602885840_2fc71fcafd_z.jpg"><img class="wp-image-1149 size-full" style="float: none; margin: 0;" src="/wp-content/uploads/2015/10/4602885840_2fc71fcafd_z.jpg" alt="4602885840_2fc71fcafd_z" width="640" height="480" srcset="/wp-content/uploads/2015/10/4602885840_2fc71fcafd_z.jpg 640w, /wp-content/uploads/2015/10/4602885840_2fc71fcafd_z-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></a>
 
   <p class="wp-caption-text">

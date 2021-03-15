@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://brandonhundt.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://brandonhundt.github.io//" rel="alternate" type="text/html" /><updated>2021-02-28T18:03:01-06:00</updated><id>https://brandonhundt.github.io//feed.xml</id><title type="html">Brandon Hundt</title><subtitle>Product Manager / Designer / UX Architect</subtitle><entry><title type="html">After George Floyd, we need a new Minneapolis Flag</title><link href="https://brandonhundt.github.io//2021-02-28-new-minneapolis-flag-after-george-floyd/" rel="alternate" type="text/html" title="After George Floyd, we need a new Minneapolis Flag" /><published>2021-02-28T17:09:09-06:00</published><updated>2021-02-28T17:09:09-06:00</updated><id>https://brandonhundt.github.io//new-minneapolis-flag-after-george-floyd</id><content type="html" xml:base="https://brandonhundt.github.io//2021-02-28-new-minneapolis-flag-after-george-floyd/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Editor’s Note: This post was written in summer 2020, but wasn’t published until February 28th, 2021. I decided to preserve some of my thoughts and emotions after the murder of George Floyd. I provide updates where appropriate.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://brandonhundt.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://brandonhundt.github.io//" rel="alternate" type="text/html" /><updated>2021-03-15T18:45:01-05:00</updated><id>https://brandonhundt.github.io//feed.xml</id><title type="html">Brandon Hundt</title><subtitle>Product Manager / Designer / UX Architect</subtitle><entry><title type="html">After George Floyd, we need a new Minneapolis Flag</title><link href="https://brandonhundt.github.io//2021-02-28-new-minneapolis-flag-after-george-floyd/" rel="alternate" type="text/html" title="After George Floyd, we need a new Minneapolis Flag" /><published>2021-02-28T17:09:09-06:00</published><updated>2021-02-28T17:09:09-06:00</updated><id>https://brandonhundt.github.io//new-minneapolis-flag-after-george-floyd</id><content type="html" xml:base="https://brandonhundt.github.io//2021-02-28-new-minneapolis-flag-after-george-floyd/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Editor’s Note: This post was written in summer 2020, but wasn’t published until February 28th, 2021. I decided to preserve some of my thoughts and emotions after the murder of George Floyd. I provide updates where appropriate.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Its been a tough few weeks in Minneapolis since the brutal murder of George Floyd at the knee of Derek Chauvin. Our city is forever changed.&lt;/p&gt;
 
@@ -331,7 +331,7 @@ The city motto is &lt;em&gt;En Avant (French for ‘Forward’) _as represented 
 
 &lt;p&gt;Seriously here is the official Skyway map:&lt;/p&gt;
 
-&lt;div id=&quot;attachment_1260&quot; style=&quot;width: 650px&quot; class=&quot;wp-caption alignnone&quot;&gt;
+&lt;div id=&quot;attachment_1260&quot; class=&quot;wp-caption alignnone&quot;&gt;
   &lt;img class=&quot;size-large wp-image-1260&quot; src=&quot;/wp-content/uploads/2017/02/23161166002_c940553345_o-1-1024x576.jpg&quot; alt=&quot;Skyway Map&quot; width=&quot;640&quot; height=&quot;360&quot; srcset=&quot;/wp-content/uploads/2017/02/23161166002_c940553345_o-1-1024x576.jpg 1024w, /wp-content/uploads/2017/02/23161166002_c940553345_o-1-300x169.jpg 300w, /wp-content/uploads/2017/02/23161166002_c940553345_o-1-768x432.jpg 768w&quot; sizes=&quot;(max-width: 640px) 100vw, 640px&quot; /&gt;
 
   &lt;p class=&quot;wp-caption-text&quot;&gt;
@@ -341,7 +341,7 @@ The city motto is &lt;em&gt;En Avant (French for ‘Forward’) _as represented 
 
 &lt;p&gt;And here is an example of the signage:&lt;/p&gt;
 
-&lt;div id=&quot;attachment_1261&quot; style=&quot;width: 810px&quot; class=&quot;wp-caption alignnone&quot;&gt;
+&lt;div id=&quot;attachment_1261&quot; class=&quot;wp-caption alignnone&quot;&gt;
   &lt;img class=&quot;size-full wp-image-1261&quot; src=&quot;/wp-content/uploads/2017/02/309058875_bc124e586f_o.jpg&quot; alt=&quot;Skyway Signage&quot; width=&quot;800&quot; height=&quot;532&quot; srcset=&quot;/wp-content/uploads/2017/02/309058875_bc124e586f_o.jpg 800w, /wp-content/uploads/2017/02/309058875_bc124e586f_o-300x200.jpg 300w, /wp-content/uploads/2017/02/309058875_bc124e586f_o-768x511.jpg 768w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot; /&gt;
 
   &lt;p class=&quot;wp-caption-text&quot;&gt;
@@ -394,8 +394,8 @@ The city motto is &lt;em&gt;En Avant (French for ‘Forward’) _as represented 
 
 &lt;p&gt;Taking these five concepts into consideration, I created the following map:&lt;/p&gt;
 
-&lt;div style=&quot;width: 100%;&quot;&gt;
-  &lt;div id=&quot;attachment_1293&quot; style=&quot;width: 650px&quot; class=&quot;wp-caption alignnone&quot;&gt;
+&lt;div&gt;
+  &lt;div id=&quot;attachment_1293&quot; class=&quot;wp-caption alignnone&quot;&gt;
     &lt;a title=&quot;Click to open PDF version&quot; href=&quot;/wp-content/uploads/2020/01/mpls-skyway-map-v1.4.pdf&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-1299&quot; src=&quot;/wp-content/uploads/2020/01/mpls-skyway-map-v1.4-1024x926.jpg&quot; alt=&quot;Minneapolis Skywap Map&quot; width=&quot;640&quot; height=&quot;579&quot; srcset=&quot;/wp-content/uploads/2020/01/mpls-skyway-map-v1.4-1024x926.jpg 1024w, /wp-content/uploads/2020/01/mpls-skyway-map-v1.4-300x271.jpg 300w, /wp-content/uploads/2020/01/mpls-skyway-map-v1.4-768x695.jpg 768w, /wp-content/uploads/2020/01/mpls-skyway-map-v1.4.jpg 1152w&quot; sizes=&quot;(max-width: 640px) 100vw, 640px&quot; /&gt;&lt;/a&gt;
 
     &lt;p class=&quot;wp-caption-text&quot;&gt;
@@ -460,7 +460,7 @@ The city motto is &lt;em&gt;En Avant (French for ‘Forward’) _as represented 
 
 &lt;p&gt;As much as the North Star flag is a real improvement over the &lt;a href=&quot;https://en.wikipedia.org/wiki/Flag_of_Minnesota&quot;&gt;current state flag&lt;/a&gt;, we can do better. Minnesota is much more vibrant and progressive place than this flag represents.&lt;/p&gt;
 
-&lt;div id=&quot;attachment_1147&quot; style=&quot;width: 650px&quot; class=&quot;wp-caption alignnone&quot;&gt;
+&lt;div id=&quot;attachment_1147&quot; class=&quot;wp-caption alignnone&quot;&gt;
   &lt;a href=&quot;/wp-content/uploads/2015/10/Screen-Shot-2015-10-26-at-6.45.19-PM.png&quot;&gt;&lt;img class=&quot;wp-image-1147 size-large&quot; src=&quot;/wp-content/uploads/2015/10/Screen-Shot-2015-10-26-at-6.45.19-PM-1024x583.png&quot; alt=&quot;Screen Shot 2015-10-26 at 6.45.19 PM&quot; width=&quot;640&quot; height=&quot;364&quot; srcset=&quot;/wp-content/uploads/2015/10/Screen-Shot-2015-10-26-at-6.45.19-PM-1024x583.png 1024w, /wp-content/uploads/2015/10/Screen-Shot-2015-10-26-at-6.45.19-PM-300x171.png 300w&quot; sizes=&quot;(max-width: 640px) 100vw, 640px&quot; /&gt;&lt;/a&gt;
 
   &lt;p class=&quot;wp-caption-text&quot;&gt;
@@ -472,7 +472,7 @@ The city motto is &lt;em&gt;En Avant (French for ‘Forward’) _as represented 
   Therefore, I got to work. Creating, posting to the group, iterating. I went through at least 50 or 60 concepts and or iterations. At first I started riffing off the North Star flag, different types of stars and even an ugly sweater.
 &lt;/p&gt;
 
-&lt;div id=&quot;attachment_1149&quot; style=&quot;width: 650px&quot; class=&quot;wp-caption alignnone&quot;&gt;
+&lt;div id=&quot;attachment_1149&quot; class=&quot;wp-caption alignnone&quot;&gt;
   &lt;a href=&quot;/wp-content/uploads/2015/10/4602885840_2fc71fcafd_z.jpg&quot;&gt;&lt;img class=&quot;wp-image-1149 size-full&quot; style=&quot;float: none; margin: 0;&quot; src=&quot;/wp-content/uploads/2015/10/4602885840_2fc71fcafd_z.jpg&quot; alt=&quot;4602885840_2fc71fcafd_z&quot; width=&quot;640&quot; height=&quot;480&quot; srcset=&quot;/wp-content/uploads/2015/10/4602885840_2fc71fcafd_z.jpg 640w, /wp-content/uploads/2015/10/4602885840_2fc71fcafd_z-300x225.jpg 300w&quot; sizes=&quot;(max-width: 640px) 100vw, 640px&quot; /&gt;&lt;/a&gt;
 
   &lt;p class=&quot;wp-caption-text&quot;&gt;
