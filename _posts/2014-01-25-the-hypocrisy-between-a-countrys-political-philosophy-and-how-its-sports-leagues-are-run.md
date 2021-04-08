@@ -6,7 +6,8 @@ author: Brandon Hundt
 layout: post
 guid: /?p=1059
 permalink: /the-hypocrisy-between-a-countrys-political-philosophy-and-how-its-sports-leagues-are-run/
-image: /wp-content/uploads/2014/01/world-sports.png
+image: https://brandonhundt.com/wp-content/uploads/2014/01/world-sports.png
+imageresize: /uploads/2014/01/world-sports.png
 categories:
   - Brandon
   - Politics

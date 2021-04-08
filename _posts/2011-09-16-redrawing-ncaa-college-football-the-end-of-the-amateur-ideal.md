@@ -7,6 +7,7 @@ layout: post
 guid: /?p=809
 permalink: /redrawing-ncaa-college-football-the-end-of-the-amateur-ideal/
 image: /wp-content/uploads/2011/09/buckeye-nation.jpg
+imageresize: /uploads/2011/09/buckeye-nation.jpg
 categories:
   - Brandon
   - Sports

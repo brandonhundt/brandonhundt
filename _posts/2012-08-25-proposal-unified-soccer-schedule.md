@@ -7,6 +7,7 @@ layout: post
 guid: /?p=924
 permalink: /proposal-unified-soccer-schedule/
 image: /wp-content/uploads/2012/08/soccer-calendar.png
+imageresize: /uploads/2012/08/soccer-calendar.png
 categories:
   - Brandon
   - Sports

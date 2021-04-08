@@ -3,8 +3,9 @@ layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header post-header-is {%- if page.image
-    -%}-image{%- endif -%}" {%- if page.image -%}style="background-image: url('{{ page.image }}');" {%- endif -%}>
+  <!--<header class="post-header post-header-is {%- if page.image
+    -%}-image{%- endif -%}" {%- if page.image -%}style="background-image: url('{{ page.image }}');" {%- endif -%}>-->
+  <header class="post-header">
     <div class="wrapper">
       <h1 class=" post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
       <p class="post-meta">
@@ -28,6 +29,11 @@ layout: default
         {%- endif -%}
       </p>
     </div>
+    {%- if page.imageresize -%}
+    <picture class="lede-image">
+      {% picture "{{ page.imageresize }}" %}
+    </picture>
+    {%- endif -%}
   </header>
   <div class="post-wrapper">
     <div class="wrapper">

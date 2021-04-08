@@ -7,6 +7,7 @@ layout: post
 guid: /?p=996
 permalink: /play-60-not-200-proposed-nfl-rule-changes-for-picking-up-the-pace/
 image: /wp-content/uploads/2013/09/3890007962_1f69b89622_b-940x400.jpg
+imageresize: /uploads/2013/09/3890007962_1f69b89622_b-940x400.jpg
 categories:
   - Brandon
   - Sports

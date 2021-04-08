@@ -6,7 +6,8 @@ author: Brandon Hundt
 layout: post
 guid: /?p=1234
 permalink: /better-signage-for-the-skyway-part-3-of-the-minneapolis-skyway-redesign/
-image: /wp-content/uploads/2017/02/mpls-skyway-signage2-612x400.jpg
+image: https://brandonhundt.com/wp-content/uploads/2017/02/mpls-skyway-signage2-612x400.jpg
+imageresize: /uploads/2017/02/mpls-skyway-signage2-612x400.jpg
 categories:
   - Brandon
   - Design

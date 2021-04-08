@@ -6,7 +6,8 @@ author: Brandon Hundt
 layout: post
 guid: /?p=1117
 permalink: /adventures-in-vexillology-a-new-flag-for-minneapolis/
-image: /wp-content/uploads/2015/06/mpls-flag-montage2-940x400.png
+image: https://brandonhundt.com/wp-content/uploads/2015/06/mpls-flag-montage2-940x400.png
+imageresize: /uploads/2015/06/mpls-flag-montage2-940x400.png
 categories:
   - Brandon
   - Design

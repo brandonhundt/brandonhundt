@@ -6,7 +6,8 @@ author: Brandon Hundt
 layout: post
 guid: /?p=1087
 permalink: /how-to-remove-bribery-from-fifas-world-cup-selection-process/
-image: /wp-content/uploads/2014/06/Amazonia_Arena-940x400.jpg
+image: https://brandonhundt.com/wp-content/uploads/2014/06/Amazonia_Arena-940x400.jpg
+imageresize: /uploads/2014/06/Amazonia_Arena-940x400.jpg
 categories:
   - Brandon
   - Sports

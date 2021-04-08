@@ -6,7 +6,8 @@ author: Brandon Hundt
 layout: post
 guid: /?p=1249
 permalink: /new-zealand-is-set-to-fly-a-new-flag-check-out-some-of-the-proposals/
-image: /wp-content/uploads/2017/02/3192-image-797x400.jpg
+image: https://brandonhundt.com/wp-content/uploads/2017/02/3192-image-797x400.jpg
+imageresize: /uploads/2017/02/3192-image-797x400.jpg
 categories:
   - Brandon
   - Design

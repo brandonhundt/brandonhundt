@@ -7,6 +7,7 @@ layout: post
 guid: /?p=726
 permalink: /a-few-alternatives-to-penalty-kicks/
 image: /wp-content/uploads/2011/07/penalties.jpg
+imageresize: /uploads/2011/07/penalties.jpg
 categories:
   - Brandon
   - Sports

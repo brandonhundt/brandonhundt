@@ -6,7 +6,8 @@ author: Brandon Hundt
 layout: post
 guid: /?p=1046
 permalink: /looking-to-rugby-for-an-answer-to-the-pointless-extra-point/
-image: /wp-content/uploads/2014/01/pointless.png
+image: https://brandonhundt.com/wp-content/uploads/2014/01/pointless.png
+imageresize: /uploads/2014/01/pointless.png
 categories:
   - Brandon
   - Sports

@@ -6,7 +6,8 @@ author: Brandon Hundt
 layout: post
 guid: /?p=1108
 permalink: /fix-fifa-by-electing-me-as-its-next-president/
-image: /wp-content/uploads/2015/06/my-turn-fifa-prez-940x400.png
+image: https://brandonhundt.com/wp-content/uploads/2015/06/my-turn-fifa-prez-940x400.png
+imageresize: /uploads/2015/06/my-turn-fifa-prez-940x400.png
 categories:
   - Brandon
   - Sports

@@ -7,6 +7,7 @@ layout: post
 guid: /?p=710
 permalink: /the-right-for-states-to-compete-against-each-other/
 image: /wp-content/uploads/2011/06/redeem-team.jpg
+imageresize: /uploads/2011/06/redeem-team.jpg
 categories:
   - Brandon
   - Sports

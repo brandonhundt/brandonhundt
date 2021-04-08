@@ -7,6 +7,7 @@ layout: post
 guid: /?p=827
 permalink: /book-review-baby-touch-and-feel-animals/
 image: /wp-content/uploads/2012/03/z59-copy.png
+imageresize: /uploads/2012/03/z59-copy.png
 categories:
   - Brandon
   - Misc

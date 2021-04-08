@@ -7,6 +7,7 @@ layout: post
 guid: /?p=688
 permalink: /ushering-in-a-new-era-of-soccer/
 image: /wp-content/uploads/2011/02/old-time-soccer.png
+image: /uploads/2011/02/old-time-soccer.png
 categories:
   - Brandon
   - Sports

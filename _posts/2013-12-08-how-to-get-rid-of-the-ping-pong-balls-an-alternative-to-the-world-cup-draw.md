@@ -6,7 +6,8 @@ author: Brandon Hundt
 layout: post
 guid: /?p=1030
 permalink: /how-to-get-rid-of-the-ping-pong-balls-an-alternative-to-the-world-cup-draw/
-image: /wp-content/uploads/2013/12/ping-pong-balls.png
+image: https://brandonhundt/wp-content/uploads/2013/12/ping-pong-balls.png
+imageresize: /uploads/2013/12/ping-pong-balls.png
 categories:
   - Brandon
   - Sports

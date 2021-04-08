@@ -6,7 +6,8 @@ author: Brandon Hundt
 layout: post
 guid: /?p=1252
 permalink: /its-down-to-four-a-new-zealand-panel-unveils-alternate-flag-options-to-a-largely-negative-reaction/
-image: /wp-content/uploads/2017/02/nz-top-four-937x400.jpg
+image: https://brandonhundt.com/wp-content/uploads/2017/02/nz-top-four-937x400.jpg
+imageresize: /uploads/2017/02/nz-top-four-937x400.jpg
 categories:
   - Brandon
   - Design

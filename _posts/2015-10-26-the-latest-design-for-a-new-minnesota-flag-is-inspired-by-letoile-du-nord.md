@@ -6,7 +6,8 @@ author: Brandon Hundt
 layout: post
 guid: /?p=1146
 permalink: /the-latest-design-for-a-new-minnesota-flag-is-inspired-by-letoile-du-nord/
-image: /wp-content/uploads/2015/10/flag_prototype-940x400.jpg
+image: https://brandonhundt.com/wp-content/uploads/2015/10/flag_prototype-940x400.jpg
+imageresize: /uploads/2015/10/flag_prototype-940x400.jpg
 categories:
   - Brandon
   - Design

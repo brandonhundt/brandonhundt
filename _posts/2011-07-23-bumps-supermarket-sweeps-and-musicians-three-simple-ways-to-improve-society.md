@@ -7,6 +7,7 @@ layout: post
 guid: /?p=738
 permalink: /bumps-supermarket-sweeps-and-musicians-three-simple-ways-to-improve-society/
 image: /wp-content/uploads/2011/07/bump.jpg
+imageresize: /uploads/2011/07/bump.jpg
 categories:
   - Brandon
   - Misc

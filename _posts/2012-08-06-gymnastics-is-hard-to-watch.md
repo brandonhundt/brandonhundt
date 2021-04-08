@@ -7,6 +7,7 @@ layout: post
 guid: /?p=846
 permalink: /gymnastics-is-hard-to-watch/
 image: /wp-content/uploads/2012/08/gymnasts.jpg
+imageresize: /uploads/2012/08/flag.jpg
 categories:
   - Brandon
   - Sports

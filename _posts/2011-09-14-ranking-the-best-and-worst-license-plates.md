@@ -7,6 +7,7 @@ layout: post
 guid: /?p=783
 permalink: /ranking-the-best-and-worst-license-plates/
 image: /wp-content/uploads/2011/09/header.jpg
+imageresize: /uploads/2011/09/header.jpg
 categories:
   - Brandon
   - Design

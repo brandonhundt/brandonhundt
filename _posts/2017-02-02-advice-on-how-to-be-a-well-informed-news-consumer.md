@@ -7,7 +7,8 @@ author: Brandon Hundt
 layout: post
 guid: /?p=1240
 permalink: /advice-on-how-to-be-a-well-informed-news-consumer/
-image: /wp-content/uploads/2017/02/social-firehose-940x400.png
+image: https://www.brandonhundt/wp-content/uploads/2017/02/social-firehose-940x400.png
+imageresize: /uploads/2017/02/social-firehose-940x400.png
 categories:
   - Brandon
   - Media

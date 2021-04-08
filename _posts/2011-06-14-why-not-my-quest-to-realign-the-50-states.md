@@ -7,6 +7,7 @@ layout: post
 guid: /?p=695
 permalink: /why-not-my-quest-to-realign-the-50-states/
 image: /wp-content/uploads/2011/06/map.png
+imageresize: /uploads/2011/06/map.png
 categories:
   - Brandon
   - Geography

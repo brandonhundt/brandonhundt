@@ -7,6 +7,7 @@ layout: post
 guid: /?p=814
 permalink: /the-world-basketball-cup-a-tournament-to-save-the-nba/
 image: /wp-content/uploads/2011/09/gasol-hdr.jpg
+imageresize: /uploads/2011/09/gasol-hdr.jpg
 categories:
   - Brandon
   - Sports

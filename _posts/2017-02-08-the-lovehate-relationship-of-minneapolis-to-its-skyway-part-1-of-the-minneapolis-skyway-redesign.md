@@ -6,7 +6,8 @@ author: Brandon Hundt
 layout: post
 guid: /?p=1220
 permalink: /the-lovehate-relationship-of-minneapolis-to-its-skyway-part-1-of-the-minneapolis-skyway-redesign/
-image: /wp-content/uploads/2017/02/2452755997_bed471f1ce_o-800x400.jpg
+image: https://brandonhundt.com/wp-content/uploads/2017/02/2452755997_bed471f1ce_o-800x400.jpg
+imageresize: uploads/2017/02/2452755997_bed471f1ce_o-800x400.jpg
 categories:
   - Brandon
   - Design
