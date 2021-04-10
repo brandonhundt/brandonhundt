@@ -8,6 +8,7 @@ guid: /?p=572
 permalink: /the-card-game-war-is-lacking-try-sporadic-missile-fire-instead/
 image: /wp-content/uploads/2010/11/sporadicMissileFire.png
 imageresize: /uploads/2010/11/sporadicMissileFire.png
+imagealt: 9 of clubs
 categories:
   - Brandon
   - Misc

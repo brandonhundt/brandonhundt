@@ -8,6 +8,7 @@ guid: /?p=1087
 permalink: /how-to-remove-bribery-from-fifas-world-cup-selection-process/
 image: https://brandonhundt.com/wp-content/uploads/2014/06/Amazonia_Arena-940x400.jpg
 imageresize: /uploads/2014/06/Amazonia_Arena-940x400.jpg
+imagealt: World Cup soccer stadium
 categories:
   - Brandon
   - Sports

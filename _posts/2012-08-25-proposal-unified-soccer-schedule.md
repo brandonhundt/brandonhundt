@@ -8,6 +8,7 @@ guid: /?p=924
 permalink: /proposal-unified-soccer-schedule/
 image: /wp-content/uploads/2012/08/soccer-calendar.png
 imageresize: /uploads/2012/08/soccer-calendar.png
+imagealt: collage of a calendar overlaying a soccer pitch
 categories:
   - Brandon
   - Sports

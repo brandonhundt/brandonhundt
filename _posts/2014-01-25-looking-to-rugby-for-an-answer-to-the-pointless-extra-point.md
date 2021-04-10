@@ -8,6 +8,7 @@ guid: /?p=1046
 permalink: /looking-to-rugby-for-an-answer-to-the-pointless-extra-point/
 image: https://brandonhundt.com/wp-content/uploads/2014/01/pointless.png
 imageresize: /uploads/2014/01/pointless.png
+imagealt: Metrodome with illustrated text
 categories:
   - Brandon
   - Sports

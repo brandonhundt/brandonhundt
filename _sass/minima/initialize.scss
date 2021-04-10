@@ -19,7 +19,7 @@ $header-font-family: 'Enriqueta',
 serif;
 $header-font-weight: 700 !default;
 
-$link-base-color: $blue;
+$link-base-color: #0066CC;
 $link-base-weight: 700;
 $link-hover-color: darken($link-base-color, 10%);
 
@@ -56,8 +56,8 @@ $on-large: $on-laptop !default;
 }
 
 // Import pre-styling-overrides hook and style-partials.
-@import "minima/custom-variables", // Hook to override predefined variables.
-"minima/base", // Defines element resets.
-"minima/layout", // Defines structure and style based on CSS selectors.
-"minima/custom-styles" // Hook to override existing styles.
+@import "minima/base",
+"minima/layout",
+"minima/nav",
+"minima/footer"
 ;

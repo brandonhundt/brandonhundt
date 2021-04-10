@@ -23,8 +23,9 @@ layout: default
   <div class="home-container design-container">
     <h2>Latest Designs:</h2>
     <ul class="post-list">
-      <li class="post-teaser-has-image"
-        style="background-image: url('/wp-content/uploads/2017/02/mpls-skyway-map-v1-940x400.jpg');">
+      <li>
+        {% picture thumbnail uploads/2017/02/mpls-skyway-map-v1-940x400.jpg 1:1 center class="thumbnail"--alt Proposed
+        skyway map for Minneapolis MN %}
         <div class="post-content">
           <h3>
             <a class="post-link" href="/wp-content/uploads/2020/01/mpls-skyway-map-v1.4.pdf">
@@ -33,7 +34,9 @@ layout: default
           </h3>
         </div>
       </li>
-      <li class="post-teaser-has-image" style="background-image: url('/wp-content/uploads/2015/10/norse-star.png');">
+      <li>
+        {% picture thumbnail uploads/2015/10/norse-star.png 1:1 center class="thumbnail" --alt Proposed flag design for
+        MN %}
         <div class="post-content">
           <h3>
             <a class="post-link" href="/the-latest-design-for-a-new-minnesota-flag-is-inspired-by-letoile-du-nord/">
@@ -42,7 +45,9 @@ layout: default
           </h3>
         </div>
       </li>
-      <li class="post-teaser-has-image" style="background-image: url('/assets/VQxIibJg.jpg');">
+      <li>
+        {% picture thumbnail uploads/2021/VQxIibJg.jpg 1:1 center class="thumbnail" --alt Proposed flag design for
+        Rochester MN %}
         <div class="post-content">
           <h3>
             <a class="post-link" href="/assets/VQxIibJg.jpg">
@@ -51,7 +56,9 @@ layout: default
           </h3>
         </div>
       </li>
-      <li class="post-teaser-has-image" style="background-image: url('/assets/mpls-concept-after-floyd.png');">
+      <li>
+        {% picture thumbnail uploads/2021/mpls-concept-after-floyd.png 1:1 center class="thumbnail" --alt Minneapolis
+        City Flag concept after George Floyd %}
         <div class="post-content">
           <h3>
             <a class="post-link" href="/2021-02-28-new-minneapolis-flag-after-george-floyd">
@@ -74,10 +81,9 @@ layout: default
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
-      {%- if post.image -%}
-      <li class="post-teaser-has-image" style="background-image: url('{{ post.image }}');">
-        {%- else -%}
       <li>
+        {%- if post.imageresize -%}
+        {% picture thumbnail "{{ post.imageresize }}" 1:1 center class="thumbnail" %}
         {%- endif -%}
         <div class="post-content">
           <h3>

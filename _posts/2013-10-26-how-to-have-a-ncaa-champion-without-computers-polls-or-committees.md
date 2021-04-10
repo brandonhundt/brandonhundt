@@ -8,6 +8,7 @@ guid: /?p=1012
 permalink: /how-to-have-a-ncaa-champion-without-computers-polls-or-committees/
 image: /wp-content/uploads/2013/10/3908385057_30b781bb69_o-940x400.jpg
 imageresize: /uploads/2013/10/3908385057_30b781bb69_o-940x400.jpg
+imagealt: College football game
 categories:
   - Brandon
   - Sports

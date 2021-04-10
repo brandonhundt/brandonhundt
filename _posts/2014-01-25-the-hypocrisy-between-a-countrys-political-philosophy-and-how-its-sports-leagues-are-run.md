@@ -8,6 +8,7 @@ guid: /?p=1059
 permalink: /the-hypocrisy-between-a-countrys-political-philosophy-and-how-its-sports-leagues-are-run/
 image: https://brandonhundt.com/wp-content/uploads/2014/01/world-sports.png
 imageresize: /uploads/2014/01/world-sports.png
+imagealt: Illustrated map of the North Atlantic
 categories:
   - Brandon
   - Politics

@@ -8,6 +8,7 @@ guid: /?p=1117
 permalink: /adventures-in-vexillology-a-new-flag-for-minneapolis/
 image: https://brandonhundt.com/wp-content/uploads/2015/06/mpls-flag-montage2-940x400.png
 imageresize: /uploads/2015/06/mpls-flag-montage2-940x400.png
+imagealt: Proposals for new Minneapolis flag
 categories:
   - Brandon
   - Design

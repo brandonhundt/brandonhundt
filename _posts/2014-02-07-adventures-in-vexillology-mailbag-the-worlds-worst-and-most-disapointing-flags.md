@@ -8,6 +8,7 @@ guid: /?p=1069
 permalink: /adventures-in-vexillology-mailbag-the-worlds-worst-and-most-disapointing-flags/
 image: https://brandonhundt.com/wp-content/uploads/2014/02/sochi1.jpg
 imageresize: /uploads/2014/02/sochi1.jpg
+imagealt: Flags at Olympics Opening Ceremony
 categories:
   - Brandon
   - Design

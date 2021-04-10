@@ -8,6 +8,7 @@ guid: /?p=752
 permalink: /united-states-in-texture-wallpaper/
 image: /wp-content/uploads/2011/07/US-in-texture-header.jpg
 imageresize: /uploads/2011/07/US-in-texture-header.jpg
+imagealt: Map of USA with different collage patterns
 categories:
   - Brandon
   - Design

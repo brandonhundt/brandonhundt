@@ -8,6 +8,7 @@ guid: /?p=1108
 permalink: /fix-fifa-by-electing-me-as-its-next-president/
 image: https://brandonhundt.com/wp-content/uploads/2015/06/my-turn-fifa-prez-940x400.png
 imageresize: /uploads/2015/06/my-turn-fifa-prez-940x400.png
+imagealt: Sepp Blatter
 categories:
   - Brandon
   - Sports

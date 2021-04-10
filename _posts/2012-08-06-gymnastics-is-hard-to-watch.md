@@ -6,8 +6,9 @@ author: Brandon Hundt
 layout: post
 guid: /?p=846
 permalink: /gymnastics-is-hard-to-watch/
-image: /wp-content/uploads/2012/08/gymnasts.jpg
-imageresize: /uploads/2012/08/flag.jpg
+image: https://brandonhundt.com/wp-content/uploads/2012/08/gymnasts.jpg
+imageresize: uploads/2012/08/gymnasts.jpg
+imagealt: Gymnasts
 categories:
   - Brandon
   - Sports

@@ -8,6 +8,7 @@ guid: /?p=940
 permalink: /ending-the-cycle-of-violence/
 image: /wp-content/uploads/2013/04/cycle-violence.png
 imageresize: /uploads/2013/04/cycle-violence.png
+imagealt: gun and bullets
 categories:
   - Brandon
   - Faith

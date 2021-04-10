@@ -4,10 +4,10 @@ title: "After George Floyd, we need a new Minneapolis Flag"
 date: 2021-02-28T23:09:09+00:00
 author: Brandon Hundt
 layout: post
-guid: /2021-02-28-new-minneapolis-flag-after-george-floyd/
 permalink: /2021-02-28-new-minneapolis-flag-after-george-floyd/
 image: https://brandonhundt.com/assets/proposed-mpls-flag-waving.png
 imageresize: uploads/2021/proposed-mpls-flag-waving.png
+imagealt: Proposed new flag for Minneapolis by Brandon Hundt
 categories:
   - Brandon
   - Design
@@ -37,7 +37,7 @@ Residents of DC, must have been filled with pride when they saw a[Black Lives Ma
 
 When visiting Chicago, you are more likely to see the city flag than the Illinois or American flag.
 
-![Current flag of Minneapolis](/wp-content/uploads/2015/06/Flag_of_Minneapolis_Minnesota.svg_-300x188.png "Current flag of Minneapolis")
+{% picture uploads/2015/06/Flag_of_Minneapolis_Minnesota.svg_-300x188.png --alt Current flag of Minneapolis %}
 
 This brings us to Minneapolis. Our existing symbols are mostly irrelevant. The [sailboat motif](https://www.startribune.com/the-story-behind-minneapolis-original-sailboat-logo/296720411/) is common, but not embraced by the public. The city flag (shown above)? It’s only flown at government buildings and has irrelevant symbolism.
 

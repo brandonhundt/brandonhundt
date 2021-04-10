@@ -27,163 +27,16 @@
   background-position-y: center;
 }
 
-@mixin background-image-before {
-  content: "";
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  background-image: url(/assets/bg_pattern.png);
-  background-repeat: repeat;
-  background-color: rgba(0, 58, 87, 0.5);
-}
-
 @mixin header-over-background {
   position: relative;
   color: #fff;
   text-shadow: 0 1px 1px $drk-blue;
   margin: 0 0 0.5em;
-  font-size: 2.25em;
+  font-size: 2.25rem;
   line-height: 1.25;
 
   @media only screen and (max-width: 590px) {
-    font-size: 1.75em;
-  }
-}
-
-/**
- * Site header
- */
-.site-header {
-  border-bottom: 1px solid $border-color-01;
-  min-height: $spacing-unit * 1.865;
-  line-height: $base-line-height * $base-font-size * 2.25;
-  text-align: center;
-  background-color: #fff;
-  position: relative;
-  z-index: 100;
-
-  // Positioning context for the mobile navigation icon
-  position: relative;
-  z-index: 10;
-}
-
-.site-title {
-  font-family: $base-font-family;
-  font-weight: 300;
-  text-transform: uppercase;
-  font-style: italic;
-  padding: 0;
-  font-size: 1.75em;
-  line-height: 1em;
-  margin: 7px auto;
-  text-align: center;
-  letter-spacing: -.05em;
-
-  a {
-    color: #777;
-
-    svg {
-      width: 24px;
-      height: auto;
-      fill: $blue;
-    }
-
-    &:hover {
-      color: $link-hover-color;
-      text-decoration: none;
-    }
-  }
-}
-
-.site-nav {
-  position: absolute;
-  top: 9px;
-  right: $spacing-unit / 2;
-  background-color: $background-color;
-  border: 1px solid $border-color-01;
-  border-radius: 5px;
-  text-align: right;
-
-  .nav-trigger {
-    display: none;
-  }
-
-  .menu-icon {
-    float: right;
-    width: 36px;
-    height: 26px;
-    line-height: 0;
-    padding-top: 10px;
-    text-align: center;
-
-    >svg path {
-      fill: $border-color-03;
-    }
-  }
-
-  label[for="nav-trigger"] {
-    display: block;
-    float: right;
-    width: 36px;
-    height: 36px;
-    z-index: 2;
-    cursor: pointer;
-  }
-
-  input~.trigger {
-    clear: both;
-    display: none;
-  }
-
-  input:checked~.trigger {
-    display: block;
-    padding-bottom: 5px;
-  }
-
-  .page-link {
-    color: $text-color;
-    line-height: $base-line-height;
-    display: block;
-    padding: 5px 10px;
-
-    // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 0;
-    }
-
-    margin-left: 20px;
-  }
-
-  @media screen and (min-width: $on-medium) {
-    position: static;
-    float: right;
-    border: none;
-    background-color: inherit;
-
-    label[for="nav-trigger"] {
-      display: none;
-    }
-
-    .menu-icon {
-      display: none;
-    }
-
-    input~.trigger {
-      display: block;
-    }
-
-    .page-link {
-      display: inline;
-      padding: 0;
-
-      &:not(:last-child) {
-        margin-right: 20px;
-      }
-
-      margin-left: auto;
-    }
+    font-size: 1.75rem;
   }
 }
 
@@ -214,12 +67,55 @@
 }
 
 .post {
+  flex-grow: 1;
   position: relative;
   z-index: 1;
 
   img {
     width: 100%;
     height: auto;
+  }
+}
+
+.lede-image {
+  top: 0;
+  width: 100%;
+  bottom: 0;
+  z-index: 0;
+  position: absolute;
+  margin-bottom: 0;
+  min-height: 75vh;
+  height: 100%;
+  grid-row: 1 / -1;
+  position: initial;
+  align-self: start;
+  grid-column: 1 / -1;
+
+  &:before {
+    content: "";
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABZJREFUeNpi2r9//38gYGAEESAAEGAAasgJOgzOKCoAAAAASUVORK5CYII=) repeat;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 120;
+    opacity: .7;
+  }
+
+  .default-image {
+    position: relative;
+    z-index: 0;
+    object-fit: cover;
+    object-position: center center;
+    opacity: 0.5;
+    width: auto;
+    height: 100%;
+
+    @media screen and (min-width: 1201px) {
+      width: 100%;
+      height: auto;
+    }
   }
 }
 
@@ -238,105 +134,12 @@
 }
 
 /**
- * Site footer
- */
-.site-footer {
-  border-top: 1px solid $border-color-01;
-  padding: $spacing-unit 0;
-  text-align: center;
-  position: relative;
-  z-index: 100;
-  background: #fff;
-
-  ul {
-    list-style: none;
-    margin: 0;
-
-    li {
-      display: inline-block;
-      margin: 0 5px;
-
-      a {
-        color: $blue;
-        font-weight: bold;
-      }
-    }
-  }
-}
-
-.footer-heading {
-  @include relative-font-size(1.125);
-  margin-bottom: $spacing-unit / 2;
-}
-
-.contact-list,
-.social-media-list {
-  list-style: none;
-  margin-left: 0;
-}
-
-.footer-col-wrapper,
-.social-links {
-  @include relative-font-size(0.9375);
-  color: $brand-color;
-}
-
-.footer-col {
-  margin-bottom: $spacing-unit / 2;
-}
-
-.footer-col-1,
-.footer-col-2 {
-  width: calc(50% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-3 {
-  width: calc(100% - (#{$spacing-unit} / 2));
-}
-
-@media screen and (min-width: $on-large) {
-  .footer-col-1 {
-    width: calc(35% - (#{$spacing-unit} / 2));
-  }
-
-  .footer-col-2 {
-    width: calc(20% - (#{$spacing-unit} / 2));
-  }
-
-  .footer-col-3 {
-    width: calc(45% - (#{$spacing-unit} / 2));
-  }
-}
-
-@media screen and (min-width: $on-medium) {
-  .footer-col-wrapper {
-    display: flex
-  }
-
-  .footer-col {
-    width: calc(100% - (#{$spacing-unit} / 2));
-    padding: 0 ($spacing-unit / 2);
-
-    &:first-child {
-      padding-right: $spacing-unit / 2;
-      padding-left: 0;
-    }
-
-    &:last-child {
-      padding-right: 0;
-      padding-left: $spacing-unit / 2;
-    }
-  }
-}
-
-
-
-/**
  * Page content
  */
 .page-content {
-  padding: 0;
-  flex: 1 0 auto;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 }
 
 .page-heading {
@@ -387,10 +190,6 @@
       padding: 0;
     }
 
-    &:before {
-      @include background-image-before();
-    }
-
     .post-content {
       padding: 50px 25px 10px;
     }
@@ -434,24 +233,38 @@
   @include relative-font-size(1.5);
 }
 
-
-
 /**
  * Posts
  */
 .post-header {
-  margin-bottom: 0;
+  color: #fff;
+  display: grid;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.2rem;
+  min-height: 75vh;
+  align-content: end;
+  margin-bottom: 1rem;
+  background-color: $drk-blue;
+  grid-template-rows: max-content max-content;
 
+  max-height: 75vh;
+  min-height: auto;
 
-  &.post-header-is-image {
-    @include background-image-large();
+  .wrapper {
+    width: calc(100% - 30px);
+    display: grid;
+    padding: 15px;
+    grid-gap: 1rem;
+    grid-row: 1 / -1;
+    position: relative;
+    min-height: 33.33333%;
+    grid-column: 1 / -1;
+    align-content: end;
+    text-shadow: 1px 1px 6px $drk-blue;
 
-    &:before {
-      @include background-image-before();
-    }
-
-    h1 {
-      @include header-over-background();
+    @media screen and (min-width: $on-large) {
+      @include relative-font-size(2);
     }
   }
 
@@ -459,12 +272,13 @@
     position: relative;
     color: #eee;
     text-shadow: 0 1px 1px $drk-blue;
+    font-size: 1rem;
   }
 }
 
 .post-title,
 .post-content h1 {
-  @include relative-font-size(2.625);
+  @include relative-font-size(1.75);
   letter-spacing: -1px;
   line-height: 1.15;
 
@@ -514,72 +328,5 @@
 
   h6 {
     @include relative-font-size(1.0625);
-  }
-}
-
-
-.social-media-list {
-  display: table;
-  margin: 0 auto;
-
-  li {
-    float: left;
-    margin: 5px 10px 5px 0;
-
-    &:last-of-type {
-      margin-right: 0
-    }
-
-    a {
-      display: block;
-      padding: $spacing-unit / 4;
-      border: 1px solid $border-color-01;
-
-      &:hover {
-        border-color: $border-color-02
-      }
-    }
-  }
-}
-
-
-
-/**
- * Pagination navbar
- */
-.pagination {
-  margin-bottom: $spacing-unit;
-  @extend .social-media-list;
-
-  li {
-
-    a,
-    div {
-      min-width: 41px;
-      text-align: center;
-      box-sizing: border-box;
-    }
-
-    div {
-      display: block;
-      padding: $spacing-unit / 4;
-      border: 1px solid transparent;
-
-      &.pager-edge {
-        color: $border-color-01;
-        border: 1px dashed;
-      }
-    }
-  }
-}
-
-
-
-/**
- * Grid helpers
- */
-@media screen and (min-width: $on-large) {
-  .one-half {
-    width: calc(50% - (#{$spacing-unit} / 2));
   }
 }

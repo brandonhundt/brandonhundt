@@ -8,6 +8,7 @@ guid: /?p=839
 permalink: /how-to-keep-the-vikings-in-minnesota-without-state-financing/
 image: /wp-content/uploads/2012/04/belaire.png
 imageresize: /uploads/2012/04/belaire.png
+imagealt: Metrodome in black and white
 categories:
   - Brandon
   - Sports

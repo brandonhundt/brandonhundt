@@ -8,6 +8,7 @@ guid: /?p=1252
 permalink: /its-down-to-four-a-new-zealand-panel-unveils-alternate-flag-options-to-a-largely-negative-reaction/
 image: https://brandonhundt.com/wp-content/uploads/2017/02/nz-top-four-937x400.jpg
 imageresize: /uploads/2017/02/nz-top-four-937x400.jpg
+imagealt: New Zealand new flag finalists
 categories:
   - Brandon
   - Design

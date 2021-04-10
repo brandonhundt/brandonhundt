@@ -8,6 +8,7 @@ guid: /?p=738
 permalink: /bumps-supermarket-sweeps-and-musicians-three-simple-ways-to-improve-society/
 image: /wp-content/uploads/2011/07/bump.jpg
 imageresize: /uploads/2011/07/bump.jpg
+imagealt: Bump road sign
 categories:
   - Brandon
   - Misc

@@ -8,6 +8,7 @@ guid: /?p=1101
 permalink: /life-as-a-parked-loaner-a-memorial-to-my-first-vehicle/
 image: https://brandonhundt.com/wp-content/uploads/2014/12/dak-940x400.png
 imageresize: /uploads/2014/12/dak-940x400.png
+imagealt: My truck after it was hit
 categories:
   - Brandon
   - Misc

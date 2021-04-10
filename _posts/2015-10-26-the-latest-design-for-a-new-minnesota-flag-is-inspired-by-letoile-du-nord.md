@@ -8,6 +8,7 @@ guid: /?p=1146
 permalink: /the-latest-design-for-a-new-minnesota-flag-is-inspired-by-letoile-du-nord/
 image: https://brandonhundt.com/wp-content/uploads/2015/10/flag_prototype-940x400.jpg
 imageresize: /uploads/2015/10/flag_prototype-940x400.jpg
+imagealt: Homemade Minnesota flag
 categories:
   - Brandon
   - Design

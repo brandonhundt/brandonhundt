@@ -8,6 +8,7 @@ guid: /?p=853
 permalink: /adventures-in-vexillology-the-top-10-best-designed-flags/
 image: /wp-content/uploads/2012/08/flag.jpg
 imageresize: /uploads/2012/08/flag.jpg
+imagealt: Flags at London Olympics Opening Ceremony
 categories:
   - Brandon
   - Design

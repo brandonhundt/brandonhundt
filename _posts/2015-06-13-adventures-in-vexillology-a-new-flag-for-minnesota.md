@@ -8,6 +8,7 @@ guid: /?p=1133
 permalink: /adventures-in-vexillology-a-new-flag-for-minnesota/
 image: https://brandonhundt.com/wp-content/uploads/2015/06/minnesota-state-flag-redesign-940x400.png
 imageresize: /uploads/2015/06/minnesota-state-flag-redesign-940x400.png
+imagealt: State flags with Minnesota proposed flag
 categories:
   - Brandon
   - Design

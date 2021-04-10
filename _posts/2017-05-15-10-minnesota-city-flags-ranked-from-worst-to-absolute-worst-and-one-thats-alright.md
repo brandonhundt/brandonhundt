@@ -8,6 +8,7 @@ guid: /?p=1274
 permalink: /10-minnesota-city-flags-ranked-from-worst-to-absolute-worst-and-one-thats-alright/
 image: https://brandonhundt.com/wp-content/uploads/2017/05/1600px-Flag_of_Rochester_Minnesota.svg_-940x400.png
 imageresize: uploads/2017/05/1600px-Flag_of_Rochester_Minnesota.svg_-940x400.png
+imagealt: Flag of Rochester, MN
 categories:
   - Brandon
   - Design
