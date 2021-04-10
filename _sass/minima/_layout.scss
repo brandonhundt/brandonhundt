@@ -1,32 +1,3 @@
-@mixin background-image {
-  position: relative;
-  height: 100%;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-size: cover;
-  padding: 100px 0 50px;
-  border-bottom: 1px solid $drk-blue;
-  background-position-x: center;
-  background-position-y: center;
-}
-
-@mixin background-image-large {
-  position: relative;
-  height: 70vh;
-  min-height: 400px;
-  width: 100%;
-  display: flex;
-  align-items: flex-end;
-  padding-bottom: 5vh;
-  justify-content: center;
-  background-size: cover;
-  border-bottom: 1px solid $drk-blue;
-  background-position-x: center;
-  background-position-y: center;
-}
-
 @mixin header-over-background {
   position: relative;
   color: #fff;
@@ -38,6 +9,41 @@
   @media only screen and (max-width: 590px) {
     font-size: 1.75rem;
   }
+}
+
+@mixin pixelated-bg {
+  content: "";
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAYAAABWKLW/AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpEMjlERTZGOTVFMjYxMUU1QjY4MUZBRjg2OTFGNjM1NSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpEMjlERTZGQTVFMjYxMUU1QjY4MUZBRjg2OTFGNjM1NSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkQyOURFNkY3NUUyNjExRTVCNjgxRkFGODY5MUY2MzU1IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkQyOURFNkY4NUUyNjExRTVCNjgxRkFGODY5MUY2MzU1Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+68HIcQAAAB5JREFUeNpiEODna/j//z8DCIMJJiamBjgHJgAQYACI2xOooYMk7wAAAABJRU5ErkJggg==) repeat;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 120;
+}
+
+@mixin background-image-wrapper {
+  top: 0;
+  width: 100%;
+  bottom: 0;
+  z-index: 0;
+  position: absolute;
+  margin-bottom: 0;
+  height: 100%;
+  grid-row: 1 / -1;
+  position: initial;
+  align-self: start;
+  grid-column: 1 / -1;
+}
+
+@mixin background-image {
+  position: relative;
+  z-index: 0;
+  object-fit: cover;
+  object-position: center center;
+  opacity: 0.5;
+  width: auto;
+  height: 100%;
 }
 
 .home-container {
@@ -77,40 +83,29 @@
   }
 }
 
-.lede-image {
-  top: 0;
-  width: 100%;
-  bottom: 0;
-  z-index: 0;
+.thumbnail {
+  @include background-image-wrapper();
   position: absolute;
-  margin-bottom: 0;
-  min-height: 75vh;
-  height: 100%;
-  grid-row: 1 / -1;
-  position: initial;
-  align-self: start;
-  grid-column: 1 / -1;
 
   &:before {
-    content: "";
-    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABZJREFUeNpi2r9//38gYGAEESAAEGAAasgJOgzOKCoAAAAASUVORK5CYII=) repeat;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 120;
-    opacity: .7;
+    @include pixelated-bg();
+  }
+
+  .thumbnail-image {
+    @include background-image();
+  }
+}
+
+.lede-image {
+  @include background-image-wrapper();
+  min-height: 75vh;
+
+  &:before {
+    @include pixelated-bg();
   }
 
   .default-image {
-    position: relative;
-    z-index: 0;
-    object-fit: cover;
-    object-position: center center;
-    opacity: 0.5;
-    width: auto;
-    height: 100%;
+    @include background-image();
 
     @media screen and (min-width: 1201px) {
       width: 100%;
@@ -173,21 +168,14 @@
     width: 100%;
     margin: 0;
     padding: 0;
-    border: 1px solid $drk-blue;
+    border: 1px solid transparent;
     display: flex;
     align-items: center;
     justify-content: left;
-    transform: rotate(-1deg);
+    z-index: 10;
 
-    &:nth-child(even) {
-      transform: rotate(1deg);
-      background: $blue;
-    }
-
-    &.post-teaser-has-image {
-      @include background-image();
-      margin: 0;
-      padding: 0;
+    &:hover {
+      border: 1px solid $blue;
     }
 
     .post-content {
@@ -203,6 +191,7 @@
         font-size: 1.5em;
         margin-top: 10px;
         margin-bottom: 20px;
+        text-shadow: 0 1px 1px $drk-blue;
 
         a {
           color: #fff;
@@ -218,6 +207,7 @@
         font-size: 18px;
         color: #eee;
         display: block;
+        text-shadow: 0 1px 1px $drk-blue;
       }
     }
   }

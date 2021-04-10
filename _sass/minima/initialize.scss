@@ -5,6 +5,7 @@
 // Define defaults for each variable.
 $blue: #38A8D2;
 $drk-blue: #003A57;
+$link-blue: #0066CC;
 
 $base-font-family: 'Lato',
 sans-serif;
@@ -19,7 +20,7 @@ $header-font-family: 'Enriqueta',
 serif;
 $header-font-weight: 700 !default;
 
-$link-base-color: #0066CC;
+$link-base-color: $link-blue;
 $link-base-weight: 700;
 $link-hover-color: darken($link-base-color, 10%);
 

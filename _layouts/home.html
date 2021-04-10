@@ -24,7 +24,7 @@ layout: default
     <h2>Latest Designs:</h2>
     <ul class="post-list">
       <li>
-        {% picture thumbnail uploads/2017/02/mpls-skyway-map-v1-940x400.jpg 1:1 center class="thumbnail"--alt Proposed
+        {% picture thumbnail uploads/2017/02/mpls-skyway-map-v1-940x400.jpg --alt Proposed
         skyway map for Minneapolis MN %}
         <div class="post-content">
           <h3>
@@ -35,7 +35,7 @@ layout: default
         </div>
       </li>
       <li>
-        {% picture thumbnail uploads/2015/10/norse-star.png 1:1 center class="thumbnail" --alt Proposed flag design for
+        {% picture thumbnail uploads/2015/10/norse-star.png --alt Proposed flag design for
         MN %}
         <div class="post-content">
           <h3>
@@ -46,7 +46,7 @@ layout: default
         </div>
       </li>
       <li>
-        {% picture thumbnail uploads/2021/VQxIibJg.jpg 1:1 center class="thumbnail" --alt Proposed flag design for
+        {% picture thumbnail uploads/2021/VQxIibJg.jpg --alt Proposed flag design for
         Rochester MN %}
         <div class="post-content">
           <h3>
@@ -57,7 +57,7 @@ layout: default
         </div>
       </li>
       <li>
-        {% picture thumbnail uploads/2021/mpls-concept-after-floyd.png 1:1 center class="thumbnail" --alt Minneapolis
+        {% picture thumbnail uploads/2021/mpls-concept-after-floyd.png center --alt Minneapolis
         City Flag concept after George Floyd %}
         <div class="post-content">
           <h3>
@@ -83,7 +83,7 @@ layout: default
       {%- for post in posts -%}
       <li>
         {%- if post.imageresize -%}
-        {% picture thumbnail "{{ post.imageresize }}" 1:1 center class="thumbnail" %}
+        {% picture thumbnail "{{ post.imageresize }}" --alt {{ post.imagealt }} %}
         {%- endif -%}
         <div class="post-content">
           <h3>
