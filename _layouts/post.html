@@ -5,7 +5,7 @@ layout: default
   <header class="post-header">
     {%- if page.imageresize -%}
     <figure class="lede-image">
-      {% picture "{{ page.imageresize }}" 4:3 center --alt {{ page.imagealt }} %}
+      {% picture "{{ page.imageresize }}" --alt {{ page.imagealt }} %}
     </figure>
     {%- endif -%}
     <div class="wrapper">
