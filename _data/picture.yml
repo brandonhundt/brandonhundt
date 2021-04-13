@@ -15,6 +15,10 @@ presets:
       mobile: calc(100vw - 16px)
       tablet: 80vw
     size: 1200px
+    format_quality:
+      webp: 90
+      avif: 90
+      jp2: 90
     link_source: false
     dimension_attributes: true
     attributes:
