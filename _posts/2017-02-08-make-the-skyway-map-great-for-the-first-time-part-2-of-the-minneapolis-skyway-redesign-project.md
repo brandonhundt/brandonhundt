@@ -25,7 +25,7 @@ Therefore, I’m suggesting we deconstruct the skyway system and I feel best way
 
 As an example of deconstruction, we only need to look at the experience of riding a train - only three things really matter. The stop, the route, and the destination. A train can go around a curve or two but what’s that to you? The train is taking you where you need to go and it only stops at marked stations.
 
-The legendary Massimo Vignelli brilliantly took advantage of this in designing [New York’s subway map](http://www.openculture.com/2014/05/designer-massimo-vignelli-explains-his-iconic-1972-new-york-city-subway-map.html). You’ll notice he completely ignored streets, distances and curves, instead he used horizontal and vertical straight lines and the occasional 45 degree angle. He also used colors to signify routes, and stations were simple equally spaced dots on the map.
+The legendary Massimo Vignelli brilliantly took advantage of this in designing [New York’s subway map](https://www.openculture.com/2014/05/designer-massimo-vignelli-explains-his-iconic-1972-new-york-city-subway-map.html). You’ll notice he completely ignored streets, distances and curves, instead he used horizontal and vertical straight lines and the occasional 45 degree angle. He also used colors to signify routes, and stations were simple equally spaced dots on the map.
 
 Today we couldn’t imagine any subway system without it this type of map.
 

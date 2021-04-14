@@ -17,7 +17,7 @@ tags:
   - Roger Goodell
   - Sports Reform
 ---
-The <a href="http://www.nytimes.com/2014/01/22/sports/football/nfl-roundup.html?_r=0" rel="external">extra point is now pointless</a>, according to NFL Commissioner Roger Goodell. Being someone that is typically <a href="/tag/sports-reform/" rel="external">pro rule change</a> this is music to my ears. However, Goodell’s proposal  just feels wrong. Here it is summed up: A touchdown is automatically worth 7 points, unless the scoring teams attempts to run an additional play for an attempt at an additional point, but if that play is unsuccessful you lose a point. Please try to explain that to a non-football fan. It would just add to an increasingly confusing and over regulated rule book.
+The <a href="https://www.nytimes.com/2014/01/22/sports/football/nfl-roundup.html?_r=0" rel="external">extra point is now pointless</a>, according to NFL Commissioner Roger Goodell. Being someone that is typically <a href="/tag/sports-reform/" rel="external">pro rule change</a> this is music to my ears. However, Goodell’s proposal  just feels wrong. Here it is summed up: A touchdown is automatically worth 7 points, unless the scoring teams attempts to run an additional play for an attempt at an additional point, but if that play is unsuccessful you lose a point. Please try to explain that to a non-football fan. It would just add to an increasingly confusing and over regulated rule book.
 
 <!--more-->
 
@@ -29,7 +29,7 @@ In rugby union, the equivalent to a touchdown is called a ‘try’. It is worth
 
 On another side note, in rugby, the defensive team can still take the ball away from an offensive player in the end zone, until it has been touched down to the ground in a controlled fashion. This is also in contrast to the NFL’s most hypocritical rule, that a ball carrier can simply ‘break the plane of the end zone’ without maintaining control through the end of the play to score a touchdown; in contrast to a pass catcher that needs to get two feet in the end zone, make a ‘play typical to the game of football' and maintain control through the process of the catch. Hows that for some highly regulated inconsistency.
 
-Back to rugby. As soon as the ‘try’ is awarded, a kick is then attempted from anywhere behind the spot of where the try was scored. In other terms, if you scored right in between the uprights the player gets to attempt a straight on kick. Score in the corner, the kick becomes more difficult. You miss the kick, its no points. You make it, its two points. <a href="http://thepowerofgoals.blogspot.com/2013/01/rating-rugby-union-kickers-by-kick.html" rel="external">It’s by no means automatic</a>.
+Back to rugby. As soon as the ‘try’ is awarded, a kick is then attempted from anywhere behind the spot of where the try was scored. In other terms, if you scored right in between the uprights the player gets to attempt a straight on kick. Score in the corner, the kick becomes more difficult. You miss the kick, its no points. You make it, its two points. <a href="https://thepowerofgoals.blogspot.com/2013/01/rating-rugby-union-kickers-by-kick.html" rel="external">It’s by no means automatic</a>.
 
 Here's an example of a conversion from the corner:
 
@@ -47,4 +47,4 @@ I can see many benefits to this rule change.
 
 You’re welcome Roger. Thanks for getting the conversation started. Please let me know what you think of this rule proposal.
 
-_Main image credit: http://flic.kr/p/7rAG6_
+_Main image credit: https://flic.kr/p/7rAG6_

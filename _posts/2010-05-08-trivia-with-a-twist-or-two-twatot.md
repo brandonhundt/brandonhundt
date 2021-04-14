@@ -40,7 +40,7 @@ The host is the preeminent authority in TWTOT. They control the scoring, the pac
 
 ## <a name="questions"></a>The Questions
 
-Generally any questions will do. Trivial Pursuit Cards will work, and there is a good resource of questions located at [triviaplaying.com.](http://www.triviaplaying.com) As the Host, I have found it handy to use my smart phone to read the questions from.
+Generally any questions will do. Trivial Pursuit Cards will work, and there is a good resource of questions located at [triviaplaying.com.](https://www.triviaplaying.com) As the Host, I have found it handy to use my smart phone to read the questions from.
 
 ## <a name="contestants"></a>The Contestants
 

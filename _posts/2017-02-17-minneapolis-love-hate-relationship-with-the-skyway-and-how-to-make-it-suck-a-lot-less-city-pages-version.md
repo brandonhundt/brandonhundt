@@ -18,7 +18,7 @@ Minneapolis has 11 miles' worth of skyways, <a href="https://en.wikipedia.org/wi
 
 <!--more-->
 
-_**Editor's Note: This post is an edited summation of my previous Skyway Map and Signage posts that appeared in [City Pages](http://www.citypages.com/news/minneapolis-lovehate-relationship-with-the-skyway-and-how-to-make-it-suck-a-lot-less/414065113). RIP, City Pages.**_
+_**Editor's Note: This post is an edited summation of my previous Skyway Map and Signage posts that appeared in [City Pages](https://www.citypages.com/news/minneapolis-lovehate-relationship-with-the-skyway-and-how-to-make-it-suck-a-lot-less/414065113). RIP, City Pages.**_
 
 Take that EVERY OTHER CITY.
 
@@ -29,23 +29,23 @@ That’s where I work. If I’m being honest, I can sense a real <a href="https:
 Love:
 
   * The skyways are heated. Often times I can even forgo the coat on a walk to grab lunch or just stretch my legs on a sub-zero day.
-  * They help MPLS stay fit in the winter, and this is a <a href="http://www.americanfitnessindex.org/?city=minneapolis-mn" rel="external" rel="noopener">super fit city</a>. No foray into the skyway is complete without seeing a group of coworkers venting about spreadsheets while on a power walk.
-  * The <a href="http://www.downtownmpls.com/news_article/show/435964-where-did-the-mighty-ducks-shoot-scenes-in-downtown-minneapolis-" rel="external" rel="noopener">Mighty Ducks rollerbladed</a> through them once.
+  * They help MPLS stay fit in the winter, and this is a <a href="https://www.americanfitnessindex.org/?city=minneapolis-mn" rel="external" rel="noopener">super fit city</a>. No foray into the skyway is complete without seeing a group of coworkers venting about spreadsheets while on a power walk.
+  * The <a href="https://www.downtownmpls.com/news_article/show/435964-where-did-the-mighty-ducks-shoot-scenes-in-downtown-minneapolis-" rel="external" rel="noopener">Mighty Ducks rollerbladed</a> through them once.
   * I’m not sure Minneapolis gets to host next year’s Super Bowl without them. I can only imagine how cranky sport journalists already are about coming to Minneapolis for a week in February.
 
 Hate:
 
   * The skyways take people off the streets, which can feel empty by comparison.
   * They can be much, much slower than just walking on the street.
-  * There’s an argument they hurt retail. So much so that the Dayton boys behind North Loop boutique Askov Finlayson have formed a <a href="http://www.askovfinlayson.com/skyway-avoidance-society/" rel="external" rel="noopener">skyway avoidance society</a>.
-  * Is hosting that Super Bowl a good thing? Next year, Minnesota will invite football fans to our <a href="http://www.citypages.com/news/how-the-peoples-stadium-screws-the-people-7445714" rel="external" rel="noopener">billion dollar, mostly taxpayer-funded</a>, <a href="http://www.citypages.com/arts/heres-your-nicknames-for-us-bank-stadium-plus-a-bunch-of-jokes-you-made-poll-results/393909221" rel="external" rel="noopener">Viking-ship-looking</a>, <a href="http://www.citypages.com/news/audubon-society-says-glassy-new-vikings-stadium-will-needlessly-kill-birds-6560668" rel="external" rel="noopener">bird concussion provider</a>. Even with the skyways, people will still complain. Get ready for a takedown from <a href="https://theringer.com/37-pre-super-bowl-hours-in-houston-d1627b7c8f52#.jkdlg0nh3" rel="external" rel="noopener">The Ringer</a>.
+  * There’s an argument they hurt retail. So much so that the Dayton boys behind North Loop boutique Askov Finlayson have formed a <a href="https://www.askovfinlayson.com/skyway-avoidance-society/" rel="external" rel="noopener">skyway avoidance society</a>.
+  * Is hosting that Super Bowl a good thing? Next year, Minnesota will invite football fans to our <a href="https://www.citypages.com/news/how-the-peoples-stadium-screws-the-people-7445714" rel="external" rel="noopener">billion dollar, mostly taxpayer-funded</a>, <a href="https://www.citypages.com/arts/heres-your-nicknames-for-us-bank-stadium-plus-a-bunch-of-jokes-you-made-poll-results/393909221" rel="external" rel="noopener">Viking-ship-looking</a>, <a href="https://www.citypages.com/news/audubon-society-says-glassy-new-vikings-stadium-will-needlessly-kill-birds-6560668" rel="external" rel="noopener">bird concussion provider</a>. Even with the skyways, people will still complain. Get ready for a takedown from <a href="https://theringer.com/37-pre-super-bowl-hours-in-houston-d1627b7c8f52#.jkdlg0nh3" rel="external" rel="noopener">The Ringer</a>.
   * Most importantly, the skyways are extremely difficult to navigate with ugly and unhelpful maps and signage.
 
 Seriously, here is the official skyway map. It’s almost impossible to follow the walking path (marked in red), but you can clearly follow the path of Nicollet Mall, in all its curviness… for some reason.
 
-<img src="http://stmedia.startribune.com/images/ctyp+skyway+map+cutout.PNG" alt="" width="1155" height="531" />
+<img src="https://stmedia.startribune.com/images/ctyp+skyway+map+cutout.PNG" alt="" width="1155" height="531" />
 
-And here is an example of the signage:<img src="http://stmedia.startribune.com/images/ctyp+skyway+sign+water.PNG" alt="" width="824" height="512" />
+And here is an example of the signage:<img src="https://stmedia.startribune.com/images/ctyp+skyway+sign+water.PNG" alt="" width="824" height="512" />
 
 Ugh. Everything is wrong.
 
@@ -68,7 +68,7 @@ I’m suggesting we follow the transit (aka subway) map model, and deconstruct t
 
 When riding the train, only three things really matter: the stop, the route, and the destination. A train can go around a curve or two, but what’s that to you? The train is taking you where you need to go and it only stops at marked stations.
 
-The legendary Massimo Vignelli brilliantly took advantage of this in designing <a href="http://www.openculture.com/2014/05/designer-massimo-vignelli-explains-his-iconic-1972-new-york-city-subway-map.html" rel="external" rel="noopener">New York’s subway map</a>. You’ll notice he completely ignored streets, distances, and curves, instead using straight horizontal and vertical lines, and the occasional 45-degree angle. Colors signified routes, and stations were equally spaced dots on the map.
+The legendary Massimo Vignelli brilliantly took advantage of this in designing <a href="https://www.openculture.com/2014/05/designer-massimo-vignelli-explains-his-iconic-1972-new-york-city-subway-map.html" rel="external" rel="noopener">New York’s subway map</a>. You’ll notice he completely ignored streets, distances, and curves, instead using straight horizontal and vertical lines, and the occasional 45-degree angle. Colors signified routes, and stations were equally spaced dots on the map.
 
 Today we couldn’t imagine a subway system mapped any other way.
 
@@ -80,7 +80,7 @@ Let’s apply Vignelli’s principles to the skyway and its jagged edges. First,
 4. **Distance**. Skyway users are, for the most part, walking. This means we can’t completely ignore the concept of distance. While not needing to provide exact distances, we don’t want to be wildly wrong, either.
 5. **Streets**. The skyway is in many ways an extension of, and connected to the street. Their blocks also form a good barometer of distance.
 
-Taking these into consideration, I created the following map:<img src="http://stmedia.startribune.com/images/ctyp+minneapolis+skyway+map.jpg" alt="" width="1152" height="1042" />
+Taking these into consideration, I created the following map:<img src="https://stmedia.startribune.com/images/ctyp+minneapolis+skyway+map.jpg" alt="" width="1152" height="1042" />
 _(<a href="/wp-content/uploads/2017/02/mpls-skyway-map-v1.pdf" rel="external" rel="noopener">Click here for a large PDF of Hundt's Minneapolis skyway map</a>.)_
 
 Isn’t that so much more pleasant?
@@ -96,13 +96,13 @@ Even with a vastly improved grid, what good is a new map with the same old signs
 
 Here, look at these.
 
-<img src="http://stmedia.startribune.com/images/ctyp+skyway+signs1.jpg" alt="" width="612" height="466" />
+<img src="https://stmedia.startribune.com/images/ctyp+skyway+signs1.jpg" alt="" width="612" height="466" />
 
 I created these intending to fit the majority of signage that is currently in the skyway, though a recent walk revealed to me all kinds of unorthodox shapes hanging around. (The signs at both ends of Mayo Clinic Square [or Block E] are wave-shaped, for example.)
 
 In the new and improved skyway, these unorthodox shapes would be replaced with the rectangular version. They should just be taken down, period.
 
-<img src="http://stmedia.startribune.com/images/ctyp+skyway+sign+wavy.PNG" alt="" width="826" height="388" />
+<img src="https://stmedia.startribune.com/images/ctyp+skyway+sign+wavy.PNG" alt="" width="826" height="388" />
 
 So, imagine you’re walking into the buildings listed on the image above. The color indicates the route you’re on, with the name of the building you’re entering labeled in the center. Down the right side, you could see other (future) destinations along the same route, as marked with the same color, plus alternate routes you will encounter inside that building, as marked by their respective colors.
 
@@ -110,7 +110,7 @@ On the occasion that you’re entering the final building on a route and there a
 
 Let’s look at how signs would appear if you’re entering the City Center building, the one laced with the most skyway veins in all of downtown. There are no fewer than seven entrances to that building. I’ve mocked up five, to show this system can handle even the most complex of scenarios:
 
-<img src="http://stmedia.startribune.com/images/ctyp+skyway+signs2.jpg" alt="" width="612" height="626" />
+<img src="https://stmedia.startribune.com/images/ctyp+skyway+signs2.jpg" alt="" width="612" height="626" />
 
 The color schemes and additional building names look like a lot to take in all at once. But after a few passes (and with the aid of a clean map) they’d begin to make sense, and become second nature.
 

@@ -28,7 +28,7 @@ Look at this way. In the oft chance we were to secede from the Union, would this
 
 [<img class="alignnone size-medium wp-image-1134" src="/wp-content/uploads/2015/06/500px-Flag_of_Minnesota.svg_-300x190.png" alt="500px-Flag_of_Minnesota.svg" width="300" height="190" srcset="/wp-content/uploads/2015/06/500px-Flag_of_Minnesota.svg_-300x190.png 300w, /wp-content/uploads/2015/06/500px-Flag_of_Minnesota.svg_.png 500w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2015/06/500px-Flag_of_Minnesota.svg_.png)
 
-As I mentioned in my Minneapolis post, I’ve been inspired [by the work of Zeus Jones](http://www.underconsideration.com/brandnew/archives/minnesota_united_fc.php) and their logo for Minnesota United FC. I feel it captures Minnesota quite well and displays many flag-like qualities. Its quite a brilliant logo. The loon illustration is just so damn good that I feel its worthy of the state flag.
+As I mentioned in my Minneapolis post, I’ve been inspired [by the work of Zeus Jones](https://www.underconsideration.com/brandnew/archives/minnesota_united_fc.php) and their logo for Minnesota United FC. I feel it captures Minnesota quite well and displays many flag-like qualities. Its quite a brilliant logo. The loon illustration is just so damn good that I feel its worthy of the state flag.
 
 [<img class="alignnone size-medium wp-image-1120" src="/wp-content/uploads/2015/06/Minnesota_United_2014.svg_-209x300.png" alt="Minnesota_United_2014.svg" width="209" height="300" srcset="/wp-content/uploads/2015/06/Minnesota_United_2014.svg_-209x300.png 209w, /wp-content/uploads/2015/06/Minnesota_United_2014.svg_.png 400w" sizes="(max-width: 209px) 100vw, 209px" />](/wp-content/uploads/2015/06/Minnesota_United_2014.svg_.png)
 

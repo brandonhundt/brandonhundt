@@ -17,7 +17,7 @@ tags:
   - Game Shows
   - Improvements
 ---
-Here are a few ideas and thoughts to improve the society in which we live. They are not grand, life changing ideas like the ones commonly found on my friend’s <a href="http://mindofmaus.wordpress.com/" rel="external">Mind of Maus weblog</a>. But they should suffice in improving the overall quality of your life.<!--more-->
+Here are a few ideas and thoughts to improve the society in which we live. They are not grand, life changing ideas like the ones commonly found on my friend’s <a href="https://mindofmaus.wordpress.com/" rel="external">Mind of Maus weblog</a>. But they should suffice in improving the overall quality of your life.<!--more-->
 
 ## Bumps
 

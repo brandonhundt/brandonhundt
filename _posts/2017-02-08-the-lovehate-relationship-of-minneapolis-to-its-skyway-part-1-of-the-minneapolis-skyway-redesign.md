@@ -18,7 +18,7 @@ tags:
 ---
 Winters can get a bit cold in Minnesota so some downtown business owners thought it was wise to build random walkways connecting buildings to one another. The Minneapolis Skyway System was born. “The Skyway” is a convoluted and confusing collection of intra-building walkways that connects 2nd floors (and sometimes first floors) of most of, but not all of the buildings in Downtown Minneapolis. If Wikipedia is accurate, there are [11 miles worth of skyways](https://en.wikipedia.org/wiki/Minneapolis_Skyway_System) - making it the largest skyway system in THE WORLD.<!--more-->
 
-**NOTE: This post was republished in City Pages&#8230; [Check it out, it reads better](http://www.citypages.com/news/minneapolis-lovehate-relationship-with-the-skyway-and-how-to-make-it-suck-a-lot-less/414065113). 😉**
+**NOTE: This post was republished in City Pages&#8230; [Check it out, it reads better](https://www.citypages.com/news/minneapolis-lovehate-relationship-with-the-skyway-and-how-to-make-it-suck-a-lot-less/414065113). 😉**
 
 Take that **EVERY OTHER CITY**.
 
@@ -27,16 +27,16 @@ I work in downtown Minneapolis and if I’m being honest, I can sense a real [lo
 **PROs:**
 
   * The skyways are heated. Often times I can even forgo the coat on my walk to grab a lunch or simply stretch the legs on a sub-zero day. I should note, the nearest skyway entrance to my office is across a street. If I were skyway connected, coats are not necessary.
-  * They help MPLS stay fit in the winter and this is a [super fit city](http://www.americanfitnessindex.org/?city=minneapolis-mn). I should add that no foray into the skyway is complete without seeing a group of coworkers venting about spreadsheets while on a power walk.
-  * [The Mighty Ducks rollerbladed](http://www.downtownmpls.com/news_article/show/435964-where-did-the-mighty-ducks-shoot-scenes-in-downtown-minneapolis-) through them once.
+  * They help MPLS stay fit in the winter and this is a [super fit city](https://www.americanfitnessindex.org/?city=minneapolis-mn). I should add that no foray into the skyway is complete without seeing a group of coworkers venting about spreadsheets while on a power walk.
+  * [The Mighty Ducks rollerbladed](https://www.downtownmpls.com/news_article/show/435964-where-did-the-mighty-ducks-shoot-scenes-in-downtown-minneapolis-) through them once.
   * I’m not sure Minneapolis gets to host next year’s Super Bowl without them. I can only imagine how cranky sport journalists already are about coming to Minneapolis for a week in early February. But knowing they can leave their coats in their hotel room on the way to the stadium has to be at least a little comforting.
 
 **CONs:**
 
   * The skyways take people off the streets making them feel empty at times.
   * They can be much much slower than just walking on the street.
-  * There’s an argument that they hurt retail. So much so that a boutique retailer, of the Dayton (Target) fortune, has started a [skyway avoidance society](http://mspmag.com/shop-and-style/ali-shops/the-oath-of-the-skyway-avoidance-society/).
-  * The skyway enables and allows Minneapolis to host the Super Bowl in our brand new, billion dollar, mostly taxpayer funded, Viking ship-ish looking, [bird concussion provider](http://www.startribune.com/u-s-bank-stadium-officials-plan-three-year-300-000-bird-fatality-study/386676761/). Even with the skyways, sports journalists are still going to hate the idea of a cold weather, Minneapolis Super Bowl. Get ready for [The Ringer’s takedown](https://theringer.com/37-pre-super-bowl-hours-in-houston-d1627b7c8f52#.jkdlg0nh3). You thought [#grapegate](https://publiceditor.blogs.nytimes.com/2014/11/20/new-york-times-minnesota-grape-salad/) was bad and appalling - just you wait. Prepare yourself.
+  * There’s an argument that they hurt retail. So much so that a boutique retailer, of the Dayton (Target) fortune, has started a [skyway avoidance society](https://mspmag.com/shop-and-style/ali-shops/the-oath-of-the-skyway-avoidance-society/).
+  * The skyway enables and allows Minneapolis to host the Super Bowl in our brand new, billion dollar, mostly taxpayer funded, Viking ship-ish looking, [bird concussion provider](https://www.startribune.com/u-s-bank-stadium-officials-plan-three-year-300-000-bird-fatality-study/386676761/). Even with the skyways, sports journalists are still going to hate the idea of a cold weather, Minneapolis Super Bowl. Get ready for [The Ringer’s takedown](https://theringer.com/37-pre-super-bowl-hours-in-houston-d1627b7c8f52#.jkdlg0nh3). You thought [#grapegate](https://publiceditor.blogs.nytimes.com/2014/11/20/new-york-times-minnesota-grape-salad/) was bad and appalling - just you wait. Prepare yourself.
   * Most importantly, the skyways are extremely difficult to navigate with ugly and unhelpful maps and signage.
 
 Seriously here is the official Skyway map:

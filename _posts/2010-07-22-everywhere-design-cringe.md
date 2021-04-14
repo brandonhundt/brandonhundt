@@ -34,9 +34,9 @@ In my day job as a web designer, we repeatedly turn unproductive, unprofessional
 
 Design plays an integral part in this. If your site looks professional, is usable, and appears credible than that increases your chances for success in the eyes of the user. Simple? Of course.
 
-So you don't own a business but you want to throw a party. Most people enjoy a party. This sounds like a case where you may need to send out invitations or put up fliers. So you open up Microsoft Word, select your template and get to work. Chances are your flier will end up looking like [this](http://rachel.brandonhundt.com/wp-content/uploads/2010/07/bad-example.doc).
+So you don't own a business but you want to throw a party. Most people enjoy a party. This sounds like a case where you may need to send out invitations or put up fliers. So you open up Microsoft Word, select your template and get to work. Chances are your flier will end up looking like [this](/wp-content/uploads/2010/07/bad-example.doc).
 
-Sorry, but I don't want to go to your party. Your party looks cheap, lame, common, and not fun. I want to go the other party with [this poster](http://rachel.brandonhundt.com/wp-content/uploads/2010/07/goodexample.doc).
+Sorry, but I don't want to go to your party. Your party looks cheap, lame, common, and not fun. I want to go the other party with [this poster](/wp-content/uploads/2010/07/goodexample.doc).
 
 This just shows you don't need fancy fonts, clip art, or word art to make a cool and, better yet, effective design. The party in poster above seems original and cool, and people will want to attend, and know where to go.
 

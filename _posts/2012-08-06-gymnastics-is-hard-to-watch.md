@@ -19,7 +19,7 @@ tags:
 ---
 Let’s cut to the chase, gymnastics is bothering me more than in previous Olympics. I’ll admit, I really respect the work ethic and skill that these athletes display. Yet, _Gymnastics just feels hard_. Would you believe a gymnast if they said it is fun? I don’t. And that’s just the beginning of my troubles.<!--more-->
 
-Until the Beijing games, gymnasts had to earn their score. [When scandal ripped through the sport](http://en.wikipedia.org/wiki/Code_of_Points_(artistic_gymnastics)) after Athens (were we shocked?), the days of the Perfect 10 were declared over. Now we are left with a system in which an athlete begins with a perfect score for an element based on difficulty. And then we watch the judges subtract points like its Facebook stock.
+Until the Beijing games, gymnasts had to earn their score. [When scandal ripped through the sport](https://en.wikipedia.org/wiki/Code_of_Points_(artistic_gymnastics)) after Athens (were we shocked?), the days of the Perfect 10 were declared over. Now we are left with a system in which an athlete begins with a perfect score for an element based on difficulty. And then we watch the judges subtract points like its Facebook stock.
 
 _Subtraction is harder than addition._
 

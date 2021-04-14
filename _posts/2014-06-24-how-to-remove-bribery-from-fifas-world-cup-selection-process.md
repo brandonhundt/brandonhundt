@@ -18,7 +18,7 @@ tags:
   - Sports
   - Sports Reform
 ---
-I’ve been hooked. The first three weeks of this World Cup has featured some of the most brilliant and exciting soccer ever played. However, in the back of my mind I’m still thinking about Qatar hosting a World Cup. Seriously, after watching players struggle to play in the heat and humidity of Brazil, is FIFA still planning on holding a World Cup in the much hotter Qatar? [Even after the corrupt voting process](http://www.thetakeaway.org/story/lawmakers-take-2022-world-cup/) where millions of dollars of bribes were used to sway votes to a plan that shouldn’t even been on the table? [Even after the known abuses toward a captive migrant workforce](http://www.businessinsider.com/qatar-world-cup-problems-2014-4)?<!--more-->
+I’ve been hooked. The first three weeks of this World Cup has featured some of the most brilliant and exciting soccer ever played. However, in the back of my mind I’m still thinking about Qatar hosting a World Cup. Seriously, after watching players struggle to play in the heat and humidity of Brazil, is FIFA still planning on holding a World Cup in the much hotter Qatar? [Even after the corrupt voting process](https://www.thetakeaway.org/story/lawmakers-take-2022-world-cup/) where millions of dollars of bribes were used to sway votes to a plan that shouldn’t even been on the table? [Even after the known abuses toward a captive migrant workforce](https://www.businessinsider.com/qatar-world-cup-problems-2014-4)?<!--more-->
 
 Playing a World Cup in Qatar is a bad idea. The only thing going for it is that its being played in a region that has never hosted a World Cup. John Oliver makes the case better than I do:
 
@@ -38,7 +38,7 @@ These are good goals and I don’t think they need to change. I feel they can be
 
 The five confederations should have greater power in choosing the hosts in a rotating and fair manner. In this method no bidding whatsoever will need to be done. Just like that, the need for bribery is lessened. Here’s how it would work:
 
-Each confederation would choose their hosts from within their Confederation. Yes, I said hosts, plural form. The burden of hosting should not fall on a single nation, but be spread amongst major cities within a continent. In fact, I’d go so far to say that there must be at least three nations used in group stage hosting. This is loosely based on the changes to the [Euros that will be in place for their tournament starting in 2020](http://en.wikipedia.org/wiki/UEFA_Euro_2020).
+Each confederation would choose their hosts from within their Confederation. Yes, I said hosts, plural form. The burden of hosting should not fall on a single nation, but be spread amongst major cities within a continent. In fact, I’d go so far to say that there must be at least three nations used in group stage hosting. This is loosely based on the changes to the [Euros that will be in place for their tournament starting in 2020](https://en.wikipedia.org/wiki/UEFA_Euro_2020).
 
 This will spread the costs around and allow FIFA to use existing stadiums to host, thus reducing a significant portion of hosting costs and the burden on a single nation.
 

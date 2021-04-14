@@ -548,4 +548,4 @@ _Championship: (2nd week January)_
 
 … and pay the players.
 
-That's it and not one ounce of human opinion is required. Please [write your Congressman](http://www.house.gov/representatives/find/) and let them know about this system so they can put pressure on the NCAA, like they did to rid the BCS. I can't think of a better way to do this. Can you? If so, chime in below.
+That's it and not one ounce of human opinion is required. Please [write your Congressman](https://www.house.gov/representatives/find/) and let them know about this system so they can put pressure on the NCAA, like they did to rid the BCS. I can't think of a better way to do this. Can you? If so, chime in below.

@@ -17,7 +17,7 @@ tags:
   - realignment
   - USA
 ---
-Rachel is currently in the Pittsburgh area of Pennsylvania working on a graduate degree. Naturally, I wanted to learn more about <a href="http://en.wikipedia.org/wiki/Pittsburgh" rel="external">Pittsburgh</a> (Geography nerd tag). Through Wikipedia (I didn’t mention thorough readings), I learned that Pittsburghians do not necessarily associate with the state of Pennsylvania. They are located at the edge of the Midwest, Northeast, Rust Belt, and Appalachia. One person even called them the ‘Paris of Appalachia’.
+Rachel is currently in the Pittsburgh area of Pennsylvania working on a graduate degree. Naturally, I wanted to learn more about <a href="https://en.wikipedia.org/wiki/Pittsburgh" rel="external">Pittsburgh</a> (Geography nerd tag). Through Wikipedia (I didn’t mention thorough readings), I learned that Pittsburghians do not necessarily associate with the state of Pennsylvania. They are located at the edge of the Midwest, Northeast, Rust Belt, and Appalachia. One person even called them the ‘Paris of Appalachia’.
 <!--more-->
 
 
@@ -108,7 +108,7 @@ I will admit this is not the most detailed map but it will provide a general sta
 
 **New Mexico:** Gains El Paso and more arid land. they can be a bit more relevant now.
 
-**New York:** Contains the current NY metro, except for the Eastern half of Long Island (_see Rhode Island_). This makes sense. If you like NY pizza this clip is for you: <a href="http://www.thedailyshow.com/watch/wed-june-1-2011/me-lover-s-pizza-with-crazy-broad" rel="external">http://www.thedailyshow.com/watch/wed-june-1-2011/me-lover-s-pizza-with-crazy-broad</a>
+**New York:** Contains the current NY metro, except for the Eastern half of Long Island (_see Rhode Island_). This makes sense. If you like NY pizza this clip is for you: <a href="/www.thedailyshow.com/watch/wed-june-1-2011/me-lover-s-pizza-with-crazy-broad" rel="external">/www.thedailyshow.com/watch/wed-june-1-2011/me-lover-s-pizza-with-crazy-broad</a>
 
 **North Carolina:** Tennessee has always been too skinny to be American. NC suffers for it.
 

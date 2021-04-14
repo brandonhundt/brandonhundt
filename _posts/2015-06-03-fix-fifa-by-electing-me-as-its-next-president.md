@@ -21,7 +21,7 @@ It is now official, I am running for the office of the FIFA President. FIFA has 
 
 <!--more-->
 
-However, FIFA has become a [joke](http://www.nbcnews.com/news/us-news/accused-fifa-executive-citing-onion-says-u-s-hosting-world-n367401) with its obvious and over the top corruption and archaic ideas. It is an organization straight out of the 1900s. Enough is enough. By electing me President, I will usher in a new age of governance and innovation, and with your support, I will lead FIFA as it joins most of the rest of the world in this millennium.
+However, FIFA has become a [joke](https://www.nbcnews.com/news/us-news/accused-fifa-executive-citing-onion-says-u-s-hosting-world-n367401) with its obvious and over the top corruption and archaic ideas. It is an organization straight out of the 1900s. Enough is enough. By electing me President, I will usher in a new age of governance and innovation, and with your support, I will lead FIFA as it joins most of the rest of the world in this millennium.
 
 Here is the _**tl;dr**_ version of my platform as FIFA President:
 
@@ -52,7 +52,7 @@ Here is the _**tl;dr**_ version of my platform as FIFA President:
 
 <ul style="margin-top: 0;">
   <li>
-    It is no longer a viable option for the host of FIFA tournaments to alternate between different countries. Economic studies show this to be a poor investment by the host country, unless the infrastructure already exist. (<a href="https://www.youtube.com/watch?v=DlJEt2KU33I">Just watch this</a>.) In addition, the FBI allegations are showing t<a href="http://www.reuters.com/article/2015/06/03/us-soccer-fifa-idUSKBN0OI22P20150603">he most corrupt aspect of FIFA</a> is the bidding process for hosting World Cups. What I suggest is removing the bidding process completely by removing the hosts.
+    It is no longer a viable option for the host of FIFA tournaments to alternate between different countries. Economic studies show this to be a poor investment by the host country, unless the infrastructure already exist. (<a href="https://www.youtube.com/watch?v=DlJEt2KU33I">Just watch this</a>.) In addition, the FBI allegations are showing t<a href="https://www.reuters.com/article/2015/06/03/us-soccer-fifa-idUSKBN0OI22P20150603">he most corrupt aspect of FIFA</a> is the bidding process for hosting World Cups. What I suggest is removing the bidding process completely by removing the hosts.
   </li>
   <li>
     But how can this happen? No fear, I have a solution. FIFA should build a year round complex where all FIFA sponsored international tournaments are played. Think of it as Flushing Meadows (of US Open fame) but for futbol. Or Disney World for futbol fans.
@@ -96,6 +96,6 @@ Here is the _**tl;dr**_ version of my platform as FIFA President:
   </li>
 </ul>
 
-#### 5. Most importantly, I’d right the moral wrong and remove the 2022 World Cup from Qatar for their [overt disregard of human life](http://www.hrw.org/world-report/2014/country-chapters/qatar).
+#### 5. Most importantly, I’d right the moral wrong and remove the 2022 World Cup from Qatar for their [overt disregard of human life](https://www.hrw.org/world-report/2014/country-chapters/qatar).
 
-To conclude, it is my desire, [unlike the deep down intentions of my eventual predecessor](http://www.vox.com/2015/5/29/8688243/fifa-president-sepp-blatter-proclaims-himself-president-of-everybody), to be the president of everyone. Therefore, I’m opening up this platform to the citizens of the planet to help me shape and improve these ideas. Thank you for your support and _I believe that I can win_.
+To conclude, it is my desire, [unlike the deep down intentions of my eventual predecessor](https://www.vox.com/2015/5/29/8688243/fifa-president-sepp-blatter-proclaims-himself-president-of-everybody), to be the president of everyone. Therefore, I’m opening up this platform to the citizens of the planet to help me shape and improve these ideas. Thank you for your support and _I believe that I can win_.

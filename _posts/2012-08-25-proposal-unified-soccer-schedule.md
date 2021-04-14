@@ -26,7 +26,7 @@ But before I can change the sport for the better, we need to look at many of the
 
   * Leagues around the world can run whenever they want. The main leagues run a season that goes from August to July, whereas other Leagues like Scandinavia and the MLS run January to December.
   * It is possible under the current set up for a club to play in the course of three weeks: two league matches; then have half your team fly around the world for an international friendly; then have a knock-out stage game in the Champions League; followed by a match in the FA cup. Ridiculous!
-  * For the reason above, clubs and international federations argue all the time over players participating in international friendlies through the season. If I were a club, I wouldn’t want to send any of my players away for a meaningless February friendly. It leads to awkward peace offerings, <a href="http://sports.yahoo.com/blogs/soccer-dirty-tackle/arjen-robben-jeered-bayern-munich-fans-netherlands-friendly-045140833.html" rel="external">like the one the Netherlands played against Bayern Munich</a> after a dispute over Arjen Robben.
+  * For the reason above, clubs and international federations argue all the time over players participating in international friendlies through the season. If I were a club, I wouldn’t want to send any of my players away for a meaningless February friendly. It leads to awkward peace offerings, <a href="https://sports.yahoo.com/blogs/soccer-dirty-tackle/arjen-robben-jeered-bayern-munich-fans-netherlands-friendly-045140833.html" rel="external">like the one the Netherlands played against Bayern Munich</a> after a dispute over Arjen Robben.
   * February international friendlies aren’t too fun to watch. It’s talent wasted in meaningless games.
   * League matches are starting in the middle of the transfer window, meaning the first two weeks of a season are ruled incomplete with incomplete rosters and teams in need a of a few more tune ups.
   * Top international players are playing in a slew of matches. Let’s look at Spain / Barca midfielder Xavi as an example.
@@ -72,6 +72,6 @@ Next, the calendar should be divided out as follows:
 
 There you have it. The issue of the soccer schedule is solved. You know as a fan you want this!
 
-Do you agree that I just solved the problem of the soccer schedule? Per tradition, here’s a link to <a href="http://www.fifa.com/contact/form.html" rel="external">FIFA’s contact form</a>. Please send them a link to this post. Lets overrun them with this proposal.
+Do you agree that I just solved the problem of the soccer schedule? Per tradition, here’s a link to <a href="https://www.fifa.com/contact/form.html" rel="external">FIFA’s contact form</a>. Please send them a link to this post. Lets overrun them with this proposal.
 
 Do you think this proposal can be improved? My ego really isn’t that big. Please let me know below!

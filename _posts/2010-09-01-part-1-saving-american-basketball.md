@@ -15,14 +15,14 @@ tags:
   - Sports Reform
 ---
 <div class="right">
-  <img src="http://rachel.brandonhundt.com/wp-content/uploads/2010/09/4357021528_128354edec_z.jpg" alt="" title="4357021528_128354edec_z" width="575" height="331" class="size-full wp-image-496" srcset="/wp-content/uploads/2010/09/4357021528_128354edec_z.jpg 575w, /wp-content/uploads/2010/09/4357021528_128354edec_z-300x172.jpg 300w" sizes="(max-width: 575px) 100vw, 575px" /></p>
+  <img src="/wp-content/uploads/2010/09/4357021528_128354edec_z.jpg" alt="" title="4357021528_128354edec_z" width="575" height="331" class="size-full wp-image-496" srcset="/wp-content/uploads/2010/09/4357021528_128354edec_z.jpg 575w, /wp-content/uploads/2010/09/4357021528_128354edec_z-300x172.jpg 300w" sizes="(max-width: 575px) 100vw, 575px" /></p>
 
   <p class="wp-caption-text">
-    John Wall and John Calipari chat with Erin Andrews while simultaneously destroying amateur basketball. Credit: <a href="http://www.flickr.com/photos/tnjn/4357021528/">http://www.flickr.com/photos/tnjn/4357021528/</a>
+    John Wall and John Calipari chat with Erin Andrews while simultaneously destroying amateur basketball. Credit: <a href="https://www.flickr.com/photos/tnjn/4357021528/">https://www.flickr.com/photos/tnjn/4357021528/</a>
   </p>
 </div>
 
-Recently, I read an [article on ESPN.com](http://sports.espn.go.com/ncb/columns/story?columnist=oneil_dana&id=5398415) about how the recruiting process is ruining college basketball. To me, it wasn’t the fact that some coaches break the rules to recruit kids, its that most of them cheat to recruit players. This is just one of the new revelations that is destroying amateur basketball.<!--more-->
+Recently, I read an [article on ESPN.com](/sports.espn.go.com/ncb/columns/story?columnist=oneil_dana&id=5398415) about how the recruiting process is ruining college basketball. To me, it wasn’t the fact that some coaches break the rules to recruit kids, its that most of them cheat to recruit players. This is just one of the new revelations that is destroying amateur basketball.<!--more-->
 
 The symptom is a me first attitude in American basketball, and its easy to see why. If you show promise at an young age, you join an AAU travel team and parade in front of scouts and coaches. You have to show off your talents to make an impression and to separate yourself from the pack you have to show off your skills. Meaning that if you are a team player, a scholarship will be harder to come by. I base this off the fact that college coaches need impact players in order to save their own job.
 
@@ -44,9 +44,9 @@ If you haven’t figured it out by now the player I am referring to is this year
 
 ## Other Ways
 
-When I was 16, I went on a [People to People Sports Ambassador](http://www.peopletopeople.com/ourprograms/sport/pages/default.aspx) tour of New Zealand and Australia. I was amazed at the differences in how talent was developed as opposed to in America. Their teams consisted of the some of the best players in the country for their age, and they were good. They were being groomed for team success and not individual success.
+When I was 16, I went on a [People to People Sports Ambassador](/www.peopletopeople.com/ourprograms/sport/pages/default.aspx) tour of New Zealand and Australia. I was amazed at the differences in how talent was developed as opposed to in America. Their teams consisted of the some of the best players in the country for their age, and they were good. They were being groomed for team success and not individual success.
 
-Specifically, Australia had a sports academy called the [Australian Institute of Sport.](http://www.ausport.gov.au/ais) It is a similar concept to the US Olympic Training Center in Colorado Springs, except it allows the top youth athletes in all sports and not just the niche Olympic sports, to go to school and learn their sport properly. They have produced among others, Andrew Bogut, a top NBA pick and current Milwaukee Buck.
+Specifically, Australia had a sports academy called the [Australian Institute of Sport.](/www.ausport.gov.au/ais) It is a similar concept to the US Olympic Training Center in Colorado Springs, except it allows the top youth athletes in all sports and not just the niche Olympic sports, to go to school and learn their sport properly. They have produced among others, Andrew Bogut, a top NBA pick and current Milwaukee Buck.
 
 This is a much different concept than the experience in the U.S. America is really the only country where public academic institutions put a large emphasis on after-school athletics. Other countries have P.E. class, but generally don’t offer after school athletic teams. That is the job of independent clubs.
 

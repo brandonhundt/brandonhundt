@@ -27,7 +27,7 @@ We live in a cycle of violence. For every murder, mass shooting, and detonated d
 
 Regardless of where one falls on political spectrum in America, violence, or the threat of violence, is what defines our nation to the world. To many Americans, violence earned our freedom on the battlefield (and protects us still today). Even the threat of violence protects us from the tyranny within our borders, as it is written into our rights that we may ‘bear arms’.  The U.S. is the only nation on Earth that has used a nuclear weapon in battle, and we used it twice. And we continue to hold onto ours to prevent others from using theirs.
 
-Using [this tax calculator](http://nationalpriorities.org/en/interactive-data/taxday/receipt/2012/taxespaid/1000/), for every $1000 we Americans pay in taxes, $264.77 goes to military spending. This is over 25%! Do we feel safer as a nation because of this? If we could figure out how to live in peace, and capped military spending at $100, we’d save $164! There would be no need to go after PBS and the roughly $0.15 they get.
+Using [this tax calculator](https://nationalpriorities.org/en/interactive-data/taxday/receipt/2012/taxespaid/1000/), for every $1000 we Americans pay in taxes, $264.77 goes to military spending. This is over 25%! Do we feel safer as a nation because of this? If we could figure out how to live in peace, and capped military spending at $100, we’d save $164! There would be no need to go after PBS and the roughly $0.15 they get.
 
 However, it seems utterly hopeless to think that the cycle of violence in America can change. I think this is why many Americans hold onto their guns. They have no other answer.
 
@@ -37,13 +37,13 @@ I don’t want this to sound like America is solely responsible for terrorism, b
 
 Fortunately, Scripture is full of examples for ending the cycle of violence. In Romans 12, Paul outlines what living like a Christian looks like. Remember that when Paul wrote to the church in Rome, they lived under one of the most ruthless governments ever, and as Christians, they were attacked and put to death by their own government. Their enemies were more powerful than they and could get away oppressing them. And still, Paul offers these words:
 
-> Do not repay anyone evil for evil. Be careful to do what is right in the eyes of everyone. 18 If it is possible, as far as it depends on you, live at peace with everyone. 19 Do not take revenge, my dear friends, but leave room for God’s wrath, for it is written: “It is mine to avenge; I will repay,”[[d](http://www.biblegateway.com/passage/?search=Romans+12&version=NIV#fen-NIV-28265d)] says the Lord. 20 On the contrary:
+> Do not repay anyone evil for evil. Be careful to do what is right in the eyes of everyone. 18 If it is possible, as far as it depends on you, live at peace with everyone. 19 Do not take revenge, my dear friends, but leave room for God’s wrath, for it is written: “It is mine to avenge; I will repay,”[[d](https://www.biblegateway.com/passage/?search=Romans+12&version=NIV#fen-NIV-28265d)] says the Lord. 20 On the contrary:
 >
 > “If your enemy is hungry, feed him;
 >
 >    if he is thirsty, give him something to drink.
 >
-> In doing this, you will heap burning coals on his head.”[[e](http://www.biblegateway.com/passage/?search=Romans+12&version=NIV#fen-NIV-28266e)]
+> In doing this, you will heap burning coals on his head.”[[e](https://www.biblegateway.com/passage/?search=Romans+12&version=NIV#fen-NIV-28266e)]
 >
 > 21 Do not be overcome by evil, but overcome evil with good.
 
@@ -69,7 +69,7 @@ I suppose that is what one would expect to happen, but Jesus doesn’t play by t
 
 ## Can someone be Pro-God, Pro-Life, and Pro-Gun?
 
-[<img class="alignnone size-full wp-image-942" title="413F8iclHGL._SL500_AA300_" src="/wp-content/uploads/2013/04/413F8iclHGL._SL500_AA300_.jpg" alt="" width="300" height="300" srcset="/wp-content/uploads/2013/04/413F8iclHGL._SL500_AA300_.jpg 300w, /wp-content/uploads/2013/04/413F8iclHGL._SL500_AA300_-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.amazon.com/Guns-Life-Obama-Bumper-Sticker/dp/B007DKQGQC)The other night I was refueling my vehicle, and I saw a bumper sticker that looked like the one to the left:
+[<img class="alignnone size-full wp-image-942" title="413F8iclHGL._SL500_AA300_" src="/wp-content/uploads/2013/04/413F8iclHGL._SL500_AA300_.jpg" alt="" width="300" height="300" srcset="/wp-content/uploads/2013/04/413F8iclHGL._SL500_AA300_.jpg 300w, /wp-content/uploads/2013/04/413F8iclHGL._SL500_AA300_-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />](https://www.amazon.com/Guns-Life-Obama-Bumper-Sticker/dp/B007DKQGQC)The other night I was refueling my vehicle, and I saw a bumper sticker that looked like the one to the left:
 
 Here is my question, can one be Pro-God, Pro-Life, and Pro-Gun? Can you value life and guns? Are there guns in Heaven?
 

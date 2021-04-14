@@ -21,7 +21,7 @@ A good city flag can provide a rallying point for civic pride and the template f
 
 
 
-Mars points out there are [five rules to good flag design](http://99percentinvisible.org/episode/vexillonaire/):
+Mars points out there are [five rules to good flag design](https://99percentinvisible.org/episode/vexillonaire/):
 
   1. Keep it simple
   2. Use meaningful symbolism
@@ -35,7 +35,7 @@ Lets now take a look at the current flag of Minneapolis:
 
 Ok, its simple, only uses two colors, and doesn’t include lettering…  BUT its so bland! It is not distinctive or meaningful in anyway. Any city can claim the four tenants in the symbol. It no wonder you don’t see it flown anywhere in the city. Minneapolis is too vibrant of a city to have too dull of a flag.
 
-To create a new flag for Minneapolis, we should do due diligence and research the existing symbols to find a distinctive element. For this I turn to the [revamped logo](http://blogs.mprnews.org/cities/2015/02/new-minneapolis-logo-now-with-fewer-sailboats/). And by revamped, I mean brought from the 50s into the 90s. However, with the logo we finally find a distinctive element, the sailboat. This makes sense for the city of lakes. We can potentially use this.
+To create a new flag for Minneapolis, we should do due diligence and research the existing symbols to find a distinctive element. For this I turn to the [revamped logo](https://blogs.mprnews.org/cities/2015/02/new-minneapolis-logo-now-with-fewer-sailboats/). And by revamped, I mean brought from the 50s into the 90s. However, with the logo we finally find a distinctive element, the sailboat. This makes sense for the city of lakes. We can potentially use this.
 
 [<img class="alignnone wp-image-1122 size-medium" src="/wp-content/uploads/2015/06/new-logo-300x177.jpg" alt="new-logo" width="300" height="177" srcset="/wp-content/uploads/2015/06/new-logo-300x177.jpg 300w, /wp-content/uploads/2015/06/new-logo.jpg 845w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2015/06/new-logo.jpg)
 
