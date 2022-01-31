@@ -1,6 +1,19 @@
-@import url('https://fonts.googleapis.com/css?family=Enriqueta:700|Lato:100,300,400,700');
-
 @charset "utf-8";
+
+@font-face {
+  font-family: "Lato";
+  src: url("../fonts/Lato/Lato-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Lato Light";
+  src: url("../fonts/Lato/Lato-Light.ttf");
+}
+
+@font-face {
+  font-family: "Enriqueta";
+  src: url("../fonts/Enriqueta/Enriqueta-Bold.ttf");
+}
 
 // Define defaults for each variable.
 $blue: #38A8D2;
@@ -8,6 +21,9 @@ $drk-blue: #003A57;
 $link-blue: #0066CC;
 
 $base-font-family: 'Lato',
+sans-serif;
+$base-font-family-light: 'Lato Light',
+'Lato',
 sans-serif;
 $base-font-size: 20px !default;
 $base-font-weight: 400 !default;
