@@ -116,11 +116,11 @@
 
 .highlight .il { color: #099; }
 
-@font-face { font-family: "Lato"; src: url("../fonts/Lato/Lato-Regular.ttf"); }
+@font-face { font-family: 'Lato Light'; src: url("../fonts/lato-light-webfont.woff2") format("woff2"), url("../fonts/lato-light-webfont.woff") format("woff"); font-weight: normal; font-style: normal; font-display: swap; }
 
-@font-face { font-family: "Lato Light"; src: url("../fonts/Lato/Lato-Light.ttf"); }
+@font-face { font-family: 'Lato'; src: url("../fonts/lato-regular-webfont.woff2") format("woff2"), url("../fonts/lato-regular-webfont.woff") format("woff"); font-weight: normal; font-style: normal; font-display: swap; }
 
-@font-face { font-family: "Enriqueta"; src: url("../fonts/Enriqueta/Enriqueta-Bold.ttf"); }
+@font-face { font-family: 'Enriqueta'; src: url("../fonts/enriqueta-bold-webfont.woff2") format("woff2"), url("../fonts/enriqueta-bold-webfont.woff") format("woff"); font-weight: normal; font-style: normal; font-display: swap; }
 
 html { font-size: 20px; }
 
