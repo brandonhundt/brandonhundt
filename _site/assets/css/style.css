@@ -252,15 +252,15 @@ table td { border: 1px solid #e8e8e8; }
 
 @media only screen and (max-width: 400px) { .post-list { grid-template-columns: 1fr; grid-auto-rows: 1fr; } }
 
-.post-list li { position: relative; height: 100%; width: 100%; margin: 0; padding: 0; border: 1px solid transparent; display: flex; align-items: center; justify-content: left; z-index: 10; background-color: #000; background: radial-gradient(circle, transparent 20%, #000 20%, #000 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #000 20%, #000 80%, transparent 80%, transparent) 20px 20px, linear-gradient(#400964 1.6px, transparent 1.6px) 0 -0.8px, linear-gradient(90deg, #400964 1.6px, #000 1.6px) -0.8px 0; background-size: 40px 40px, 40px 40px, 20px 20px, 20px 20px; }
+.post-list li { position: relative; height: 100%; width: 100%; margin: 0; padding: 0; border: 1px solid transparent; display: flex; align-items: center; justify-content: left; z-index: 10; background-color: #000000; background: repeating-linear-gradient(-45deg, #001903, #001903 2px, #000000 2px, #000000 10px); }
 
-.post-list li:nth-child(5n - 4) { background-color: #000000; background-image: linear-gradient(135deg, #010873 25%, transparent 25%), linear-gradient(225deg, #010873 25%, transparent 25%), linear-gradient(45deg, #010873 25%, transparent 25%), linear-gradient(315deg, #010873 25%, #000000 25%); background-position: 8px 0, 8px 0, 0 0, 0 0; background-size: 16px 16px; background-repeat: repeat; }
+.post-list li:nth-child(5n - 4) { background-color: #000; background: radial-gradient(circle, transparent 20%, #000 20%, #000 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #000 20%, #000 80%, transparent 80%, transparent) 20px 20px, linear-gradient(#400964 1.6px, transparent 1.6px) 0 -0.8px, linear-gradient(90deg, #400964 1.6px, #000 1.6px) -0.8px 0; background-size: 40px 40px, 40px 40px, 20px 20px, 20px 20px; }
 
-.post-list li:nth-child(5n - 3) { background-color: #000000; background-image: radial-gradient(#9a0000 1.25px, transparent 1.25px), radial-gradient(#9a0000 1.25px, #000000 1.25px); background-size: 50px 50px; background-position: 0 0,25px 25px; }
+.post-list li:nth-child(5n - 3) { background-color: #000000; background-image: linear-gradient(135deg, #003605 25%, transparent 25%), linear-gradient(225deg, #003605 25%, transparent 25%), linear-gradient(45deg, #003605 25%, transparent 25%), linear-gradient(315deg, #003605 25%, #000000 25%); background-position: 8px 0, 8px 0, 0 0, 0 0; background-size: 8px 8px; background-repeat: repeat; }
 
-.post-list li:nth-child(5n - 2) { background-color: #000000; background: repeating-linear-gradient(-45deg, #001903, #001903 2px, #000000 2px, #000000 10px); }
+.post-list li:nth-child(5n - 2) { background-color: #000000; background-image: radial-gradient(#9a0000 1.25px, transparent 1.25px), radial-gradient(#9a0000 1.25px, #000000 1.25px); background-size: 50px 50px; background-position: 0 0,25px 25px; }
 
-.post-list li:nth-child(5n - 1) { background-color: #000000; background-image: linear-gradient(135deg, #003605 25%, transparent 25%), linear-gradient(225deg, #003605 25%, transparent 25%), linear-gradient(45deg, #003605 25%, transparent 25%), linear-gradient(315deg, #003605 25%, #000000 25%); background-position: 8px 0, 8px 0, 0 0, 0 0; background-size: 8px 8px; background-repeat: repeat; }
+.post-list li:nth-child(5n - 1) { background-color: #000000; background-image: linear-gradient(135deg, #010873 25%, transparent 25%), linear-gradient(225deg, #010873 25%, transparent 25%), linear-gradient(45deg, #010873 25%, transparent 25%), linear-gradient(315deg, #010873 25%, #000000 25%); background-position: 8px 0, 8px 0, 0 0, 0 0; background-size: 16px 16px; background-repeat: repeat; }
 
 .post-list li:hover { border: 1px solid #38A8D2; }
 
