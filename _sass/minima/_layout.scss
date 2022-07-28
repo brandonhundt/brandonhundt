@@ -1,7 +1,7 @@
 @mixin header-over-background {
   position: relative;
   color: #fff;
-  text-shadow: 0 1px 1px $drk-blue;
+  text-shadow: 0 1px 1px #000;
   margin: 0 0 0.5em;
   font-size: 2.25rem;
   line-height: 1.25;
@@ -22,34 +22,47 @@
   z-index: 120;
 }
 
-@mixin background-image-wrapper {
-  top: 0;
-  width: 100%;
-  bottom: 0;
-  z-index: 0;
-  position: absolute;
-  margin-bottom: 0;
-  height: 100%;
-  grid-row: 1 / -1;
-  position: initial;
-  align-self: start;
-  grid-column: 1 / -1;
-}
-
 @mixin background-image {
   position: relative;
   z-index: 0;
   object-fit: cover;
   object-position: center center;
-  opacity: 0.5;
+  opacity: 0.75;
   width: auto;
   height: 100%;
 }
 
+@mixin bg-cross {
+  background-color: #000;
+  background: radial-gradient(circle, transparent 20%, #000 20%, #000 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #000 20%, #000 80%, transparent 80%, transparent) 20px 20px, linear-gradient(#400964 1.6px, transparent 1.6px) 0 -0.8px, linear-gradient(90deg, #400964 1.6px, #000 1.6px) -0.8px 0;
+  background-size: 40px 40px, 40px 40px, 20px 20px, 20px 20px;
+}
+
+@mixin bg-polka {
+  background-color: #000000;
+  background-image:  radial-gradient(#9a0000 1.25px, transparent 1.25px), radial-gradient(#9a0000 1.25px, #000000 1.25px);
+  background-size: 50px 50px;
+  background-position: 0 0,25px 25px;
+}
+
+@mixin bg-diagonal {
+  background-color: #000000;
+  background: repeating-linear-gradient( -45deg, #001903, #001903 2px, #000000 2px, #000000 10px );
+}
+
 .home-container {
-  background: $drk-blue;
+  @include bg-cross();
   color: #fff;
   padding: 2em 0;
+
+  &.design-container {
+    @include bg-diagonal();
+  }
+
+  &.post-container {
+    @include bg-polka();
+  }
+
 
   a:link,
   a:visited {
@@ -83,34 +96,45 @@
   }
 }
 
-.thumbnail {
-  @include background-image-wrapper();
+.lede-image,
+.thumbnail-wrapper {
+  top: 0;
+  left: 0;
+  width: 100%;
+  bottom: 0;
+  z-index: 0;
   position: absolute;
+  margin-bottom: 0;
+  opacity: .75;
+
+  div {
+    display: block;
+    overflow: hidden;
+    position: absolute;
+    inset: 0px;
+    box-sizing: border-box;
+    margin: 0px;
+  }
+
+  img {
+    position: absolute;
+    inset: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+    border: none;
+    margin: auto;
+    display: block;
+    width: 0px;
+    height: 0px;
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 100%;
+    max-height: 100%;
+    object-fit: cover;
+  }
 
   &:before {
     @include pixelated-bg();
-  }
-
-  .thumbnail-image {
-    @include background-image();
-  }
-}
-
-.lede-image {
-  @include background-image-wrapper();
-  min-height: 75vh;
-
-  &:before {
-    @include pixelated-bg();
-  }
-
-  .default-image {
-    @include background-image();
-
-    @media screen and (min-width: 1201px) {
-      width: 100%;
-      height: auto;
-    }
   }
 }
 
@@ -148,7 +172,6 @@
 .post-list {
   margin-left: 0;
   margin-bottom: 0;
-  background: $drk-blue;
   list-style: none;
   display: grid;
   grid-gap: 0;
@@ -174,6 +197,20 @@
     justify-content: left;
     z-index: 10;
 
+    @include bg-cross();
+
+    &:nth-child(3n - 2) {
+      @include bg-diagonal();
+    }
+
+    &:nth-child(3n - 1) {
+      background-color: #000000;
+      background-image:  linear-gradient(135deg, #003605 25%, transparent 25%), linear-gradient(225deg, #003605 25%, transparent 25%), linear-gradient(45deg, #003605 25%, transparent 25%), linear-gradient(315deg, #003605 25%, #000000 25%);
+      background-position:  8px 0, 8px 0, 0 0, 0 0;
+      background-size: 8px 8px;
+      background-repeat: repeat;
+    }
+
     &:hover {
       border: 1px solid $blue;
     }
@@ -188,18 +225,10 @@
 
       h3 {
         position: relative;
-        font-size: 1.5em;
+        font-size: 1.5rem;
         margin-top: 10px;
         margin-bottom: 20px;
-        text-shadow: 0 1px 1px $drk-blue;
-
-        a {
-          color: #fff;
-
-          &:hover {
-            color: #eee;
-          }
-        }
+        text-shadow: 0 1px 1px #000;
       }
 
       .post-meta {
@@ -207,7 +236,7 @@
         font-size: 18px;
         color: #eee;
         display: block;
-        text-shadow: 0 1px 1px $drk-blue;
+        text-shadow: 0 1px 1px #000;
       }
     }
   }
@@ -235,11 +264,11 @@
   min-height: 75vh;
   align-content: end;
   margin-bottom: 1rem;
-  background-color: $drk-blue;
-  grid-template-rows: max-content max-content;
 
-  max-height: 75vh;
-  min-height: auto;
+  @include bg-diagonal();
+
+  min-height: 75vh;
+  height: auto;
 
   .wrapper {
     width: calc(100% - 30px);
@@ -261,7 +290,7 @@
   .post-meta {
     position: relative;
     color: #eee;
-    text-shadow: 0 1px 1px $drk-blue;
+    text-shadow: 0 1px 1px #000;
     font-size: 1rem;
   }
 }
@@ -300,13 +329,13 @@
     }
   }
 
-  h3 {
+  /*h3 {
     @include relative-font-size(1.375);
 
     @media screen and (min-width: $on-large) {
       @include relative-font-size(1.625);
     }
-  }
+  }*/
 
   h4 {
     @include relative-font-size(1.25);
@@ -318,5 +347,17 @@
 
   h6 {
     @include relative-font-size(1.0625);
+  }
+}
+
+.post-link {
+  &::after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    content: "";
   }
 }
