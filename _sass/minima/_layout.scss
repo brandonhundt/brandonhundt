@@ -50,19 +50,91 @@
   background: repeating-linear-gradient( -45deg, #001903, #001903 2px, #000000 2px, #000000 10px );
 }
 
+@mixin diamond {
+  width: 20px;
+  height: 20px;
+  background-color: #FF8585;
+  transform: rotate(45deg);
+}
+
+.home-title {
+  font-family: $base-font-family;
+  font-weight: 900;
+  padding: 0 0 0 0.5rem;
+  font-size: 2rem;
+  line-height: 1;
+  margin: 0;
+  text-align: left;
+  letter-spacing: 0;
+  text-transform: uppercase;
+  
+  @media screen and (min-width: 592px) {
+    font-size: 3rem;
+  }
+
+  @media screen and (min-width: 772px) {
+    font-size: 4rem;
+  }
+
+  .material-icons {
+    font-size: 1rem;
+
+    @media screen and (min-width: 592px) {
+      font-size: 2rem;
+    }
+  }
+}
+
+[data-color="black"] {
+  .serif,
+  .material-icons {
+    color: $blue;
+  }
+
+  .text {
+    color: $yellow;
+  }
+}
+
+[data-color="red"] {
+  .serif,
+  .material-icons {
+    color: $black;
+  }
+    
+  .text {
+    color: $black;
+  }
+}
+
 .home-container {
-  @include bg-cross();
-  color: #fff;
-  padding: 2em 0;
+  min-height: calc( 90vh - 6rem );
+  padding: 3rem 1rem;
+  position: relative;
 
-  &.design-container {
-    @include bg-diagonal();
+  &.about-container {
+    display: flex;
+    align-items: baselines;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url('/assets/bg-lines.svg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
   }
 
-  &.post-container {
-    @include bg-polka();
-  }
+  .serif {
+    font-family: $ff-serif;
+    font-size: 1rem;
+    color: $blue;
+    padding-left: 2rem;
+    margin-bottom: 0;
 
+    @media screen and (min-width: 592px) {
+      font-size: 2rem;
+      padding-left: 3.5rem;
+    }
+  }
 
   a:link,
   a:visited {

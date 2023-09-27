@@ -1,27 +1,19 @@
----
-layout: default
----
-<div class="home">
-  {{ content }}
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
 
-  <div class="home-container about-container">
-    <h2>About</h2>
-    <div class="wrapper">
-      <p>I'm Brandon and I live in Minneapolis, MN. You'll typically find me exploring the intersection
-        of design, geography, and sports. In other words, I like flags and maps.</p>
+{%- include head.html -%}
 
-      <p>During the weekday, I'm the Director of Product Management for PRX, working on <a
-          href="https://www.prx.org/publishing-platform">PRX
-          Dovetail</a> and the website for <a href="https://theworld.org"><em>The World from PRX</em></a>.</p>
+<body>
+  <header class="home-container about-container" data-color="black">
+    <h1 class="home-title">
+      <span class="material-icons" aria-label="hidden">location_on</span>
+      <span class="text">Brandon Hundt</span>
+    </h1>
+    <p class="serif">Product Designer</p>
+  </header>
 
-      <p>I have written for <a href="https://theworld.org/people/brandon-hundt">PRI.org</a> and City Pages (RIP). <a
-          href="https://twitter.com/BrandonHundt2">Follow me on
-          Twitter</a>.</p>
-    </div>
-  </div>
-
-  <div class="home-container design-container">
-    <h2>Latest Designs:</h2>
+  <section class="home-container design-container" data-color="red">
+    <h2>Civic-Minded Designs</h2>
     <ul class="post-list">
       <li>
         <figure class="thumbnail-wrapper">
@@ -45,11 +37,11 @@ layout: default
       <li>
         <figure class="thumbnail-wrapper">
           <div>
-            {% picture thumbnail uploads/2021/VQxIibJg.jpg --alt Proposed flag design for Rochester MN %}
+            {% picture thumbnail uploads/2021/VQxIibJg.jpg --alt "Proposed flag design for Rochester, MN" %}
           </div>
         </figure>
         <div class="post-content">
-          <h3>The one that almost won, Rochester, MN City Flag</h3>
+          <h3>The flag that almost won, Rochester, MN City Flag</h3>
         </div>
         <a class="post-link" href="/assets/VQxIibJg.jpg" aria-label="View File"></a>
       </li>
@@ -65,7 +57,7 @@ layout: default
         <a class="post-link" href="/2021-02-28-new-minneapolis-flag-after-george-floyd" aria-label="continue reading"></a>
       </li>
     </ul>
-  </div>
+  </section>
   {% if site.paginate %}
   {% assign posts = paginator.posts %}
   {% else %}
@@ -73,7 +65,7 @@ layout: default
   {% endif %}
 
   {%- if posts.size > 0 -%}
-  <div class="home-container post-container">
+  <section class="home-container post-container" data-color="blue">
     <h2>Posts:</h2>
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -119,7 +111,11 @@ layout: default
       </ul>
     </div>
     {%- endif %}
-  </div>
+  </section>
   {%- endif -%}
 
-</div>
+{%- include footer.html -%}
+
+</body>
+
+</html>

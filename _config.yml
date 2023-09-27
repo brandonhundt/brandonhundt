@@ -64,6 +64,37 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+    line_numbers: false
+
+# Guideline:https://www.digitalocean.com/community/tutorials/jekyll-compress-html0
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  startings: []
+  blanklines: true
+  profile: false
+  # ignore:
+  #   envs: all
+
+sass:
+  style: compressed
+
 picture:
   source: "wp-content"
   output: "wp-content/generated"
