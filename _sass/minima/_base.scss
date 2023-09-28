@@ -95,6 +95,27 @@ body {
 
   &.color-green {
     background-color: $green;
+    color: $black;
+
+    a:link,
+    a:visited {
+      color: $black;
+    }
+
+    .site-title {
+      a:link,
+      a:visited {
+        color: $black;
+      }
+    }
+
+    .post-title {
+      color: $black;
+    }
+
+    .post-meta {
+      color: $black;
+    }
   }
 }
 
