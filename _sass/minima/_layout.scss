@@ -254,7 +254,7 @@ hr {
     z-index: 10;
     background-color: $black;
 
-    &:nth-child(5n - 4) {
+    /*&:nth-child(5n - 4) {
       background-color: $green;
     }
 
@@ -264,7 +264,7 @@ hr {
 
     &:nth-child(5n - 1) {
       background-color: $yellow;
-    }
+    }*/
 
     &:active {
       transform: scale(0.98);
@@ -291,6 +291,8 @@ hr {
         text-shadow: 0 1px 0 $black;
         position: relative;
         z-index: 1080;
+        font-family: $ff-sans-serif-display;
+        font-weight: 600;
       }
     }
   }
