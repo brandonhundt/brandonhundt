@@ -100,6 +100,7 @@ hr {
 
 .home-container {
   min-height: calc( 90vh - 6rem );
+  width: calc( 100% - 2rem );
   padding: 3rem 1rem;
   position: relative;
 
@@ -226,23 +227,22 @@ hr {
 }
 
 .post-list {
-  margin-left: 0;
-  margin-bottom: 0;
+  margin: 0;
+  padding: 0;
   list-style: none;
   display: grid;
-  grid-gap: 0;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-  grid-auto-rows: 400px;
+  grid-gap: 1rem;
+  grid-template-columns: 100%;
+  grid-auto-rows: 1fr;
   grid-auto-flow: dense;
 
-  @media only screen and (min-width: 859px) {
-    grid-gap: 1rem;
+  @media screen and (min-width: $on-medium) {
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-auto-rows: 400px;
   }
-
 
   li {
     position: relative;
-    height: 100%;
     width: 100%;
     margin: 0;
     padding: 0;
@@ -252,18 +252,6 @@ hr {
     justify-content: left;
     z-index: 10;
     background-color: $black;
-
-    /*&:nth-child(5n - 4) {
-      background-color: $green;
-    }
-
-    &:nth-child(5n - 3) { 
-      background-color: $red;
-    }
-
-    &:nth-child(5n - 1) {
-      background-color: $yellow;
-    }*/
 
     &:active {
       transform: scale(0.98);
