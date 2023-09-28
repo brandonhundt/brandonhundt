@@ -79,6 +79,27 @@ body {
 
   &.color-red {
     background-color: $red;
+    color: #fff;
+
+    a:link,
+    a:visited {
+      color: $blue;
+    }
+    
+    .site-title {
+      a:link,
+      a:visited {
+        color: $yellow;
+      }
+    }
+    
+    .post-title {
+      color: #fff;
+    }
+
+    .post-meta {
+      color: #fff;
+    }
   }
 
   &.color-white {

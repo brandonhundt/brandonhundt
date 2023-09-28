@@ -4,6 +4,8 @@ title: "Minneapolis' love/hate relationship with the skyway, and how to make it 
 date: 2017-02-17T12:22:59+00:00
 author: Brandon Hundt
 layout: post
+header-color: red
+color: yellow
 guid: /?p=1320
 permalink: /minneapolis-love-hate-relationship-with-the-skyway-and-how-to-make-it-suck-a-lot-less-city-pages-version/
 image: https://brandonhundt.com/wp-content/uploads/2020/11/ctypskywayimages-800x400.jpg
