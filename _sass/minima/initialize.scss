@@ -1,10 +1,10 @@
 @charset "utf-8";
 
 @font-face {
-  font-family: 'Lato Light';
+  font-family: 'Lato';
   src: url('../fonts/lato-light-webfont.woff2') format('woff2'),
     url('../fonts/lato-light-webfont.woff') format('woff');
-  font-weight: normal;
+  font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
@@ -27,28 +27,187 @@
   font-display: swap;
 }
 
+@font-face {
+  font-family: "Material Icons";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/assets/fonts/material-icons.woff2") format("woff2");
+  font-display: swap;
+}
+
+.material-icons {
+  font-family: "Material Icons";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: "liga";
+  -webkit-font-smoothing: antialiased;
+}
+
+@font-face {
+	font-family: 'overpass';
+	src:  url('/assets/fonts/overpass-bold-italic-webfont.woff2') format('woff2'), url('/assets/fonts/overpass-bold-italic-webfont.woff') format('woff');
+	font-weight: bold;
+	font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+	font-family: 'overpass';
+	src:  url('/assets/fonts/overpass-bold-webfont.woff2') format('woff2'), url('/assets/fonts/overpass-bold-webfont.woff') format('woff');
+	font-weight: bold;
+	font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'overpass';
+  src:  url('/assets/fonts/overpass-extrabold-italic-webfont.woff2') format('woff2'), url('/assets/fonts/overpass-extrabold-italic-webfont.woff') format('woff');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'overpass';
+  src:  url('/assets/fonts/overpass-extrabold-webfont.woff2') format('woff2'), url('/assets/fonts/overpass-extrabold-webfont.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+	font-family: 'overpass';
+	src:  url('/assets/fonts/overpass-extralight-italic-webfont.woff2') format('woff2'), url('/assets/fonts/overpass-extralight-italic-webfont.woff') format('woff');
+	font-weight: 100;
+	font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+	font-family: 'overpass';
+	src:  url('/assets/fonts/overpass-heavy-italic-webfont.woff2') format('woff2'), url('/assets/fonts/overpass-heavy-italic-webfont.woff') format('woff');
+	font-weight: 900;
+	font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+	font-family: 'overpass';
+	src:  url('/assets/fonts/overpass-heavy-webfont.woff2') format('woff2'), url('/assets/fonts/overpass-heavy-webfont.woff') format('woff');
+	font-weight: 900;
+	font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+	font-family: 'overpass';
+	src:  url('/assets/fonts/overpass-italic-webfont.woff2') format('woff2'), url('/assets/fonts/overpass-italic-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'overpass';
+  src:  url('/assets/fonts/overpass-light-italic-webfont.woff2') format('woff2'), url('/assets/fonts/overpass-light-italic-webfont.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+	font-family: 'overpasslight';
+	src:  url('/assets/fonts/overpass-light-webfont.woff2') format('woff2'), url('/assets/fonts/overpass-light-webfont.woff') format('woff');
+	font-weight: 300;
+	font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+	font-family: 'overpass';
+	src:  url('/assets/fonts/overpass-regular-webfont.woff2') format('woff2'), url('/assets/fonts/overpass-regular-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+	font-family: 'overpass';
+	src:  url('/assets/fonts/overpass-semibold-italic-webfont.woff2') format('woff2'), url('/assets/fonts/overpass-semibold-italic-webfont.woff') format('woff');
+	font-weight: 600;
+	font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+	font-family: 'overpass';
+	src:  url('/assets/fonts/overpass-semibold-webfont.woff2') format('woff2'), url('/assets/fonts/overpass-semibold-webfont.woff') format('woff');
+	font-weight: 600;
+	font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+	font-family: 'overpass';
+	src:  url('/assets/fonts/overpass-thin-italic-webfont.woff2') format('woff2'), url('/assets/fonts/overpass-thin-italic-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+	font-family: 'overpass';
+	src:  url('/assets/fonts/overpass-thin-webfont.woff2') format('woff2'), url('/assets/fonts/overpass-thin-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'yellowtail';
+  src: url('/assets/fonts/yellowtail-regular-webfont.woff2') format('woff2'), url('/assets/fonts/yellowtail-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 // Define defaults for each variable.
-$blue: #38A8D2;
+$blue: #6F93A8;
+$green: #95A863;
+$black: #151515;
+$red: #9A4443;
+$yellow: #E1BA7C;
+
 $drk-blue: #003A57;
 $link-blue: #0066CC;
 
-$base-font-family: 'Lato',
-sans-serif;
-$base-font-family-light: 'Lato Light',
-'Lato',
-sans-serif;
+$ff-sans-serif-display: "overpass", "Lato", sans-serif;
+$ff-sans-serif: "Lato", sans-serif;
+$ff-serif-display: "yellowtail", "Enriqueta", serif;
+$ff-serif: "Enriqueta", serif;
+
+$header-font-family: $ff-sans-serif-display;
+$base-font-family: $ff-sans-serif;
+$base-font-family-light: $ff-sans-serif;
 $base-font-size: 20px !default;
-$base-font-weight: 400 !default;
+$base-font-weight: normal !default;
 $small-font-size: .875 !default;
 $base-line-height: 1.5 !default;
 
-$text-color: #555;
+$text-color: $black;
 
-$header-font-family: 'Enriqueta',
-serif;
-$header-font-weight: 700 !default;
+$header-font-family: $ff-sans-serif-display;
+$header-font-weight: 900;
 
-$link-base-color: $link-blue;
+$link-base-color: $blue;
 $link-base-weight: 700;
 $link-hover-color: darken($link-base-color, 10%);
 
@@ -57,10 +216,10 @@ $spacing-unit: 30px !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width: 800px !default;
+$content-width: 900px !default;
 
 $on-palm: 600px !default;
-$on-laptop: 800px !default;
+$on-laptop: 900px !default;
 
 $on-medium: $on-palm !default;
 $on-large: $on-laptop !default;

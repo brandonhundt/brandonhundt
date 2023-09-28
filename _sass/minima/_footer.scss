@@ -2,12 +2,21 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $border-color-01;
-  padding: $spacing-unit 0;
+  padding: 1.5rem 1rem;
   text-align: center;
   position: relative;
   z-index: 100;
-  background: #fff;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  color: white;
+  font-family: $ff-sans-serif-display;
+  font-size: 1.15rem;
+
+  a:link,
+  a:visited {
+    color: $blue;
+  }
 
   ul {
     list-style: none;
@@ -16,6 +25,21 @@
     li {
       display: inline-block;
       margin: 0 5px;
+    }
+  }
+
+  .copyright {
+    font-size: 1rem;
+  }
+}
+
+.color-yellow {
+  .site-footer {
+    color: $black;
+
+    a:link,
+    a:visited {
+      color: $black;
     }
   }
 }

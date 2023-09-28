@@ -4,6 +4,8 @@ title: "After George Floyd, we need a new Minneapolis Flag"
 date: 2021-02-28T23:09:09+00:00
 author: Brandon Hundt
 layout: post
+header-color: blue
+color: yellow
 permalink: /2021-02-28-new-minneapolis-flag-after-george-floyd/
 image: https://brandonhundt.com/assets/proposed-mpls-flag-waving.png
 imageresize: uploads/2021/proposed-mpls-flag-waving.png
