@@ -31,7 +31,6 @@ figure {
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
-  background-color: $background-color;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern"1;
   -moz-font-feature-settings: "kern"1;
@@ -42,28 +41,59 @@ body {
   min-height: 100vh;
   flex-direction: column;
   overflow-wrap: break-word;
+  transition: background-color 0.5s ease;
 
-  &[data-theme="black"] {
-    background-color: $black;
+  &.color-blue {
+    background-color: $blue;
+    
+    .site-title .material-icons {
+      color: $red;
+    }
+
   }
 
-  &[data-theme="red"] {
+  &.color-black {
+    background-color: $black;
+    color: white;
+
+    a:link,
+    a:visited {
+      color: $blue;
+    }
+
+    .site-title {
+      a:link,
+      a:visited {
+        color: $yellow;
+      }
+    }
+
+    .post-title {
+      color: $yellow;
+    }
+
+    .post-meta {
+      color: $blue;
+    }
+  }
+
+  &.color-red {
     background-color: $red;
   }
 
-  &[data-theme="blue"] {
-    background-color: $blue;
-  }
-
-  &[data-theme="white"] {
+  &.color-white {
     background-color: #fff;
+
+    .site-footer {
+      color: $black;
+    }
   }
 
-  &[data-theme="yellow"] {
+  &.color-yellow {
     background-color: $yellow;
   }
 
-  &[data-theme="green"] {
+  &.color-green {
     background-color: $green;
   }
 }
@@ -165,16 +195,17 @@ h6 {
  * Links
  */
 a {
-  color: $link-base-color;
-  text-decoration: none;
+  color: $text-color;
+  text-decoration: underline;
+  font-weight: 700;
 
   &:visited {
-    color: $link-base-color;
+    color: $text-color;
+    text-decoration: none;
   }
 
   &:hover {
-    color: $link-hover-color;
-    text-decoration: underline;
+    text-decoration: none;
   }
 
   .social-media-list &:hover {
@@ -191,11 +222,13 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $brand-color;
-  border-left: 4px solid $border-color-01;
+  color: $black;
+  border-left: 4px solid $red;
   padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
-  font-style: italic;
+  @include relative-font-size(1.5);
+  font-family: $ff-serif-display;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
 
   > :last-child {
     margin-bottom: 0;

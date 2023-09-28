@@ -2,11 +2,9 @@
  * Site header
  */
 .site-header {
-  border-bottom: 1px solid $border-color-01;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
   text-align: center;
-  background-color: #fff;
   position: relative;
   z-index: 100;
 
@@ -16,20 +14,18 @@
 }
 
 .site-title {
-  font-family: $base-font-family-light;
-  font-weight: 300;
+  font-family: $header-font-family;
+  font-weight: 900;
   text-transform: uppercase;
-  font-style: italic;
   padding: 0;
   font-size: 1.75em;
   line-height: 1;
   margin: 12px auto 7px;
   text-align: center;
-  letter-spacing: -.05em;
 
   a {
-    color: #777;
-    font-weight: 300;
+    color: $yellow;
+    text-decoration: none;
 
     &:hover {
       color: $link-hover-color;
@@ -46,7 +42,6 @@
   position: absolute;
   top: 9px;
   right: $spacing-unit / 2;
-  background-color: $background-color;
   border: 1px solid $border-color-01;
   border-radius: 5px;
   text-align: right;
@@ -105,7 +100,6 @@
     position: static;
     float: right;
     border: none;
-    background-color: inherit;
 
     label[for="nav-trigger"] {
       display: none;

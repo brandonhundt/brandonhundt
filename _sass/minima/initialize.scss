@@ -189,25 +189,25 @@ $yellow: #E1BA7C;
 $drk-blue: #003A57;
 $link-blue: #0066CC;
 
-$ff-sans-serif: "overpass", "Lato", sans-serif;
-$ff-serif: "yellowtail", "Enriqueta", serif;
+$ff-sans-serif-display: "overpass", "Lato", sans-serif;
+$ff-sans-serif: "Lato", sans-serif;
+$ff-serif-display: "yellowtail", "Enriqueta", serif;
+$ff-serif: "Enriqueta", serif;
 
+$header-font-family: $ff-sans-serif-display;
 $base-font-family: $ff-sans-serif;
 $base-font-family-light: $ff-sans-serif;
 $base-font-size: 20px !default;
-$base-font-weight: 500 !default;
+$base-font-weight: normal !default;
 $small-font-size: .875 !default;
 $base-line-height: 1.5 !default;
 
+$text-color: $black;
 
+$header-font-family: $ff-sans-serif-display;
+$header-font-weight: 900;
 
-$text-color: #555;
-
-$header-font-family: 'Enriqueta',
-serif;
-$header-font-weight: 700 !default;
-
-$link-base-color: $link-blue;
+$link-base-color: $blue;
 $link-base-weight: 700;
 $link-hover-color: darken($link-base-color, 10%);
 
@@ -216,10 +216,10 @@ $spacing-unit: 30px !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width: 800px !default;
+$content-width: 900px !default;
 
 $on-palm: 600px !default;
-$on-laptop: 800px !default;
+$on-laptop: 900px !default;
 
 $on-medium: $on-palm !default;
 $on-large: $on-laptop !default;
