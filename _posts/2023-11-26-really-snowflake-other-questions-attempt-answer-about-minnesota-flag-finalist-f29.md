@@ -94,3 +94,18 @@ I want to work with the Commission! Really, I do!
 Thank you all for taking the time to engage with me about this flag. I'm very hopeful, excited, and nervous. Onwards to a new Minnesota flag!
 
 *UPDATE:* If you like the flag, please feel free [to provide a public comment](https://www3.mnhs.org/serc-finalist-f29) voicing your support to the State Emblems Redesign Commission.
+
+
+## <a name="revisions"></a> POTENTIAL REVISIONS
+
+_*UPDATE:* December 2, 2023:_ The State Emblems Redesign Commissions (SERC) appears willing to accept designer feedback. Therefore, I decided to create a slide deck with included revisions and context for the decisions made. The SERC received a slightly modified version of the deck. 
+
+My goal with any proposed revision is to maintain the symbolism and spirit and quality of the originally proposed flag. I think the original flag would make a great flag. Some of the revisions _may_ make it stronger. 
+
+It is up to the SERC to make final decisions on if they accept any changes. Thank you.
+
+Feel free to share the deck. My desire is for the context to accompany the revisions at this point, therefore I will not be showing any of these images outside of the context of the deck - for now.
+
+<div style="--aspect-ratio: 16/9;">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzHIMm274W6j6WMlXvxPdeNGS6ZnP-IKetTWym6ZgEX-Q3DKR21Ggm31dcprhYzFQQEZeWYrRoRyF2/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
