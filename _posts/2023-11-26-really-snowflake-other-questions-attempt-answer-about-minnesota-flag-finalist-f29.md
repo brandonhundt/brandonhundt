@@ -94,3 +94,9 @@ I want to work with the Commission! Really, I do!
 Thank you all for taking the time to engage with me about this flag. I'm very hopeful, excited, and nervous. Onwards to a new Minnesota flag!
 
 *UPDATE:* If you like the flag, please feel free [to provide a public comment](https://www3.mnhs.org/serc-finalist-f29) voicing your support to the State Emblems Redesign Commission.
+
+*UPDATE: The following was added on December 2, 2023*
+## <a name="revisions"></a> POTENTIAL REVISIONS
+<div style="--aspect-ratio: 16/9;">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzHIMm274W6j6WMlXvxPdeNGS6ZnP-IKetTWym6ZgEX-Q3DKR21Ggm31dcprhYzFQQEZeWYrRoRyF2/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
