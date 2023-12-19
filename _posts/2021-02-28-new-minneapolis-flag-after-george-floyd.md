@@ -51,7 +51,7 @@ Minneapolis is on the verge of doing something historic by being the largest cit
 
 In West Africa there’s the [Sankofa bird](https://cola.siu.edu/africanastudies/about-us/sankofa.php), it looks backwards as it moves forward and has become a symbol of hope for African Americans in the fight for racial equality. Always reflecting, never forgetting as it moves forward on its journey.
 
-As Minneapolis started burgeoning as a milling city along St. Anthony Falls, let’s not forget on land stolen from the Lakota,  it would have been common to see many water wheels churning in the Mississippi River. The waterwheel can take on a similar symbolism to the Sankofa bird - in one full rotation the wheel needs to go backwards as well as forward. We should always remember our past as we move forward.
+As Minneapolis started burgeoning as a milling city along St. Anthony Falls, let’s not forget on land stolen from the Dakota, it would have been common to see many water wheels churning in the Mississippi River. The waterwheel can take on a similar symbolism to the Sankofa bird - in one full rotation the wheel needs to go backwards as well as forward. We should always remember our past as we move forward.
 
 {% picture uploads/2021/proposed-mpls-flag-waving.png --alt Proposed new flag for Minneapolis %}
 
@@ -59,7 +59,7 @@ I hope to have designed a flag that encompases these features.
 
 The field (non-nerds call this a background) is separated into two equal quadrants separated by a 45 degree angle. The angle represents Minneapolis’ geographic location on the 45th parallel, halfway between the equator and the north pole.
 
-**Colors:** The hoist side (or the side of flag pole) is blue symbolizing the city’s relationship with water, or _mne_ in Lakota. The white represents winter as Minneapolis is the coldest major city in the contiguous United States.
+**Colors:** The hoist side (or the side of flag pole) is blue symbolizing the city’s relationship with water, or _mne_ in Dakota. The white represents winter as Minneapolis is the coldest major city in the contiguous United States.
 
 **The angle** is also shaped like St Anthony Falls, the waterfall that gave this city its birth and initial prosperity as a milling town.
 
@@ -68,7 +68,7 @@ The city motto is _En Avant (French for 'Forward') _as represented by the water 
 
 A water wheel must travel backwards in order to go forward. The four black branches remember the following significant events:
 
-*   We remember that the land Minneapolis now occupies is stolen from its original Lakota occupants.
+*   We remember that the land Minneapolis now occupies is stolen from its original Dakota occupants.
 *   We remember those that died in the violence of the workers strikes of the 1930s.
 *   We remember the vast inequities for people of color specifically through institutionalized acts of segregation in housing through the embrace of racial covenants and redlining.
 *   We remember the victims of police brutality, notably, but unfortunately not limited to Jamar Clark, Justine Diamond, Thurmin Blevins, and George Floyd.
