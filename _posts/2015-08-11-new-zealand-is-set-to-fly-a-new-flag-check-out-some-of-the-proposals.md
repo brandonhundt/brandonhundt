@@ -1,6 +1,7 @@
 ---
 id: 1249
 title: New Zealand is set to fly a new flag. Check out some of the proposals.
+redirect_to: https://theworld.org/stories/2015/08/11/new-zealand-flag
 date: 2015-08-11T09:31:33+00:00
 author: Brandon Hundt
 layout: post
