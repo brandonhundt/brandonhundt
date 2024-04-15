@@ -1,0 +1,19 @@
+---
+id: 00004
+title: "Five features of PRX Metrics we want you to know about"
+redirect_to: https://medium.com/prxofficial/five-features-of-prx-metrics-we-want-to-you-to-know-about-f3aceb15b47b
+date: 2019-09-26T15:30:00-06:00
+author: Brandon Hundt
+layout: post
+header-color: black
+color: yellow
+permalink: /2019-09-26-five-features-of-prx-metrics-we-want-to-you-to-know-about
+image: wp-content/metrics.webp
+imageresize: metrics.webp
+imagealt: A podcast studio
+categories:
+  - Brandon
+  - PRX
+  - professional
+excerpt: PRX’s Metrics platform empowers audio producers with download and audience data
+---

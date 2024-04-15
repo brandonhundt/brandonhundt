@@ -1,6 +1,7 @@
 ---
 id: 1252
 title: "It's down to four. A New Zealand panel unveils alternate flag options, to a largely negative reaction."
+redirect_to: https://theworld.org/stories/2015/09/01/29-four-panel-new-zealand-unveils-remaining-alternative-flags-negative-reaction
 date: 2015-09-09T09:39:07+00:00
 author: Brandon Hundt
 layout: post
