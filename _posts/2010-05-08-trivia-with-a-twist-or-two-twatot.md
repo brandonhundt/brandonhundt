@@ -8,7 +8,7 @@ guid: /?p=316
 permalink: /trivia-with-a-twist-or-two-twatot/
 categories:
   - Brandon
-  - Misc
+  - Games
 tags:
   - family fun
   - games

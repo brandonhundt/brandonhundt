@@ -11,7 +11,7 @@ imageresize: /uploads/2011/07/bump.jpg
 imagealt: Bump road sign
 categories:
   - Brandon
-  - Misc
+  - Games
 tags:
   - Bumps
   - Game Shows

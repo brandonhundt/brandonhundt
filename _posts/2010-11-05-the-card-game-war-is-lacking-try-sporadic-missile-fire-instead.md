@@ -11,7 +11,7 @@ imageresize: /uploads/2010/11/sporadicMissileFire.png
 imagealt: 9 of clubs
 categories:
   - Brandon
-  - Misc
+  - Games
 tags:
   - Euchre
   - games

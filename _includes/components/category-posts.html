@@ -1,0 +1,14 @@
+{% assign category = include.category %}
+
+{% if site.paginate %}
+  {% assign posts = paginator.posts | where: "categories", category %}
+{% else %}
+  {% assign posts = site.posts | where: "categories", category %}
+{% endif %}
+
+{%- if posts.size > 0 -%}
+<section class="home-container post-container" data-color="{{ include.color | default: 'blue' }}">
+  <h2>{{ category }} Posts</h2>
+  {%- include components/post-list.html posts=posts -%}
+</section>
+{%- endif -%}

@@ -14,6 +14,6 @@ imagealt: Podcast studio with microphone in foreground
 categories:
   - Brandon
   - PRX
-  - professional
+  - Portfolio
 excerpt: Understand your inventory with best in class inventory management.
 ---

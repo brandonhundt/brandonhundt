@@ -11,7 +11,7 @@ imageresize: /uploads/2014/12/dak-940x400.png
 imagealt: My truck after it was hit
 categories:
   - Brandon
-  - Misc
+  - Games
 ---
 At 12:01 am this Sunday morning we received a call informing us that my first vehicle — occasionally referred to as Dak — passed away from this life due to the immediate and unrecoverable injuries sustained after being plowed into by a Ford F150 while uninhabited and legally parked on a Minneapolis street. Dak was 15 years old. (Aside: No humans were hurt)<!--more-->
 

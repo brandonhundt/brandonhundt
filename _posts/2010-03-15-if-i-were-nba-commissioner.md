@@ -1,6 +1,6 @@
 ---
 id: 108
-title: 'If I were NBA Commissioner&#8230;'
+title: 'If I were NBA Commissioner'
 date: 2010-03-15T17:00:47+00:00
 author: Brandon Hundt
 excerpt: |

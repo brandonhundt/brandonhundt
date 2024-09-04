@@ -14,6 +14,6 @@ imagealt: Stylized screenshot of Dovetail's segmentation tool
 categories:
   - Brandon
   - PRX
-  - professional
+  - Portfolio
 excerpt: New features of PRX’s podcast publishing platform include audio segmentation, ad breaks, and a customizable embed player
 ---

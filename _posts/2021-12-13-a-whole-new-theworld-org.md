@@ -14,7 +14,7 @@ imagealt: Screenshots of The World's website over a blue background
 categories:
   - Brandon
   - PRX
-  - professional
+  - Portfolio
 excerpt: A privacy-focused point of view for public media digital models
 
 ---
