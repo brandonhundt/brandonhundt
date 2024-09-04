@@ -14,6 +14,6 @@ imagealt: A podcast studio
 categories:
   - Brandon
   - PRX
-  - professional
+  - Portfolio
 excerpt: PRX’s Metrics platform empowers audio producers with download and audience data
 ---

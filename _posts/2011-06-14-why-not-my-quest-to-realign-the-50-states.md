@@ -12,6 +12,7 @@ imagealt: Puzzle of US States
 categories:
   - Brandon
   - Geography
+  - Design
 tags:
   - geography
   - realignment

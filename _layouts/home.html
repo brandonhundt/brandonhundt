@@ -9,7 +9,7 @@
       <span class="material-icons" aria-label="hidden">location_on</span>
       <span class="text">Brandon Hundt</span>
     </h1>
-    <p class="serif">Product Designer</p>
+    <p class="serif">Civically-minded Product Designer, making the complex simple</p>
   </header>
 
   <section class="home-container design-container" data-color="red">
@@ -58,61 +58,11 @@
       </li>
     </ul>
   </section>
-  {% if site.paginate %}
-  {% assign posts = paginator.posts %}
-  {% else %}
-  {% assign posts = site.posts %}
-  {% endif %}
 
-  {%- if posts.size > 0 -%}
-  <section class="home-container post-container" data-color="blue">
-    <h2>Posts:</h2>
-    <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
-      <li>
-        {%- if post.imageresize -%}
-        <figure class="thumbnail-wrapper">
-          <div>
-          {% picture thumbnail "{{ post.imageresize }}" --alt {{ post.imagealt }} %}
-          </div>
-        </figure>
-        {%- endif -%}
-        <div class="post-content">
-          <h3>{{ post.title | escape }}</h3>
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-        </div>
-        <a class="post-link" href="{{ post.url | relative_url }}" aria-label="continue-reading"></a>
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    {% if site.paginate %}
-    <div class="pager">
-      <ul class="pagination">
-        {%- if paginator.previous_page %}
-        <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page
-            }}</a></li>
-        {%- else %}
-        <li>
-          <div class="pager-edge">•</div>
-        </li>
-        {%- endif %}
-        <li>
-          <div class="current-page">{{ paginator.page }}</div>
-        </li>
-        {%- if paginator.next_page %}
-        <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
-        {%- else %}
-        <li>
-          <div class="pager-edge">•</div>
-        </li>
-        {%- endif %}
-      </ul>
-    </div>
-    {%- endif %}
-  </section>
-  {%- endif -%}
+  {% include components/category-posts.html category="Portfolio" color="blue" %}
+  {% include components/category-posts.html category="Geography" color="yellow" %}
+  {% include components/category-posts.html category="Games" color="green" %}
+  {% include components/category-posts.html category="Sports" color="red" %}
 
   <div class="bg-body"></div>
   {%- include footer.html -%}

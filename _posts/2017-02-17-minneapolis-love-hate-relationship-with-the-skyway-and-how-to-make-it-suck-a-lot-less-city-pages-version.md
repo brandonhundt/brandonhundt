@@ -15,6 +15,7 @@ categories:
   - Brandon
   - Design
   - Geography
+  - Portfolio
 ---
 Minneapolis has 11 miles' worth of skyways, <a href="https://en.wikipedia.org/wiki/Minneapolis_Skyway_System" rel="external" rel="noopener">according to Wikipedia</a>, making it the largest skyway system in the world.
 

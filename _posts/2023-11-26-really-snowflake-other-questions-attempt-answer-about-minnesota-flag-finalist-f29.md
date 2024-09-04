@@ -14,6 +14,7 @@ categories:
   - Brandon
   - Design
   - Geography
+  - Portfolio
 tags:
   - flags
 excerpt: Since learning that my submission for the State Flag of Minnesota is one of six finalists, I've been in a dazed state of nervous anticipation. This post helped me.

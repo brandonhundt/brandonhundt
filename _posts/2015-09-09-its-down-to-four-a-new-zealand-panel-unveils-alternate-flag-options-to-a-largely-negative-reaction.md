@@ -14,6 +14,7 @@ categories:
   - Brandon
   - Design
   - Geography
+  - Portfolio
 tags:
   - flags
   - New Zealand
