@@ -24,7 +24,7 @@ Since learning that my submission for the State Flag of Minnesota is one of six 
 
 If you have seen any of the conversation on Minnesota social or local media about the finalist flags you will see Minnesotans and vexillologists have A LOT OF THOUGHTS ABOUT THE FLAG! I view all feedback like this as a gift. Being a designer means knowing when to make changes based on feedback and when not to. There are also trolls. Ignore them.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">WOW! I&#39;m simply thrilled that my flag received the most votes from the State Emblems Commission this evening. <br><br>I am very eager to work with the Commission to address their feedback and make the flag even better. Onwards to a <a href="https://twitter.com/hashtag/newMNflag?src=hash&amp;ref_src=twsrc%5Etfw">#newMNflag</a>! <a href="https://twitter.com/RepFreiberg?ref_src=twsrc%5Etfw">@RepFreiberg</a> <a href="https://t.co/Fe95jdXK9I">https://t.co/Fe95jdXK9I</a></p>&mdash; Brandon Hundt (@BrandonHundt2) <a href="https://twitter.com/BrandonHundt2/status/1727136819764977827?ref_src=twsrc%5Etfw">November 22, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{% picture tweet-1.png --alt Image of an archived Tweet that says WOW! I am simply thrilled that my flag received the most votes from the State Emblems Commission this evening. I am very eager to work with the Commission to address their feedback and make the flag even better. Onwards to a #newMNflag! @RepFreiberg %}
 
 The firehose of feedback can be grouped into common themes. I do my best to lightheartedly answer common questions. This is a resource for you. If you read it all bless you.
 
@@ -54,7 +54,10 @@ It is not. Flags should be simple. In fact, the leading vexillologist (a person 
 
 Also, please consider other flags. If you find this flag boring, you might find all flags boring! Fashion is a choice. Ukraine's flag 🇺🇦 is so simple, yet is an enduring international symbol of the independence of their people.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">For those who think the MN final six flag designs are boring, consider: <br><br>1. 🇯🇵🇱🇨🇧🇷🇨🇭🇧🇩🇨🇾🇭🇰🇰🇬🇸🇴🇲🇦 (center on solid field) <br>2. 🇺🇦🇫🇷🇯🇲🇮🇪🇩🇪🇮🇹🇵🇸🇿🇦🇹🇿 (rectangles, triangles, lines, and colors, you know most of these!) <br>3. 🇨🇦🇧🇧🇦🇷🇱🇧🇨🇳🇮🇳🇰🇪(More flags you may know) <br><br>Keep it simple!</p>&mdash; Brandon Hundt (@BrandonHundt2) <a href="https://twitter.com/BrandonHundt2/status/1727440041495130279?ref_src=twsrc%5Etfw">November 22, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet">
+  <p>For those who think the MN final six flag designs are boring, consider: <br><br>1. 🇯🇵🇱🇨🇧🇷🇨🇭🇧🇩🇨🇾🇭🇰🇰🇬🇸🇴🇲🇦 (center on solid field) <br>2. 🇺🇦🇫🇷🇯🇲🇮🇪🇩🇪🇮🇹🇵🇸🇿🇦🇹🇿 (rectangles, triangles, lines, and colors, you know most of these!) <br>3. 🇨🇦🇧🇧🇦🇷🇱🇧🇨🇳🇮🇳🇰🇪(More flags you may know) <br><br>Keep it simple!&mdash; Brandon Hundt (@BrandonHundt2) November 22, 2023</p>
+  <p><em>NOTE: This was a Tweet, I am no longer on Twitter</em></p>
+</blockquote>
 
 ## <a name="combinations"></a>WE SHOULD COMBINE IT WITH ANOTHER FLAG!!
 See above. This emblem doesn't work as a [canton](https://en.wikipedia.org/wiki/Canton_(flag)) &#151; it gets very lost up in the corner. Combining adds too many colors. It loses emphasis with an unnecessary [swallowtail](https://dbpedia.org/page/Swallowtail_(flag)). Stripes are unnecessary for this design and they neuter the impact of the emblem. I've tried it all. TRUST ME on this.
@@ -81,7 +84,10 @@ That said, ahem, I get a lot of comments about the shade of blue. Over the cours
 
 Green is a hard color to pair with blue. Adding green for green's sake needlessly complicates the flag. But I'm very much onboard with variants like the Wild and North Stars examples:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">MN sportsball team colors applied to flag design <a href="https://twitter.com/hashtag/F29?src=hash&amp;ref_src=twsrc%5Etfw">#F29</a> <a href="https://t.co/SkPVVINfT7">pic.twitter.com/SkPVVINfT7</a></p>&mdash; Brandon Hundt (@BrandonHundt2) <a href="https://twitter.com/BrandonHundt2/status/1724091489888653813?ref_src=twsrc%5Etfw">November 13, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet">
+  <p>MN sportsball team colors applied to flag design <a href="https://twitter.com/hashtag/F29?src=hash&amp;ref_src=twsrc%5Etfw">#F29</a> <a href="https://t.co/SkPVVINfT7">pic.twitter.com/SkPVVINfT7</a>&mdash; Brandon Hundt (@BrandonHundt2) November 13, 2023</p>
+  <p><em>NOTE: This was a Tweet, I am no longer on Twitter</em></p>
+</blockquote>
 
 ## FINALLY, A CONCLUSION!
 To conclude, I've been receiving so many positive and encouraging messages about this flag &#151; it has been overwhelming. When I first made this flag, I didn't think there was any real possibility it would be adopted. Over the last four days, it has felt more real.
