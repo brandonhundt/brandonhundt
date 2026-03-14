@@ -3,6 +3,7 @@ GEM
   specs:
     addressable (2.8.6)
       public_suffix (>= 2.0.2, < 6.0)
+    base64 (0.3.0)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
     csv (3.3.5)
@@ -90,6 +91,7 @@ PLATFORMS
   arm64-darwin-24
 
 DEPENDENCIES
+  base64
   csv
   jekyll (~> 4.3.2)
   jekyll-feed (~> 0.12)
