@@ -7,8 +7,8 @@ layout: post
 header-color: blue
 color: yellow
 permalink: /2021-02-28-new-minneapolis-flag-after-george-floyd/
-image: https://brandonhundt.com/assets/proposed-mpls-flag-waving.png
-imageresize: uploads/2021/proposed-mpls-flag-waving.png
+image: assets/mpls-flag-waving.png
+imageresize: mpls-flag-waving.png
 imagealt: Proposed new flag for Minneapolis by Brandon Hundt
 categories:
   - Brandon
@@ -53,7 +53,7 @@ In West Africa there’s the [Sankofa bird](https://cola.siu.edu/africanastudies
 
 As Minneapolis started burgeoning as a milling city along St. Anthony Falls, let’s not forget on land stolen from the Dakota, it would have been common to see many water wheels churning in the Mississippi River. The waterwheel can take on a similar symbolism to the Sankofa bird - in one full rotation the wheel needs to go backwards as well as forward. We should always remember our past as we move forward.
 
-{% picture uploads/2021/proposed-mpls-flag-waving.png --alt Proposed new flag for Minneapolis %}
+{% picture mpls-flag-waving.png --alt Proposed new flag for Minneapolis %}
 
 I hope to have designed a flag that encompases these features.
 
@@ -77,7 +77,7 @@ The remaining branches represent the four quadrants of the city (North, South, N
 
 ## The flag:
 
-{% picture uploads/2021/mpls-concept-after-floyd.png --alt Proposed new flag for Minneapolis %}
+{% picture mpls-flag-proposed.jpg --alt Proposed new flag for Minneapolis %}
 ---
 
 While I hope you like the flag or at least appreciate a few of the thoughts behind it, I’m not naive enough to think that this would just become the flag of Minneapolis with a single Council resolution. Ha! It doesn’t work like that. [Milwaukee](https://urbanmilwaukee.com/2019/02/14/city-hall-council-will-now-make-flag-decision/), [Rochester](https://www.rochesterflag.com/), and countless other towns have shown this.
