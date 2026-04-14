@@ -1,6 +1,8 @@
 ---
 id: 00011
 title: "PRX Unveils Dovetail’s Improved Podcast Publishing Interface"
+teaser: "I redesigned Dovetail's podcast publishing workflow to be more intuitive while leveraging the design system established in Dovetail's Inventory application."
+order: 2
 redirect_to: https://medium.com/prxofficial/prx-unveils-dovetails-improved-podcast-publishing-interface-56e62039427d
 date: 2024-05-02T00:00:00-06:00
 author: Brandon Hundt

@@ -1,5 +1,8 @@
+{% assign ordered_posts = posts | where_exp: "post", "post.order" | sort: "order" %}
+{% assign unordered_posts = posts | where_exp: "post", "post.order == nil" | sort: "date" | reverse %}
+{% assign sorted_posts = ordered_posts | concat: unordered_posts %}
 <ul class="portfolio-list">
-  {%- for post in posts -%}
+  {%- for post in sorted_posts -%}
   <li>
     {%- if post.imageresize -%}
     <figure>
@@ -8,6 +11,9 @@
     {%- endif -%}
     <div class="portfolio-content">
       <h3>{{ post.title | escape }}</h3>
+      {%- if post.teaser -%}
+        <p>{{ post.teaser | escape }}</p>
+      {%- endif -%}
     </div>
     <a class="post-link" href="{{ post.url | relative_url }}" aria-label="continue-reading"></a>
   </li>

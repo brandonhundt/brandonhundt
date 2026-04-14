@@ -1,6 +1,7 @@
 ---
 id: 1274
 title: "10 Minnesota city flags, ranked from worst to absolute worst (and one that's alright)"
+teaser: "An article I was commissioned to write for City Pages, leading to me entering an entry into the Rochester, MN flag contest."
 date: 2017-05-15T23:09:09+00:00
 author: Brandon Hundt
 layout: post
