@@ -1,7 +1,7 @@
 ---
 id: 00013
 title: "Dovetail from PRX"
-teaser: "I lead the product direction and design of Dovetail from PRX, an enterprise level podcast publishing platform, including the Dovetail marketing website." 
+teaser: "I led the product direction and design of Dovetail from PRX, an enterprise-level podcast publishing platform, including the Dovetail marketing website."
 order: 1
 redirect_to: https://dovetail.prx.org
 date: 2024-01-10-T00:00:00-06:00

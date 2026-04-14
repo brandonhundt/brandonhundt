@@ -1,7 +1,7 @@
 ---
 id: 00112
 title: "Seal Scroller Interactive Story"
-teaser: "Led a human centered design process to develop interactive ideas based on Carolyn Beeler's reporting trip for The World to Antarctica. I designed this interactive that focuses on seals as their experiences as they dive deeper in the cold ocean."
+teaser: "Led a human-centered design process to develop interactive ideas based on Carolyn Beeler's reporting trip for The World to Antarctica. I designed this interactive focused on seals and their experiences as they dive deeper into the cold ocean."
 order: 12
 redirect_to: https://interactive.pri.org/2019/05/antarctica/seal-climate-change.html
 date: 2019-06-03T00:00:00-06:00

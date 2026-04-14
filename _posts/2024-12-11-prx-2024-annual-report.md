@@ -1,7 +1,7 @@
 ---
 id: 00012
 title: "PRX Annual Report 2024"
-teaser: "Led design and development on the 2024 edition of the Annual Report. It focuses on photography, color, and typography to tell PRX's story for the year. "
+teaser: "Led design and development on the 2024 edition of the Annual Report. It focuses on photography, color, and typography to tell PRX's story for the year."
 order: 8
 redirect_to: https://2024.prx.org
 date: 2024-12-11-T00:00:00-06:00
