@@ -1,6 +1,8 @@
 ---
 id: 000125
 title: "PRX Annual Report 2023"
+teaser: "The PRX Resource Development team wanted an experience around the theme of 'Choose your own Adventure'. I led a design process to flesh out the concept and designed style tiles based on the theme before development."
+order: 10
 redirect_to: https://2023.prx.org
 date: 2023-11-02-T00:00:00-06:00
 author: Brandon Hundt

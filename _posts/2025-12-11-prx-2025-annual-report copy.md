@@ -1,6 +1,8 @@
 ---
 id: 00012
 title: "PRX Annual Report 2025"
+teaser: "A single-page experience leveraging bold colors and inline audio to tell the story of PRX's fiscal year. I designed the report and did the bulk of the development work."
+order: 8
 redirect_to: https://2025.prx.org
 date: 2025-12-11-T00:00:00-06:00
 author: Brandon Hundt

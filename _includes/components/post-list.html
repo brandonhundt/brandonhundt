@@ -1,43 +1,27 @@
-<ul class="post-list">
-  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-  {%- for post in posts -%}
+{% if include.sort_by_date %}
+  {% assign sorted_posts = posts | sort: "date" | reverse %}
+{% else %}
+  {% assign ordered_posts = posts | where_exp: "post", "post.order" | sort: "order" %}
+  {% assign unordered_posts = posts | where_exp: "post", "post.order == nil" | sort: "date" | reverse %}
+  {% assign sorted_posts = ordered_posts | concat: unordered_posts %}
+{% endif %}
+<ul class="portfolio-list">
+  {%- for post in sorted_posts -%}
   <li>
     {%- if post.imageresize -%}
-    <figure class="thumbnail-wrapper">
-      <div>
+    <figure>
       {% picture thumbnail "{{ post.imageresize }}" --alt {{ post.imagealt }} %}
-      </div>
     </figure>
     {%- endif -%}
-    <div class="post-content">
+    <div class="portfolio-content">
       <h3>{{ post.title | escape }}</h3>
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      {%- if include.show_excerpt == true -%}
+        <p>{{ post.excerpt | strip_html }}</p>
+      {%- elsif include.show_excerpt != false and post.teaser -%}
+        <p>{{ post.teaser | escape }}</p>
+      {%- endif -%}
     </div>
     <a class="post-link" href="{{ post.url | relative_url }}" aria-label="continue-reading"></a>
   </li>
   {%- endfor -%}
 </ul>
-
-{% if site.paginate %}
-<div class="pager">
-  <ul class="pagination">
-    {%- if paginator.previous_page %}
-    <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
-    {%- else %}
-    <li>
-      <div class="pager-edge">•</div>
-    </li>
-    {%- endif %}
-    <li>
-      <div class="current-page">{{ paginator.page }}</div>
-    </li>
-    {%- if paginator.next_page %}
-    <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
-    {%- else %}
-    <li>
-      <div class="pager-edge">•</div>
-    </li>
-    {%- endif %}
-  </ul>
-</div>
-{%- endif %}

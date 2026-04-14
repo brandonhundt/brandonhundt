@@ -1,6 +1,7 @@
 ---
 id: 1320
 title: "Minneapolis' love/hate relationship with the skyway, and how to make it suck a lot less (City Pages Version)"
+teaser: "The version City Pages, RIP, posted of my Minneapolis skyway map and signage concepts."
 date: 2017-02-17T12:22:59+00:00
 author: Brandon Hundt
 layout: post

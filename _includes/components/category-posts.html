@@ -9,6 +9,6 @@
 {%- if posts.size > 0 -%}
 <section class="home-container post-container" data-color="{{ include.color | default: 'blue' }}">
   <h2>{{ category }} Posts</h2>
-  {%- include components/post-list.html posts=posts -%}
+  {%- include components/post-list.html posts=posts sort_by_date=include.sort_by_date show_excerpt=include.show_excerpt -%}
 </section>
 {%- endif -%}

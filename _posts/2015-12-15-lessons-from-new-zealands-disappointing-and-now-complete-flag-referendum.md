@@ -1,6 +1,7 @@
 ---
 id: 1255
 title: Lessons from New Zealand’s disappointing (and now complete) flag referendum
+teaser: "The final installment in a series I wrote for PRI on the New Zealand flag referendum."
 redirect_to: https://theworld.org/stories/2015/12/12/flag-won-didn-t-four-observations-new-zealand-s-disappointing-flag-referendum
 date: 2015-12-15T09:41:58+00:00
 author: Brandon Hundt

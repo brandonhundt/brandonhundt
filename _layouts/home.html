@@ -16,57 +16,67 @@
 
   <section class="home-container design-container" data-color="red">
     <h2>Civic-Minded Designs</h2>
-    <ul class="post-list">
+    <ul class="portfolio-list">
       <li>
-        <figure class="thumbnail-wrapper">
-          <div>{% picture thumbnail uploads/2017/02/mpls-skyway-map-v1-940x400.jpg --alt Proposed skyway map for Minneapolis MN %}</div>
+        <figure>
+          {% picture thumbnail il-gallery.jpg center --alt Gallery of revisions to IL flag concepts %}
         </figure>
-        <div class="post-content">
-          <h3>Minneapolis Skyway Map, latest version</h3>
+        <div class="portfolio-content">
+          <h3>Illinois Flag Commission Consultation</h3>
+          <p>I was part of a trio of advisors from NAVA to the Illinois Legislature in their attempt to change the Illinois flag. See Page 45 of report for contributions. </p>
         </div>
-        <a class="post-link" href="/wp-content/uploads/2020/01/mpls-skyway-map-v1.4.pdf" aria-label="View Map in PDF"></a>
+        <a class="post-link" href="https://www.ilga.gov/documents/reports/ReportsSubmitted/5716RSGAEmail12373RSGAAttachIFC%20Final%20Report.pdf" aria-label="continue reading"></a>
       </li>
       <li>
-        <figure class="thumbnail-wrapper">
+        <figure>
           <div>{% picture thumbnail uploads/2015/10/norse-star.png --alt Proposed flag design for MN %}
           </div>
         </figure>
-        <div class="post-content">
+        <div class="portfolio-content">
           <h3>Minnesota State Flag</h3>
+          <p>My concept for a new flag of Minnesota was selected as a finalist by the State Emblems Redesign Commission. Here I attempt to answer a lot of questions about the flag that became affectionately known as Starflake.</p>
         </div>
         <a class="post-link" href="/2023-11-26-really-snowflake-other-questions-attempt-answer-about-minnesota-flag-finalist-f29/" aria-label="continue reading"></a>
       </li>
       <li>
-        <figure class="thumbnail-wrapper">
+        <figure>
+          {% picture thumbnail uploads/2017/02/mpls-skyway-map-v1-940x400.jpg --alt Proposed skyway map for Minneapolis MN %}
+        </figure>
+        <div class="portfolio-content">
+          <h3>Minneapolis Skyway Map, latest version</h3>
+          <p>The latest version of my Massimo Vignelli inspired Skyway map of Minneapolis.</p>
+        </div>
+        <a class="post-link" href="/wp-content/uploads/2020/01/mpls-skyway-map-v1.4.pdf" aria-label="View Map in PDF"></a>
+      </li>
+      <li>
+        <figure>
           <div>
             {% picture thumbnail uploads/2021/VQxIibJg.jpg --alt "Proposed flag design for Rochester, MN" %}
           </div>
         </figure>
-        <div class="post-content">
+        <div class="portfolio-content">
           <h3>The flag that almost won, Rochester, MN City Flag</h3>
+          <p>This flag won round 1 of the Rochester flag contest, a contest I entered after panning their current flag in City Pages.</p>
         </div>
         <a class="post-link" href="/assets/VQxIibJg.jpg" aria-label="View File"></a>
       </li>
       <li>
-        <figure class="thumbnail-wrapper">
+        <figure>
           <div>
             {% picture thumbnail uploads/2021/mpls-concept-after-floyd.png center --alt Minneapolis City Flag concept after George Floyd %}
           </div>
         </figure>
-        <div class="post-content">
+        <div class="portfolio-content">
           <h3>Minneapolis City Flag concept after George Floyd</h3>
+          <p>This is my concept for a new flag for the city of Minneapolis, and some of my most meaningful work.</p>
         </div>
         <a class="post-link" href="/2021-02-28-new-minneapolis-flag-after-george-floyd" aria-label="continue reading"></a>
       </li>
+
     </ul>
   </section>
-
-  {% include components/category-posts.html category="Geography" color="yellow" %}
-  {% include components/category-posts.html category="Games" color="green" %}
-  {% include components/category-posts.html category="Sports" color="red" %}
 
   <div class="bg-body"></div>
   {%- include footer.html -%}
   
-
 </html>
