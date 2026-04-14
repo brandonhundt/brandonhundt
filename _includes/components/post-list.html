@@ -1,6 +1,10 @@
-{% assign ordered_posts = posts | where_exp: "post", "post.order" | sort: "order" %}
-{% assign unordered_posts = posts | where_exp: "post", "post.order == nil" | sort: "date" | reverse %}
-{% assign sorted_posts = ordered_posts | concat: unordered_posts %}
+{% if include.sort_by_date %}
+  {% assign sorted_posts = posts | sort: "date" | reverse %}
+{% else %}
+  {% assign ordered_posts = posts | where_exp: "post", "post.order" | sort: "order" %}
+  {% assign unordered_posts = posts | where_exp: "post", "post.order == nil" | sort: "date" | reverse %}
+  {% assign sorted_posts = ordered_posts | concat: unordered_posts %}
+{% endif %}
 <ul class="portfolio-list">
   {%- for post in sorted_posts -%}
   <li>
@@ -11,7 +15,9 @@
     {%- endif -%}
     <div class="portfolio-content">
       <h3>{{ post.title | escape }}</h3>
-      {%- if post.teaser -%}
+      {%- if include.show_excerpt == true -%}
+        <p>{{ post.excerpt | strip_html }}</p>
+      {%- elsif include.show_excerpt != false and post.teaser -%}
         <p>{{ post.teaser | escape }}</p>
       {%- endif -%}
     </div>
